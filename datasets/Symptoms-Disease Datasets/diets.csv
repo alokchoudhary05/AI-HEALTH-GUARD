@@ -1,0 +1,291 @@
+Disease,Diet_1,Diet_2,Diet_3,Diet_4,Diet_5
+Fungal infection,Antifungal Diet,Probiotics,Garlic,Coconut oil,Turmeric
+Allergy,Elimination Diet,Omega-3-rich foods,Vitamin C-rich foods,Quercetin-rich foods,Probiotics
+GERD,Low-Acid Diet,Fiber-rich foods,Ginger,Licorice,Aloe vera juice
+Chronic cholestasis,Low-Fat Diet,High-Fiber Diet,Lean proteins,Whole grains,Fresh fruits and vegetables
+Drug Reaction,Antihistamine Diet,Omega-3-rich foods,Vitamin C-rich foods,Quercetin-rich foods,Probiotics
+Peptic ulcer disease,Low-Acid Diet,Fiber-rich foods,Ginger,Licorice,Aloe vera juice
+AIDS,Balanced Diet,Protein-rich foods,Fruits and vegetables,Whole grains,Healthy fats
+Diabetes,Low-Glycemic Diet,Fiber-rich foods,Lean proteins,Healthy fats,Low-fat dairy
+Gastroenteritis,Bland Diet,Bananas,Rice,Applesauce,Toast
+Bronchial Asthma,Anti-Inflammatory Diet,Omega-3-rich foods,Fruits and vegetables,Whole grains,Lean proteins
+Hypertension,DASH Diet,Low-sodium foods,Fruits and vegetables,Whole grains,Lean proteins
+Migraine,Migraine Diet,Low-Tyramine Diet,Caffeine withdrawal,Hydration,Magnesium-rich foods
+Cervical spondylosis,Arthritis Diet,Anti-Inflammatory Diet,Omega-3-rich foods,Fruits and vegetables,Whole grains
+Paralysis (brain hemorrhage),Heart-Healthy Diet,Low-sodium foods,Fruits and vegetables,Whole grains,Lean proteins
+Jaundice,Liver-Healthy Diet,Low-fat Diet,Fruits and vegetables,Whole grains,Lean proteins
+Malaria,Malaria Diet,Hydration,High-Calorie Diet,Soft and bland foods,Oral rehydration solutions
+Chicken pox,Chicken Pox Diet,High-Calorie Diet,Soft and bland foods,Hydration,Protein-rich foods
+Dengue,Dengue Diet,Hydration,High-Calorie Diet,Soft and bland foods,Protein-rich foods
+Typhoid,Typhoid Diet,High-Calorie Diet,Soft and bland foods,Hydration,Protein-rich foods
+hepatitis A,Hepatitis A Diet,High-Calorie Diet,Soft and bland foods,Hydration,Protein-rich foods
+Hepatitis B,Hepatitis B Diet,High-Calorie Diet,Soft and bland foods,Hydration,Protein-rich foods
+Hepatitis C,Hepatitis C Diet,High-Calorie Diet,Soft and bland foods,Hydration,Protein-rich foods
+Hepatitis D,Hepatitis D Diet,High-Calorie Diet,Soft and bland foods,Hydration,Protein-rich foods
+Hepatitis E,Hepatitis E Diet,High-Calorie Diet,Soft and bland foods,Hydration,Protein-rich foods
+Alcoholic hepatitis,Liver-Healthy Diet,Low-fat Diet,Fruits and vegetables,Whole grains,Lean proteins
+Tuberculosis,TB Diet,High-Calorie Diet,Soft and bland foods,Hydration,Protein-rich foods
+Common Cold,Cold Diet,Hydration,Warm fluids,Rest,Honey and lemon tea
+Pneumonia,Pneumonia Diet,High-Calorie Diet,Soft and bland foods,Hydration,Protein-rich foods
+Dimorphic hemmorhoids(piles),Hemorrhoids Diet,High-Fiber Diet,Hydration,Warm baths,Stool softeners
+Heart attack,Heart-Healthy Diet,Low-sodium foods,Fruits and vegetables,Whole grains,Lean proteins
+Varicose veins,Varicose Veins Diet,High-Fiber Diet,Fruits and vegetables,Whole grains,Low-sodium foods
+Hypothyroidism,Hypothyroidism Diet,Iodine-rich foods,Selenium-rich foods,Fruits and vegetables,Whole grains
+Hyperthyroidism,Hyperthyroidism Diet,Low-Iodine Diet,Calcium-rich foods,Selenium-rich foods,Fruits and vegetables
+Hypoglycemia,Hypoglycemia Diet,Complex carbohydrates,Protein-rich snacks,Fiber-rich foods,Healthy fats
+Osteoarthristis,Arthritis Diet,Anti-Inflammatory Diet,Omega-3-rich foods,Fruits and vegetables,Whole grains
+Arthritis,Arthritis Diet,Anti-Inflammatory Diet,Omega-3-rich foods,Fruits and vegetables,Whole grains
+(vertigo) Paroymsal Positional Vertigo,Vertigo Diet,Low-Salt Diet,Hydration,Ginger tea,Vitamin D-rich foods
+Acne,Acne Diet,Low-Glycemic Diet,Hydration,Fruits and vegetables,Probiotics
+Urinary tract infection,UTI Diet,Hydration,Cranberry juice,Probiotics,Vitamin C-rich foods
+Psoriasis,Psoriasis Diet,Anti-Inflammatory Diet,Omega-3-rich foods,Fruits and vegetables,Whole grains
+Impetigo,Impetigo Diet,Antibiotic treatment,Fruits and vegetables,Hydration,Protein-rich foods
+Tularemia,Antibiotic therapy,Supportive care,,,
+Stroke,DASH Diet,Low-sodium Diet,Healthy fats,Fruits and vegetables,Whole grains
+Lead poisoning,Nutrient-rich diet,Calcium-rich foods,Iron-rich foods,Vitamin C,Zinc
+Sickle-cell anemia,Hydration,High-protein diet,Folic acid supplements,Iron-rich foods,Vitamin supplements
+Myocardial Infarction (Heart Attack),Mediterranean Diet,Low-sodium Diet,Heart-healthy fats,Fruits and vegetables,Lean proteins
+Rabies,Supportive care,Preventive measures,,,
+Warkany syndrome,Balanced diet,Nutritional supplements,High-calorie foods,Regular monitoring,
+Celiac disease,Gluten-free diet,Whole grains,Fruits and vegetables,Lean proteins,Dairy alternatives
+Abscess,Antibiotics,High-protein diet,Vitamin-rich foods,Hydration,Rest
+Perennial Allergic Conjunctivitis,Anti-inflammatory diet,Omega-3 fatty acids,Vitamin A,Vitamin C,Zinc
+Lyme disease,Antibiotics,Anti-inflammatory diet,Omega-3 fatty acids,Probiotics,Hydration
+Japanese Encephalitis,Preventive measures,Supportive care,,,
+Hepatitis A,Hydration,Low-fat diet,Fruits and vegetables,Lean proteins,Avoid alcohol
+Bronchitis,Hydration,Balanced diet,Fruits and vegetables,Warm fluids,Rest
+Influenza,Hydration,Balanced diet,Rest,Warm fluids,Fruits and vegetables
+Multiple sclerosis,Low-fat, high-fiber diet,Omega-3 fatty acids,Fruits and vegetables,Lean proteins
+Anthrax,Antibiotics,Supportive care,Vaccine (in some cases),,
+Brain Tumour,Balanced diet,Hydration,Nutritional supplements,Small, frequent meals
+Coronavirus disease 2019 (COVID-19),Balanced diet,Hydration,Rest,Fruits and vegetables,Vitamin supplements
+Lupus erythematosus,Anti-inflammatory diet,Omega-3 fatty acids,Fruits and vegetables,Lean proteins,Low-fat dairy
+Carpal Tunnel Syndrome,Anti-inflammatory diet,Omega-3 fatty acids,Vitamin B6,Magnesium,Whole grains
+Lymphoma,Balanced diet,Hydration,Nutritional supplements,High-calorie foods,Small
+Insomnia,Sleep-promoting diet,Limit caffeine and alcohol,Complex carbohydrates,Lean proteins,Fruits and vegetables
+Goitre,Iodine-rich diet,Avoid goitrogens,Fruits and vegetables,Lean proteins,Whole grains
+Polycystic ovary syndrome (PCOS),Low glycemic index diet,High-fiber foods,Lean proteins,Healthy fats,Fruits and vegetables
+Rubella,Rest,Hydration,Balanced diet,Fruits and vegetables,Vitamin supplements
+Myopia,Eye-healthy diet,Omega-3 fatty acids,Vitamin A,Vitamin C,Zinc
+Postpartum depression/Perinatal depression,Balanced diet,Omega-3 fatty acids,Lean proteins,Complex carbohydrates,Fruits and vegetables
+Vitamin B12 Deficiency,Vitamin B12-rich foods,Lean proteins,Dairy products,Fortified cereals,Supplements if necessary
+Heat-Related Illnesses and Heat waves,Hydration,Electrolyte-rich fluids,Cool foods (e.g., salads),Limit caffeine and alcohol
+Melanoma,Balanced diet,Sun protection measures,Vitamin D,Fruits and vegetables,Avoid excessive alcohol
+Scrapie,Balanced diet,High-quality protein,Whole grains,Fruits and vegetables,Avoid processed foods
+Autism,Balanced diet,High-fiber foods,Lean proteins,Fruits and vegetables,Whole grains
+Sepsis,High-protein diet,Hydration,Antibiotics,Vitamin C,Zinc
+Mouth Breathing,Hydration,Nasal breathing exercises,Saline nasal sprays,Fruits and vegetables,Whole grains
+Repetitive strain injury,Ergonomic workspace setup,Stretching exercises,Hydration,Anti-inflammatory foods,Lean proteins
+Iron Deficiency Anemia,Iron-rich foods,Vitamin C,Lean meats,Legumes,Nuts and seeds
+Porphyria,Low-iron diet,Sun protection measures,Hydration,Carbohydrate-rich foods,Avoid alcohol
+Bubonic plague,Antibiotics,Supportive care,Isolation measures,Hydration,Rest
+Strep throat,Hydration,Soft foods,Rest,Antibiotics,Warm fluids
+Ebola,Supportive care,Hydration,Isolation measures,Balanced diet,Vitamin supplements
+Tonsillitis,Hydration,Soft foods,Rest,Over-the-counter pain relief,Balanced diet
+Colitis,Low-residue diet,Hydration,Probiotics,Fiber-rich foods,Lean proteins
+Oral Cancer,Soft foods,Hydration,High-calorie, nutrient-dense foods,Avoid tobacco and alcohol
+Leptospirosis,Hydration,Antibiotics,Rest,Supportive care,Balanced diet
+Urticaria,Avoid allergens,Antihistamines,Hydration,Avoid tight clothing,Avoid stress
+Yellow Fever,Supportive care,Hydration,Rest,Prevent mosquito bites,Balanced diet
+Rheumatic fever,Antibiotics,Supportive care,Rest,Hydration,Heart-healthy diet
+Alcohol Abuse and Alcoholism,Behavioral therapy,Nutritional counseling,Support groups,Hydration,Balanced diet
+Bleeding Gums,Soft toothbrush,Regular dental visits,Hydration,High-fiber foods,Vitamin C
+Thalassaemia,Iron chelation therapy,Folic acid supplements,Calcium-rich foods,Vitamin supplements,Balanced diet
+Glaucoma,Low-sodium diet,Hydration,Regular eye exams,Avoid tobacco,Physical activity
+Leukemia,Hydration,High-calorie, nutrient-dense foods,Antibiotics,Blood transfusions
+Rift Valley fever,Supportive care,Hydration,Rest,Prevent mosquito bites,Balanced diet
+Neonatal Respiratory Disease Syndrome(NRDS),Supportive care,Hydration,Respiratory support,Monitoring,Balanced nutrition
+Breast Cancer / Carcinoma,Balanced diet,Hydration,Regular exercise,Limit alcohol,Limit processed foods
+Legionellosis,Antibiotics,Hydration,Supportive care,Rest,Balanced diet
+Hypothyroid,Levothyroxine medication,Iodine-rich foods,Hydration,Balanced diet,Regular exercise
+Botulism,Supportive care,Hydration,Soft foods,Avoid honey and corn syrup,Respiratory support
+Eczema,Avoid triggers,Hydration,Emollients,Topical steroids,Antihistamines
+Chickenpox,Comfort measures,Hydration,Antihistamines,Calamine lotion,Avoid scratching
+Interstitial cystitis,Avoid bladder irritants,Hydration,Anti-inflammatory diet,Physical therapy,Stress management
+Diabetic Retinopathy,Blood sugar control,Healthy fats,Antioxidants,Regular eye exams,Balanced diet
+Chlamydia,Antibiotics,Partner treatment,Hydration,Rest,Avoid sexual contact
+Endometriosis,Pain management,Healthy fats,Fruits and vegetables,Whole grains,Lean proteins
+Asbestos-related diseases,Smoking cessation,Regular check-ups,Balanced diet,Respiratory protection,Hydration
+Ear infection,Hydration,Pain relief,Rest,Ear drops,Avoid smoke and pollutants
+Trachoma,Hygiene measures,Antibiotics,Face washing,Environmental improvements,Health education
+papilloedema,Treatment of underlying cause,Hydration,Monitoring,Regular eye exams,Balanced diet
+Cerebral palsy,Physical therapy,Occupational therapy,Speech therapy,Hydration,High-calorie foods
+Rickets,Vitamin D supplements,Calcium-rich foods,Phosphorus-rich foods,Sun exposure,Whole grains
+Pelvic inflammatory disease,Antibiotics,Partner treatment,Rest,Pain relief,Balanced diet
+Necrotizing Fasciitis,Surgical debridement,Intravenous antibiotics,Supportive care,Hydration,Nutritional support
+Mumps,Supportive care,Hydration,Rest,Pain relief,Soft foods
+Progeria,Supportive care,Nutritional support,Physical therapy,Hydration,Balanced diet
+Mononucleosis,Rest,Hydration,Pain relief,Antibiotics,Soft foods
+Carbon monoxide poisoning,Remove from exposure,High-flow oxygen therapy,Supportive care,Hydration,Rest
+Zika virus disease,Supportive care,Hydration,Prevent mosquito bites,Rest,Balanced diet
+Colorectal Cancer,Surgery,Chemotherapy,Radiation therapy,Balanced diet,Hydration
+Cancer,Surgery,Chemotherapy,Radiation therapy,Balanced diet,Hydration
+Scurvy,Vitamin C supplementation,Fruits and vegetables,Hydration,Rest,Balanced diet
+(vertigo) Paroymsal Positional Vertigo,Epley maneuver,Hydration,Avoid sudden head movements,Rest,Balanced diet
+Osteomyelitis,Antibiotics,Surgical debridement,Hydration,Rest,Balanced diet
+Asthma,Avoid triggers,Inhaled medications,Hydration,Regular exercise,Balanced diet
+Chorea,Medications,Physical therapy,Speech therapy,Occupational therapy,Hydration
+Peritonitis,Antibiotics,Surgical intervention,Hydration,Rest,Nutritional support
+Gonorrhea,Antibiotics,Partner treatment,Hydration,Rest,Avoid sexual contact
+Down's Syndrome,Early intervention programs,Physical therapy,Speech therapy,Occupational therapy,Hydration
+Iritis,Corticosteroid eye drops,Mydriatics,Hydration,Rest,Balanced diet
+Alzheimer,Memory care programs,Support groups,Hydration,Healthy fats,Fruits and vegetables
+Neoplasm,Surgery,Chemotherapy,Radiation therapy,Balanced diet,Hydration
+Tetanus,Tetanus vaccine,Antibiotics,Surgical debridement,Hydration,Nutritional support
+Crimean Congo haemorrhagic fever (CCHF),Supportive care,Hydration,Rest,Prevent mosquito bites,Balanced diet
+Anaemia,Iron-rich foods,Vitamin C,Lean meats,Legumes,Nuts and seeds
+Narcolepsy,Sleep hygiene,Medications,Regular sleep schedule,Hydration,Balanced diet
+Vasovagal syncope,Avoid triggers,Hydration,Salt intake,Rest,Balanced diet
+Warts,Topical treatments,Salicylic acid,Hydration,Rest,Balanced diet
+Diabetes,Blood sugar control,Healthy eating,Regular exercise,Medications,Monitoring
+Common cold,Hydration,Rest,Saline nasal sprays,Antihistamines,Chicken soup
+Hepatitis,Rest,Hydration,Balanced diet,Avoid alcohol,Medications
+Nipah virus infection,Supportive care,Hydration,Preventive measures,Rest,Balanced diet
+Parkinson's Disease,Medications,Physical therapy,Speech therapy,Occupational therapy,Hydration
+Antepartum hemorrhage (Bleeding in late pregnancy),Bed rest,Monitoring,Hydration,Blood transfusion,Nutritional support
+Inflammatory Bowel Disease,Low-residue diet,Hydration,Probiotics,Fiber-rich foods,Lean proteins
+Cholera,Oral rehydration therapy,Antibiotics,Hydration,Rest,Nutritional support
+Keratoconjunctivitis Sicca (Dry eye syndrome),Artificial tears,Hydration,Fish oil supplements,Limit caffeine and alcohol,Balanced diet
+Paratyphoid fever,Antibiotics,Hydration,Rest,Balanced diet,Monitoring
+Presbyopia,Eyeglasses,Contact lenses,Surgery,Hydration,Balanced diet
+Calculi,Hydration,Low-sodium diet,Avoid oxalate-rich foods,Medications,Limit protein intake
+Dehydration,Oral rehydration solution,Hydration,Electrolyte-rich fluids,Rest,Balanced diet
+Scabies,Topical scabicides,Hydration,Laundry precautions,Rest,Balanced diet
+Gangrene,Surgical debridement,Antibiotics,Hydration,Rest,Nutritional support
+Tay-Sachs disease,Supportive care,Nutritional support,Physical therapy,Hydration,Balanced diet
+Premenstrual syndrome,Dietary changes,Regular exercise,Stress management,Hydration,Supplements
+Smallpox,Supportive care,Isolation measures,Vaccine,Hydration,Balanced diet
+Yaws,Mass antibiotic treatment,Hydration,Rest,Sanitation improvements,Balanced diet
+Acute encephalitis syndrome,Supportive care,Hydration,Rest,Monitor complications,Balanced diet
+Osteoarthritis,Exercise,Weight management,Physical therapy,Hydration,Anti-inflammatory diet
+Neuralgia,Pain management,Physical therapy,Hydration,Rest,Balanced diet
+Black Death,Antibiotics,Supportive care,Isolation measures,Hydration,Rest
+Laryngitis,Rest,Hydration,Humidified air,Avoid irritants,Balanced diet
+Astigmatism,Eyeglasses,Contact lenses,Surgery,Hydration,Balanced diet
+Blindness,Visual aids,Low-vision rehabilitation,Hydration,Balanced diet,
+Post Menopausal Bleeding,Endometrial biopsy,Hormonal therapy,Hydration,Rest,Balanced diet
+Nasal Polyps,Steroid nasal sprays,Hydration,Saline nasal irrigation,Avoid allergens,Balanced diet
+Chronic fatigue syndrome,Graded exercise therapy,Cognitive behavioral therapy,Hydration,Balanced diet,Rest
+High risk pregnancy,Prenatal care,Monitoring,Hydration,Bed rest,Nutritional supplements
+Stomach ulcers,Proton pump inhibitors,Hydration,Antacids,Avoid NSAIDs,Balanced diet
+Trichomoniasis,Antibiotics,Partner treatment,Hydration,Rest,Avoid sexual contact
+Sexually transmitted infections (STIs),Antibiotics,Partner treatment,Hydration,Rest,Avoid sexual contact
+Epilepsy,Antiepileptic medications,Seizure precautions,Hydration,Balanced diet,Regular sleep
+Kuru,Supportive care,Hydration,Rest,Balanced diet,Comfort measures
+Kala-azar/ Leishmaniasis,Antimony-based drugs,Hydration,Rest,Balanced diet,Insecticide spraying
+Measles,Supportive care,Vitamin A supplementation,Hydration,Rest,Balanced diet
+Dracunculiasis (guinea-worm disease),Preventive measures,Hydration,Water filtration,Avoid contaminated water,Supportive care
+Muscular dystrophy,Physical therapy,Occupational therapy,Respiratory support,Hydration,Balanced diet
+Dysentery,Hydration,Antibiotics,Rest,BRAT diet (Bananas, Rice
+Irritable bowel syndrome,Dietary changes,Fiber supplements,Probiotics,Hydration,Antispasmodic medications
+Bunion,Proper footwear,Padding or splinting,Hydration,Rest,Avoid high heels
+Scarlet fever,Antibiotics,Supportive care,Hydration,Rest,Soft foods
+Mastitis,Breastfeeding education,Proper latch technique,Hydration,Rest,Antibiotics
+Shigellosis,Hydration,Antibiotics,Rest,BRAT diet (Bananas, Rice
+Congenital anomalies (birth defects),Surgical correction,Physical therapy,Occupational therapy,Speech therapy,Nutritional support
+Congestive heart disease,Low-sodium diet,Heart-healthy fats,Lean proteins,Fruits and vegetables,Whole grains
+Diabetes Mellitus,Blood sugar control,Healthy eating,Regular exercise,Medications,Monitoring
+Aseptic meningitis,Supportive care,Hydration,Rest,Monitor complications,Balanced diet
+Dementia,Memory care programs,Support groups,Hydration,Healthy fats,Fruits and vegetables
+Puerperal sepsis,Antibiotics,Surgical intervention,Hydration,Rest,Nutritional support
+Cavities,Fluoride treatments,Dental hygiene,Limit sugary foods and drinks,Hydration,Balanced diet
+Bell's Palsy,Steroids,Physical therapy,Protective eye care,Hydration,Balanced diet
+Stevens-Johnson syndrome,Supportive care,Hydration,Protective eye care,Soft foods,Balanced diet
+Quinsy,Antibiotics,Hydration,Soft foods,Rest,Pain relief
+SIDS,Back-to-sleep position,Create safe sleep environment,Hydration,Breastfeeding,Regular check-ups
+Genital herpes,Antiviral medications,Hydration,Pain relief,Rest,Avoid sexual contact during outbreaks
+Multiple myeloma,Chemotherapy,Immunotherapy,Bone marrow transplant,Hydration,Balanced diet
+Frost Bite,Warmth,Gradual rewarming,Hydration,Pain relief,Balanced diet
+Appendicitis,Surgical removal of appendix,Antibiotics,Hydration,Rest,Balanced diet
+Chikungunya Fever,Supportive care,Hydration,Rest,Antipyretics (fever reducers),Insect repellent
+Mad cow disease,Supportive care,Hydration,Preventive measures,Rest,Balanced diet
+Rheumatism,Medications,Physical therapy,Heat or cold therapy,Hydration,Balanced diet
+Toxic shock syndrome,Supportive care,Hydration,Antibiotics,Rest,Balanced diet
+SARS,Supportive care,Hydration,Isolation measures,Rest,Balanced diet
+Anxiety,Therapy (CBT),Medications,Hydration,Regular exercise,Balanced diet
+lactose intolerance,Dairy avoidance,Lactase enzyme supplements,Calcium-rich non-dairy foods,Hydration,Balanced diet
+Diphtheria,Antibiotics,Supportive care,Isolation measures,Hydration,Rest
+Beriberi,Thiamine supplements,Balanced diet,Hydration,Whole grains,Fruits and vegetables
+Candidiasis,Antifungal medications,Hydration,Probiotics,Avoid sugary foods,Balanced diet
+Syphilis,Antibiotics,Partner treatment,Hydration,Rest,Avoid sexual contact
+Human papillomavirus,Vaccine (HPV),Screening,Hydration,Rest,Balanced diet
+Myasthenia gravis,Medications,Physical therapy,Hydration,Rest,Balanced diet
+Obsessive Compulsive Disorder,Therapy (CBT),Medications,Hydration,Regular exercise,Balanced diet
+Shaken Baby Syndrome,Preventive education,Supportive care,Hydration,Rest,Balanced diet
+Food Poisoning,Hydration,Rest,Bland diet (BRAT),Avoid dairy and fatty foods,Avoid spicy foods
+Turners Syndrome,Hormone therapy,Growth hormone treatment,Heart health monitoring,Hydration,Balanced diet
+Hypertension ,Low-sodium diet,Heart-healthy fats,Fruits and vegetables,Whole grains,Regular exercise
+Pericarditis,Treat underlying cause,Rest,Hydration,Medications,Balanced diet
+Adult Inclusion Conjunctivitis,Topical antibiotics,Hygiene measures,Hydration,Warm compresses,Balanced diet
+Trichinosis,Anthelmintic medications,Cooking meat thoroughly,Hydration,Balanced diet,Rest
+Herpes Simplex,Antiviral medications,Hydration,Pain relief,Rest,Avoid sexual contact during outbreaks
+Schizophrenia,Antipsychotic medications,Therapy (CBT),Hydration,Healthy diet,Regular exercise
+Scrub Typhus,Antibiotics,Hydration,Rest,Balanced diet,Preventive measures
+Marburg fever,Supportive care,Hydration,Isolation measures,Rest,
+Sub-conjunctival Haemorrhage,Supportive care,,,,
+Peptic ulcer disease,Avoid spicy foods,Avoid caffeine,Frequent small meals,Antacids,Proton pump inhibitors
+Ectopic pregnancy,Medical intervention,Surgery,,,
+Middle East respiratory syndrome coronavirus (MERS-CoV),Supportive care,Hydration,Antiviral treatments,,
+Keratoconus,Eye drops,Contact lenses,,,
+Raynaud's Phenomenon,Keep warm,Healthy fats,Vitamin D-rich foods,,
+Chagas disease,Antiparasitic drugs,Supportive care,,,
+Post-herpetic neuralgia,Medications,Topical treatments,,,
+Gaming disorder,Screen time management,Physical activity,Balanced diet,,
+Shin splints,Rest,Ice therapy,Supportive footwear,,
+Preeclampsia,Bed rest,Low-sodium diet,Monitor blood pressure,,
+Ques fever,Antibiotics,Supportive care,,,
+Pulmonary embolism,Anticoagulants,Supportive care,,,
+Bad Breath (Halitosis),Good oral hygiene,Hydration,Avoid odor-causing foods,,
+Atrophy,Physical therapy,Nutritional support,,,
+Preterm birth,Supportive care,Monitor baby’s health,,,
+"Hand, Foot and Mouth Disease", Foot and Mouth Disease,Hydration,Soft foods,,
+Diarrhea,Hydration,Electrolyte-rich fluids,BRAT diet,,
+Acquired Immuno Deficiency Syndrome,Balanced diet,Nutritional supplements,High-protein foods,,
+Anisometropia,Corrective lenses,,,,
+Taeniasis,Antiparasitic drugs,Good hygiene practices,,,
+Poliomyelitis,Supportive care,Physical therapy,,,
+Acquired Capillary Haemangioma of Eyelid,Monitor growth,Surgery if needed,,,
+Rocky Mountain spotted fever,Antibiotics,Supportive care,,,
+Varicose Veins,Compression stockings,Healthy diet,Regular exercise,,
+Orbital Dermoid,Monitor growth,Surgery if needed,,,
+Alopecia (hair loss),Nutritional support,Topical treatments,,,
+Hypotonia,Physical therapy,Occupational therapy,,,
+Shingles,Antiviral medications,Comfort measures,,,
+Sciatica,Physical therapy,Anti-inflammatory diet,,,
+Leprosy,Antibiotics,Nutritional support,,,
+Condyloma,Topical treatments,,,,
+Burns,High-protein foods,Hydration,Vitamin C-rich foods,,
+Pinguecula,Avoid irritants,Eye drops,,,
+Fibromyalgia,Balanced diet,Low-inflammatory foods,Regular exercise,,
+Sarcoidosis,Balanced diet,Healthy fats,Fruits and vegetables,,
+Vitiligo,Balanced diet,Antioxidant-rich foods,Vitamin D-rich foods,,
+Lung cancer,Balanced diet,High-calorie foods,Protein-rich foods,Small, frequent meals
+Chalazion,Warm compresses,Good eyelid hygiene,,,
+Corneal Abrasion,Antibiotic eye drops,,,,
+Hypermetropia,Corrective lenses,,,,
+Obesity,Low-calorie diet,Regular exercise,Healthy fats,Fruits and vegetables,Lean proteins
+Campylobacter infection,Hydration,Electrolyte-rich fluids,BRAT diet,,
+Early pregnancy loss,Supportive care,,,,
+Coronary Heart Disease,Heart-healthy diet,Low-sodium diet,Healthy fats,Fruits and vegetables,Lean proteins
+Cough,Hydration,Comfort measures,,,
+Amblyopia,Corrective lenses,,,,
+Aniseikonia,Corrective lenses,,,,
+Taeniasis/cysticercosis,Antiparasitic drugs,Good hygiene practices,,,
+Tennis elbow,Rest,Ice therapy,Supportive equipment,,
+Amoebiasis,Antiparasitic drugs,Hydration,Rest,,
+Childhood Exotropia,Corrective lenses,,,,
+Chronic obstructive pulmonary disease (COPD),Balanced diet,Healthy fats,Fruits and vegetables,Lean proteins,Whole grains
+Kaposi's Sarcoma,Antiviral therapy,Nutritional support,,,
+Eclampsia,Medical intervention,Monitor blood pressure,,,
+Guillain-Barré syndrome,Supportive care,Physical therapy,,,
+Brucellosis,Antibiotics,Nutritional support,,,
+Amaurosis Fugax,Monitor underlying condition,,,,
+Cleft Lip and Cleft Palate,Nutritional support,Surgical intervention,,,
+Sarcoma,Balanced diet,Nutritional supplements,High-protein foods,,
+Lice,Topical treatments,Good hygiene practices,,,
+Tinnitus,Reduce caffeine and alcohol,Manage stress,,,
+Fibroids,Healthy diet,Regular exercise,,,
+Myelitis,Supportive care,Physical therapy,,,
+Nausea and Vomiting of Pregnancy and Hyperemesis gravidarum,Hydration,Small frequent meals,Avoid triggers,,
+Osteoporosis,Calcium-rich foods,Vitamin D-rich foods,Weight-bearing exercises,,
+Haemophilia,Avoid injury,Nutritional support,Vitamin K-rich foods,,

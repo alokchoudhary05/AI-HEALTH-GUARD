@@ -1,0 +1,291 @@
+Disease, Medication_1, Medication_2, Medication_3, Medication_4, Medication_5
+Fungal infection, Antifungal Cream, Fluconazole, Terbinafine, Clotrimazole, Ketoconazole
+Allergy, Antihistamines, Decongestants, Epinephrine, Corticosteroids, Immunotherapy
+GERD, Proton Pump Inhibitors (PPIs), H2 Blockers, Antacids, Prokinetics, Antibiotics
+Chronic cholestasis, Ursodeoxycholic acid, Cholestyramine, Methotrexate, Corticosteroids, Liver transplant
+Drug Reaction, Antihistamines, Epinephrine, Corticosteroids, Antibiotics, Antifungal Cream
+Peptic ulcer disease, Antibiotics, Proton Pump Inhibitors (PPIs), H2 Blockers, Antacids, Cytoprotective agents
+AIDS, Antiretroviral drugs, Protease inhibitors, Integrase inhibitors, Entry inhibitors, Fusion inhibitors
+Diabetes, Insulin, Metformin, Sulfonylureas, DPP-4 inhibitors, GLP-1 receptor agonists
+Gastroenteritis, Antibiotics, Antiemetic drugs, Antidiarrheal drugs, IV fluids, Probiotics
+Bronchial Asthma, Bronchodilators, Inhaled corticosteroids, Leukotriene modifiers, Mast cell stabilizers, Anticholinergics
+Hypertension, Antihypertensive medications, Diuretics, Beta-blockers, ACE inhibitors, Calcium channel blockers
+Migraine, Analgesics, Triptans, Ergotamine derivatives, Preventive medications, Biofeedback
+Cervical spondylosis, Pain relievers, Muscle relaxants, Physical therapy, Neck braces, Corticosteroids
+Paralysis (brain hemorrhage), Blood thinners, Clot-dissolving medications, Anticonvulsants, Physical therapy, Occupational therapy
+Jaundice, IV fluids, Blood transfusions, Liver transplant, Medications for itching, Antiviral medications
+Malaria, Antimalarial drugs, Antipyretics, Antiemetic drugs, IV fluids, Blood transfusions
+Chicken pox, Antiviral drugs, Pain relievers, IV fluids, Blood transfusions, Platelet transfusions
+Dengue, Antibiotics, Antipyretics, Analgesics, IV fluids, Corticosteroids
+Typhoid, Vaccination, Antiviral drugs, IV fluids, Blood transfusions, Liver transplant
+Hepatitis A, Vaccination, Antiviral drugs, IV fluids, Blood transfusions, Liver transplant
+Hepatitis B, Antiviral drugs, IV fluids, Blood transfusions, Platelet transfusions, Liver transplant
+Hepatitis C, Antiviral drugs, IV fluids, Blood transfusions, Platelet transfusions, Liver transplant
+Hepatitis D, Antiviral drugs, IV fluids, Blood transfusions, Platelet transfusions, Liver transplant
+Hepatitis E, Alcohol cessation, Corticosteroids, IV fluids, Liver transplant, Nutritional support
+Alcoholic hepatitis, Antibiotics, Isoniazid, Rifampin, Ethambutol, Pyrazinamide
+Tuberculosis, Antipyretics, Decongestants, Cough suppressants, Antihistamines, Pain relievers
+Common Cold, Antibiotics, Antiviral drugs, Antifungal drugs, IV fluids, Oxygen therapy
+Pneumonia, Laxatives, Pain relievers, Warm baths, Cold compresses, High-fiber diet
+Dimorphic hemorrhoids (piles), Nitroglycerin, Aspirin, Beta-blockers, Calcium channel blockers, Thrombolytic drugs
+Heart attack, Compression stockings, Exercise, Elevating the legs, Sclerotherapy, Laser treatments
+Varicose veins, Levothyroxine, Antithyroid medications, Beta-blockers, Radioactive iodine, Thyroid surgery
+Hypothyroidism, Antithyroid medications, Radioactive iodine, Thyroid surgery, Beta-blockers, Corticosteroids
+Hyperthyroidism, Glucose tablets, Candy or juice, Glucagon injection, IV dextrose, Diazoxide
+Hypoglycemia, Pain relievers, Exercise, Hot and cold packs, Joint protection, Physical therapy
+Osteoarthritis, NSAIDs, Disease-modifying antirheumatic drugs (DMARDs), Biologics, Corticosteroids, Joint replacement surgery
+Arthritis (vertigo), Vestibular rehabilitation, Canalith repositioning, Medications for nausea, Surgery, Home exercises
+Paroxysmal Positional Vertigo, Topical treatments, Antibiotics, Oral medications, Hormonal treatments, Isotretinoin
+Acne, Antibiotics, Pain relievers, Antihistamines, Corticosteroids, Topical treatments
+Urinary tract infection, Antibiotics, Urinary analgesics, Phenazopyridine, Antispasmodics, Probiotics
+Psoriasis, Topical treatments, Phototherapy, Systemic medications, Biologics, Coal tar
+Impetigo, Topical antibiotics, Oral antibiotics, Antiseptics, Ointments, Warm compresses
+Tularemia, Gentamicin, Ciprofloxacin, Doxycycline, Streptomycin, Chloramphenicol
+Stroke, Alteplase, Aspirin, Statins, Anticoagulants, Blood pressure medications
+Lead poisoning, EDTA, Dimercaprol, Succimer, Penicillamine, Calcium supplements
+Sickle-cell anemia, Hydroxyurea, Blood transfusions, Pain relievers, Folic acid supplements, Antibiotics
+Myocardial Infarction (Heart Attack), Aspirin, Nitroglycerin, Beta-blockers, ACE inhibitors, Statins
+Rabies, Rabies vaccine, Rabies immunoglobulin, Antiviral medications, Pain relievers, Wound care
+Warkany syndrome, Supportive care, Physical therapy, Occupational therapy, Speech therapy, Nutritional support
+Celiacs disease, Gluten-free diet, Vitamin and mineral supplements, Corticosteroids, Immune-modulating drugs, Pain relievers
+Abscess, Antibiotics, Incision and drainage, Pain relievers, Warm compresses, Antiseptic solutions
+Perennial Allergic Conjunctivitis, Antihistamine eye drops, Mast cell stabilizers, Corticosteroid eye drops, Decongestants, Artificial tears
+Lyme disease, Doxycycline, Amoxicillin, Cefuroxime, Ceftriaxone, Pain relievers
+Japanese Encephalitis, Supportive care, Antiviral medications, Pain relievers, IV fluids, Antipyretics
+Hepatitis A, Supportive care, Antiviral medications, IV fluids, Pain relievers, Hepatitis A vaccine
+Bronchitis, Bronchodilators, Cough suppressants, Antibiotics, Pain relievers, Corticosteroids
+Influenza, Antiviral drugs, Pain relievers, Decongestants, Cough suppressants, Flu vaccine
+Multiple sclerosis, Interferons, Glatiramer acetate, Fingolimod, Corticosteroids, Muscle relaxants
+Anthrax, Ciprofloxacin, Doxycycline, Amoxicillin, Raxibacumab, Anthrax vaccine
+Brain Tumour, Surgery, Radiation therapy, Chemotherapy, Corticosteroids, Anti-seizure medications
+Coronavirus disease 2019 (COVID-19), Antiviral medications, Corticosteroids, Monoclonal antibodies, Oxygen therapy, Vaccines
+Lupus erythematosus, Hydroxychloroquine, NSAIDs, Corticosteroids, Immunosuppressants, Biologics
+Carpal Tunnel Syndrome, NSAIDs, Corticosteroid injections, Wrist splints, Physical therapy, Surgery
+Lymphoma, Chemotherapy, Radiation therapy, Immunotherapy, Targeted therapy, Stem cell transplant
+Insomnia, Benzodiazepines, Non-benzodiazepine sleep aids, Melatonin, Antidepressants, Cognitive behavioral therapy
+Goitre, Levothyroxine, Methimazole, Radioactive iodine, Beta-blockers, Thyroid surgery
+Polycystic ovary syndrome (PCOS), Metformin, Hormonal contraceptives, Clomiphene, Spironolactone, Lifestyle changes
+Rubella, MMR vaccine, Antipyretics, Pain relievers, Bed rest, Hydration
+Myopia, Glasses, Contact lenses, LASIK surgery, Orthokeratology, Eye drops
+Postpartum depression/ Perinatal depression, Antidepressants, Cognitive behavioral therapy, Hormone therapy, Support groups, Electroconvulsive therapy
+Vitamin B12 Deficiency, Vitamin B12 injections, Oral vitamin B12 supplements, Nasal vitamin B12, Folic acid supplements, Dietary changes
+Heat-Related Illnesses and Heat waves, IV fluids, Electrolyte replacement, Cooling measures, Antipyretics, Rest
+Melanoma, Surgery, Immunotherapy, Targeted therapy, Chemotherapy, Radiation therapy
+Scrapie, Supportive care, Pain relievers, Anti-seizure medications, Physical therapy, Nutritional support
+Autism, Behavioral therapy, Speech therapy, Occupational therapy, Medications for associated symptoms, Special education services
+Sepsis, Antibiotics, IV fluids, Vasopressors, Corticosteroids, Organ support
+Mouth Breathing, Nasal decongestants, Nasal strips, Surgery, Oral appliances, Breathing exercises
+Repetitive strain injury, NSAIDs, Physical therapy, Ergonomic adjustments, Corticosteroid injections, Rest
+Iron Deficiency Anemia, Iron supplements, Vitamin C supplements, Dietary changes, Blood transfusions, Iron-rich foods
+Porphyria, Hemin, Glucose infusions, Pain relievers, Beta-blockers, Avoidance of triggers
+Bubonic plague, Streptomycin, Gentamicin, Doxycycline, Ciprofloxacin, Chloramphenicol
+Strep throat, Penicillin, Amoxicillin, Azithromycin, Pain relievers, Rest
+Ebola, Supportive care, IV fluids, Electrolyte replacement, Antiviral medications, Experimental treatments
+Tonsillitis, Antibiotics, Pain relievers, Corticosteroids, Throat lozenges, Tonsillectomy
+Colitis, Anti-inflammatory drugs, Immunosuppressants, Antibiotics, Biologics, Surgery
+Oral Cancer, Surgery, Radiation therapy, Chemotherapy, Targeted therapy, Immunotherapy
+Leptospirosis, Doxycycline, Penicillin, Amoxicillin, Ceftriaxone, Pain relievers
+Urticaria, Antihistamines, Corticosteroids, Epinephrine, Leukotriene inhibitors, Immunosuppressants
+Yellow Fever, Yellow fever vaccine, Supportive care, Pain relievers, Antipyretics, IV fluids
+Rheumatic fever, Antibiotics, Anti-inflammatory medications, Corticosteroids, Bed rest, Heart medications
+Alcohol Abuse and Alcoholism, Disulfiram, Naltrexone, Acamprosate, Behavioral therapy, Support groups
+Bleeding Gums, Good oral hygiene, Antibacterial mouthwash, Vitamin C supplements, Professional dental cleaning, Dental treatment
+Thalassaemia, Blood transfusions, Iron chelation therapy, Folic acid supplements, Bone marrow transplant, Gene therapy
+Glaucoma, Eye drops, Oral medications, Laser therapy, Surgery, Drainage implants
+Leukemia, Chemotherapy, Radiation therapy, Targeted therapy, Immunotherapy, Stem cell transplant
+Rift Valley fever, Supportive care, Pain relievers, Antiviral medications, IV fluids, Rest
+Neonatal Respiratory Disease Syndrome(NRDS), Surfactant therapy, Oxygen therapy, Mechanical ventilation, CPAP, Corticosteroids
+Breast Cancer / Carcinoma, Surgery, Radiation therapy, Chemotherapy, Hormonal therapy, Targeted therapy
+Legionellosis, Antibiotics, Respiratory therapy, Oxygen therapy, IV fluids, Antipyretics
+Hypothyroid, Levothyroxine, Liothyronine, Natural desiccated thyroid, Iodine supplements, Beta-blockers
+Botulism, Antitoxin, Mechanical ventilation, IV fluids, Antibiotics (for wound botulism), Supportive care
+Eczema, Topical corticosteroids, Emollients, Antihistamines, Immunosuppressants, Light therapy
+Chickenpox, Antiviral drugs, Pain relievers, Antihistamines, Calamine lotion, Antipyretics
+Interstitial cystitis, Pentosan polysulfate sodium, Antihistamines, Pain relievers, Bladder distention, Nerve stimulation
+Diabetic Retinopathy, Anti-VEGF injections, Laser therapy, Vitrectomy, Corticosteroids, Blood sugar control
+Chlamydia, Azithromycin, Doxycycline, Erythromycin, Levofloxacin, Ofloxacin
+Endometriosis, Hormonal therapy, NSAIDs, Laparoscopy, Pain relievers, GnRH agonists
+Asbestos-related diseases, Oxygen therapy, Pulmonary rehabilitation, Bronchodilators, Pain relievers, Surgery
+Ear infection, Antibiotics, Pain relievers, Ear drops, Warm compresses, Surgery
+Trachoma, Antibiotics, Surgery, Facial cleanliness, Environmental improvements, Tetracycline eye ointment
+papilloedema, Treating underlying cause, Diuretics, Corticosteroids, Surgery, Monitoring
+Cerebral palsy, Physical therapy, Occupational therapy, Speech therapy, Muscle relaxants, Surgery
+Rickets, Vitamin D supplements, Calcium supplements, Phosphate supplements, UV light therapy, Nutritional support
+Pelvic inflammatory disease, Antibiotics, Pain relievers, Rest, Surgery (if needed), IV fluids
+Necrotizing Fasciitis, IV antibiotics, Surgical debridement, Hyperbaric oxygen therapy, Pain management, Supportive care
+Mumps, MMR vaccine, Pain relievers, Antipyretics, Bed rest, Hydration
+Progeria, Lonafarnib, Growth hormone, Physical therapy, Occupational therapy, Nutritional support
+Mononucleosis, Rest, Hydration, Pain relievers, Corticosteroids, Antivirals (in severe cases)
+Carbon monoxide poisoning, 100% oxygen therapy, Hyperbaric oxygen therapy, Blood pressure support, Monitoring, Ventilation support
+Zika virus disease, Supportive care, Pain relievers, Rest, Hydration, Fever reducers
+Colorectal Cancer, Surgery, Chemotherapy, Radiation therapy, Targeted therapy, Immunotherapy
+Cancer, Surgery, Chemotherapy, Radiation therapy, Targeted therapy, Immunotherapy
+Scurvy, Vitamin C supplements, Citrus fruits, Vegetables, Nutritional support, Multivitamins
+(vertigo) Paroymsal Positional Vertigo, Meclizine, Dimenhydrinate, Diazepam, Epley maneuver, Physical therapy
+Osteomyelitis, Antibiotics, Surgery, Hyperbaric oxygen therapy, Pain relievers, IV antibiotics
+Asthma, Albuterol, Inhaled corticosteroids, Montelukast, Theophylline, Long-acting beta agonists
+Chorea, Tetrabenazine, Haloperidol, Risperidone, Clonazepam, Valproic acid
+Peritonitis, Antibiotics, Surgery, Pain relievers, IV fluids, Dialysis (if needed)
+Gonorrhea, Ceftriaxone, Azithromycin, Doxycycline, Cefixime, Spectinomycin
+Down's Syndrome, Supportive care, Physical therapy, Occupational therapy, Speech therapy, Special education
+Iritis, Prednisolone eye drops, Cyclopentolate, NSAIDs, Immunosuppressants, Antibiotics (if infection is present)
+Alzheimer, Donepezil, Rivastigmine, Memantine, Galantamine, Antipsychotics
+Neoplasm, Surgery, Chemotherapy, Radiation therapy, Targeted therapy, Immunotherapy
+Tetanus, Tetanus immune globulin, Metronidazole, Penicillin, Muscle relaxants, Tetanus vaccine
+Crimean Congo haemorrhagic fever (CCHF), Ribavirin, Supportive care, Blood transfusions, IV fluids, Pain relievers
+Anaemia, Iron supplements, Vitamin B12 injections, Folic acid supplements, Blood transfusions, Erythropoiesis-stimulating agents
+Narcolepsy, Modafinil, Armodafinil, Sodium oxybate, Methylphenidate, Antidepressants
+Vasovagal syncope, Midodrine, Fludrocortisone, Beta-blockers, Pacemaker, Lifestyle changes
+Warts, Salicylic acid, Cryotherapy, Cantharidin, Imiquimod, Laser therapy
+Diabetes, Insulin, Metformin, Sulfonylureas, DPP-4 inhibitors, GLP-1 receptor agonists
+Common cold, Decongestants, Antihistamines, Cough suppressants, Pain relievers, Zinc supplements
+Hepatitis, Antiviral medications, Interferon, Ribavirin, Supportive care, Vaccines
+Nipah virus infection, Supportive care, Ribavirin, IV fluids, Antipyretics, Mechanical ventilation
+Parkinson's Disease, Levodopa, Carbidopa, Dopamine agonists, MAO-B inhibitors, COMT inhibitors
+Antepartum hemorrhage (Bleeding in late pregnancy), Corticosteroids, Blood transfusions, IV fluids, Bed rest, Emergency delivery
+Inflammatory Bowel Disease, Aminosalicylates, Corticosteroids, Immunosuppressants, Biologics, Antibiotics
+Cholera, Oral rehydration solution, IV fluids, Antibiotics, Zinc supplements, Probiotics
+Keratoconjunctivitis Sicca (Dry eye syndrome), Artificial tears, Cyclosporine eye drops, Lifitegrast, Punctal plugs, Omega-3 supplements
+Paratyphoid fever, Ciprofloxacin, Azithromycin, Ceftriaxone, Chloramphenicol, Supportive care
+Presbyopia, Reading glasses, Bifocals, Progressive lenses, Contact lenses, Refractive surgery
+Calculi, Pain relievers, Alpha-blockers, Potassium citrate, Shock wave lithotripsy, Surgery
+Dehydration, Oral rehydration solution, IV fluids, Electrolyte replacement, Antipyretics, Antiemetics
+Scabies, Permethrin cream, Ivermectin, Crotamiton, Lindane, Antihistamines
+Gangrene, Surgery, Antibiotics, Hyperbaric oxygen therapy, Debridement, Pain management
+Tay-Sachs disease, Supportive care, Physical therapy, Occupational therapy, Speech therapy, Nutritional support
+Premenstrual syndrome, NSAIDs, Oral contraceptives, Antidepressants, Diuretics, Calcium supplements
+Smallpox, Supportive care, Tecovirimat, Vaccinia immune globulin, Antiviral drugs, Pain relievers
+Yaws, Benzathine penicillin, Azithromycin, Erythromycin, Supportive care, Wound care
+Acute encephalitis syndrome, Antiviral drugs, Corticosteroids, IV fluids, Antipyretics, Anticonvulsants
+Osteoarthritis, NSAIDs, Acetaminophen, Corticosteroid injections, Physical therapy, Joint replacement surgery
+Neuralgia, Carbamazepine, Gabapentin, Pregabalin, Amitriptyline, Baclofen
+Black Death, Streptomycin, Gentamicin, Doxycycline, Ciprofloxacin, Chloramphenicol
+Laryngitis, Voice rest, Humidifiers, Hydration, Pain relievers, Corticosteroids
+Astigmatism, Glasses, Contact lenses, LASIK surgery, Toric lenses, Orthokeratology
+Blindness, Supportive care, Low vision aids, Braille instruction, Orientation and mobility training, Cortical visual impairment therapy
+Post Menopausal Bleeding, Hormone therapy, Endometrial ablation, Hysteroscopy, Hysterectomy, Progestin therapy
+Nasal Polyps, Corticosteroid nasal sprays, Oral corticosteroids, Biologics, Surgery, Antihistamines
+Chronic fatigue syndrome, Graded exercise therapy, Cognitive behavioral therapy, Antidepressants, Pain relievers, Sleep aids
+High risk pregnancy, Frequent monitoring, Bed rest, Medications for underlying conditions, Early delivery planning, Prenatal vitamins
+Stomach ulcers, Proton pump inhibitors, H2 receptor antagonists, Antacids, Antibiotics, Cytoprotective agents
+Trichomoniasis, Metronidazole, Tinidazole, Secnidazole, Clindamycin, Symptomatic treatment
+Sexually transmitted infections (STIs), Antibiotics, Antivirals, Antifungals, Antiparasitics, Supportive care
+Epilepsy, Antiepileptic drugs, Vagus nerve stimulation, Ketogenic diet, Surgery, Cannabidiol
+Kuru, Supportive care, Pain management, Physical therapy, Occupational therapy, Nutritional support
+Kala-azar/ Leishmaniasis, Amphotericin B, Miltefosine, Sodium stibogluconate, Paromomycin, Meglumine antimoniate
+Measles, Vitamin A, Antipyretics, Pain relievers, Immune globulin, Supportive care
+Dracunculiasis (guinea-worm disease), Extraction of the worm, Pain relievers, Wound care, Antibiotics (if infected), Tetanus vaccine
+Muscular dystrophy, Corticosteroids, Physical therapy, Occupational therapy, Assistive devices, Gene therapy
+Dysentery, Antibiotics, Rehydration therapy, Antiparasitic drugs, Pain relievers, Antipyretics
+Irritable bowel syndrome, Antispasmodics, Laxatives, Antidiarrheals, Fiber supplements, Antidepressants
+Bunion, Pain relievers, Ice packs, Bunion pads, Orthotics, Surgery
+Scarlet fever, Penicillin, Amoxicillin, Azithromycin, Pain relievers, Antipyretics
+Mastitis, Antibiotics, Pain relievers, Warm compresses, Breastfeeding support, Surgery (if abscess forms)
+Shigellosis, Antibiotics, Rehydration therapy, Antidiarrheals, Zinc supplements, Pain relievers
+Congenital anomalies (birth defects), Surgery, Physical therapy, Occupational therapy, Speech therapy, Supportive care
+Congestive heart disease, ACE inhibitors, Beta-blockers, Diuretics, Digitalis, Aldosterone antagonists
+Diabetes Mellitus, Insulin, Metformin, Sulfonylureas, DPP-4 inhibitors, GLP-1 receptor agonists
+Aseptic meningitis, Antiviral medications, Pain relievers, Corticosteroids, IV fluids, Rest
+Dementia, Donepezil, Rivastigmine, Memantine, Galantamine, Antipsychotics
+Puerperal sepsis, Antibiotics, IV fluids, Pain relievers, Surgery (if necessary), Blood transfusions
+Cavities, Fluoride treatments, Fillings, Crowns, Root canals, Tooth extraction
+Bell's Palsy, Corticosteroids, Antiviral drugs, Pain relievers, Physical therapy, Eye protection
+Stevens-Johnson syndrome, Discontinuation of offending drug, Pain relievers, Corticosteroids, IV fluids, Wound care
+Quinsy, Antibiotics, Pain relievers, Corticosteroids, Needle aspiration, Tonsillectomy
+SIDS, Monitoring, Safe sleep practices, Parent education, Supportive care, Genetic testing (if indicated)
+Genital herpes, Acyclovir, Valacyclovir, Famciclovir, Pain relievers, Antiviral creams
+Multiple myeloma, Chemotherapy, Immunotherapy, Stem cell transplant, Bisphosphonates, Radiation therapy
+Frost Bite, Rewarming, Pain relievers, Debridement, Tetanus shot, Antibiotics
+Appendicitis, Surgery, Antibiotics, Pain relievers, IV fluids, Laparoscopic appendectomy
+Chikungunya Fever, Pain relievers, Antipyretics, Rest, Hydration, Supportive care
+Mad cow disease, Supportive care, Pain management, Physical therapy, Occupational therapy, Nutritional support
+Rheumatism, NSAIDs, Corticosteroids, Disease-modifying antirheumatic drugs (DMARDs), Physical therapy, Pain relievers
+Toxic shock syndrome, Antibiotics, IV fluids, Pain relievers, Corticosteroids, IV immunoglobulin
+SARS, Antiviral drugs, Corticosteroids, Oxygen therapy, Mechanical ventilation, Supportive care
+Anxiety, SSRIs, Benzodiazepines, Beta-blockers, Cognitive behavioral therapy, Buspirone
+lactose intolerance, Lactase supplements, Lactose-free diet, Probiotics, Calcium supplements, Enzyme replacements
+Diphtheria, Antitoxin, Antibiotics, Pain relievers, Diphtheria vaccine, Supportive care
+Beriberi, Thiamine supplements, Dietary changes, Multivitamins, Pain relievers, Supportive care
+Candidiasis, Antifungal medications, Probiotics, Topical antifungals, Oral antifungals, Pain relievers
+Syphilis, Penicillin, Doxycycline, Tetracycline, Ceftriaxone, Azithromycin
+Human papillomavirus, HPV vaccine, Topical treatments, Cryotherapy, Surgery, Imiquimod
+Myasthenia gravis, Pyridostigmine, Corticosteroids, Immunosuppressants, Plasmapheresis, Intravenous immunoglobulin (IVIG)
+Obsessive Compulsive Disorder, SSRIs, Cognitive behavioral therapy, Clomipramine, Antipsychotics, Exposure and response prevention (ERP)
+Shaken Baby Syndrome, Supportive care, Physical therapy, Occupational therapy, Speech therapy, Pain management
+Food Poisoning, Rehydration therapy, Antibiotics (if bacterial), Antiparasitic drugs (if parasitic), Antiemetics, Pain relievers
+Turners Syndrome, Growth hormone therapy, Estrogen replacement therapy, Cardiac monitoring, Hearing assessments, Thyroid hormone replacement
+Hypertension, ACE inhibitors, Beta-blockers, Calcium channel blockers, Diuretics, Angiotensin II receptor blockers (ARBs)
+Pericarditis, NSAIDs, Colchicine, Corticosteroids, Antibiotics (if bacterial), Pain relievers
+Adult Inclusion Conjunctivitis, Azithromycin, Doxycycline, Erythromycin, Topical tetracycline, Supportive care
+Trichinosis, Albendazole, Mebendazole, Pain relievers, Corticosteroids, Antipyretics
+Herpes Simplex, Acyclovir, Valacyclovir, Famciclovir, Penciclovir, Pain relievers
+Schizophrenia, Risperidone, Olanzapine, Quetiapine, Clozapine, Aripiprazole
+Scrub Typhus, Doxycycline, Azithromycin, Chloramphenicol, Supportive care, Pain relievers
+Marburg fever, Supportive care, IV fluids, Pain relievers, Antipyretics, Electrolyte replacement
+Sub-conjunctival Haemorrhage, Artificial tears, Cold compress, Antihypertensives (if hypertension-related), Blood pressure management, Monitoring
+Peptic ulcer disease, Proton pump inhibitors, H2 receptor antagonists, Antacids, Antibiotics (for H. pylori), Cytoprotective agents
+Ectopic pregnancy, Methotrexate, Surgery, Pain relievers, Monitoring, IV fluids
+Middle East respiratory syndrome coronavirus (MERS-CoV), Supportive care, Antiviral medications, Oxygen therapy, Mechanical ventilation, Pain relievers
+Keratoconus, Rigid gas permeable contact lenses, Corneal cross-linking, Intacs, Corneal transplant, Scleral contact lenses
+Raynaud's Phenomenon, Calcium channel blockers, Vasodilators, Alpha-blockers, Antidepressants, Topical nitroglycerin
+Chagas disease, Benznidazole, Nifurtimox, Antiparasitic drugs, Supportive care, Heart medications (if needed)
+Post-herpetic neuralgia, Gabapentin, Pregabalin, Amitriptyline, Lidocaine patches, Capsaicin cream
+Gaming disorder, Cognitive behavioral therapy, Family therapy, Support groups, Digital detox, Medication for underlying conditions (if needed)
+Shin splints, NSAIDs, Rest, Ice therapy, Compression, Physical therapy
+Preeclampsia, Antihypertensives, Magnesium sulfate, Corticosteroids, Bed rest, Early delivery (if necessary)
+Ques fever, Doxycycline, Hydroxychloroquine, Supportive care, Pain relievers, IV fluids
+Pulmonary embolism, Anticoagulants, Thrombolytics, Compression stockings, Surgery, Inferior vena cava filter
+Bad Breath (Halitosis), Antimicrobial mouthwash, Tongue scrapers, Improved oral hygiene, Hydration, Dental treatment
+Atrophy, Physical therapy, Nutritional support, Occupational therapy, Muscle stimulants, Exercise programs
+Preterm birth, Corticosteroids, Tocolytics, Magnesium sulfate, Antibiotics, Bed rest
+Hand, Foot and Mouth Disease, Pain relievers, Antipyretics, Hydration, Topical anesthetics
+Diarrhea, Oral rehydration solution, Loperamide, Antibiotics (if bacterial), Antiparasitics (if parasitic), Zinc supplements
+Acquired Immuno Deficiency Syndrome, Antiretroviral therapy (ART), Protease inhibitors, Integrase inhibitors, NRTIs, NNRTIs
+Anisometropia, Glasses, Contact lenses, Refractive surgery, Vision therapy, Regular eye exams
+Taeniasis, Praziquantel, Niclosamide, Albendazole, Anthelmintics, Supportive care
+Poliomyelitis, Polio vaccine, Physical therapy, Pain relievers, Antispasmodics, Respiratory support
+Acquired Capillary Haemangioma of Eyelid, Observation, Beta-blockers, Corticosteroids, Laser therapy, Surgery
+Rocky Mountain spotted fever, Doxycycline, Chloramphenicol, Supportive care, Pain relievers, IV fluids
+Varicose Veins, Compression stockings, Sclerotherapy, Laser therapy, Vein stripping, Radiofrequency ablation
+Orbital Dermoid, Surgery, Observation (if asymptomatic), Steroid injections, Antibiotics (if infected), Pain relievers
+Alopecia (hair loss), Minoxidil, Finasteride, Corticosteroid injections, Hair transplant, Topical immunotherapy
+Hypotonia, Physical therapy, Occupational therapy, Speech therapy, Supportive care, Muscle stimulants
+Shingles, Acyclovir, Valacyclovir, Famciclovir, Pain relievers, Antihistamines
+Sciatica, NSAIDs, Physical therapy, Muscle relaxants, Epidural steroid injections, Surgery (if severe)
+Leprosy, Dapsone, Rifampicin, Clofazimine, Ofloxacin, Minocycline
+Condyloma, Imiquimod, Podofilox, Cryotherapy, Surgical removal, Laser therapy
+Burns, Silver sulfadiazine, Pain relievers, Antibiotics, IV fluids, Debridement
+Pinguecula, Artificial tears, Steroid eye drops, Surgical removal, UV protection, Lubricating eye drops
+Fibromyalgia, Pregabalin, Duloxetine, Milnacipran, Amitriptyline, Pain relievers
+Sarcoidosis, Corticosteroids, Methotrexate, Hydroxychloroquine, Azathioprine, Infliximab
+Vitiligo, Corticosteroid creams, Calcineurin inhibitors, Phototherapy, Depigmentation therapy, Skin grafts
+Lung cancer, Surgery, Chemotherapy, Radiation therapy, Targeted therapy, Immunotherapy
+Chalazion, Warm compress, Steroid injections, Antibiotics, Surgical removal, Lid hygiene
+Corneal Abrasion, Antibiotic eye drops, Lubricating eye drops, Pain relievers, Patching, Bandage contact lenses
+Hypermetropia, Glasses, Contact lenses, LASIK surgery, Refractive lens exchange, Conductive keratoplasty
+Obesity, Lifestyle changes, Orlistat, Phentermine, Bariatric surgery, Counseling
+Campylobacter infection, Azithromycin, Ciprofloxacin, Rehydration therapy, Antimotility agents, Pain relievers
+Early pregnancy loss, Misoprostol, Dilation and curettage, Expectant management, Pain relievers, Supportive care
+Coronary Heart Disease, Aspirin, Beta-blockers, Statins, ACE inhibitors, Nitroglycerin
+Cough, Antitussives, Expectorants, Decongestants, Antihistamines, Antibiotics (if bacterial)
+Amblyopia, Eye patching, Atropine eye drops, Vision therapy, Glasses, Surgery
+Aniseikonia, Contact lenses, Spectacle lenses, Refractive surgery, Vision therapy, Regular eye exams
+Taeniasis/cysticercosis, Praziquantel, Albendazole, Dexamethasone, Anti-epileptic drugs, Surgery (if necessary)
+Tennis elbow, NSAIDs, Physical therapy, Corticosteroid injections, Bracing, Surgery
+Amoebiasis, Metronidazole, Tinidazole, Paromomycin, Iodoquinol, Diloxanide furoate
+Childhood Exotropia, Glasses, Vision therapy, Surgery, Prisms, Eye patching
+Chronic obstructive pulmonary disease (COPD), Bronchodilators, Inhaled corticosteroids, Phosphodiesterase-4 inhibitors, Oxygen therapy, Antibiotics (if bacterial)
+Kaposi’s Sarcoma, Antiretroviral therapy (ART), Chemotherapy, Radiation therapy, Immunotherapy, Surgery
+Eclampsia, Magnesium sulfate, Antihypertensives, Corticosteroids, Early delivery, IV fluids
+Guillain-Barré syndrome, IV immunoglobulin (IVIG), Plasmapheresis, Pain relievers, Physical therapy, Occupational therapy
+Brucellosis, Doxycycline, Rifampicin, Streptomycin, Gentamicin, Trimethoprim-sulfamethoxazole
+Amaurosis Fugax, Antiplatelet therapy, Anticoagulants, Carotid endarterectomy, Blood pressure management, Statins
+Cleft Lip and Cleft Palate, Surgery, Speech therapy, Orthodontic treatment, Ear tube placement, Supportive care
+Sarcoma, Surgery, Chemotherapy, Radiation therapy, Targeted therapy, Immunotherapy
+Lice, Permethrin, Malathion, Ivermectin, Spinosad, Benzyl alcohol
+Tinnitus, Antianxiety medications, Antidepressants, Sound therapy, Cognitive behavioral therapy, Hearing aids
+Fibroids, GnRH agonists, Uterine artery embolization, Myomectomy, Hysterectomy,
+Myelitis, Corticosteroids, Plasma exchange, Immunosuppressants, Physical therapy, Pain relievers
+Nausea and Vomiting of Pregnancy and Hyperemesis gravidarum, Ondansetron, Metoclopramide, Vitamin B6, Doxylamine, IV fluids
+Osteoporosis, Bisphosphonates, Denosumab, Raloxifene, Teriparatide, Calcium and vitamin D supplements
+Haemophilia, Factor VIII or IX replacement, Desmopressin, Antifibrinolytics, Pain relievers, Gene therapy

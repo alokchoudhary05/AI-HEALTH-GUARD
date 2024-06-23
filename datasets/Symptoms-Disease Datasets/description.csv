@@ -1,0 +1,291 @@
+Disease,Description
+Fungal infection,Fungal infection is a common skin condition caused by fungi.
+Allergy,Allergy is an immune system reaction to a substance in the environment.
+GERD,GERD (Gastroesophageal Reflux Disease) is a digestive disorder that affects the lower esophageal sphincter.
+Chronic cholestasis,Chronic cholestasis is a condition where bile flow from the liver is reduced for a prolonged period.
+Drug Reaction,Drug Reaction occurs when the body reacts adversely to a medication.
+Peptic ulcer disease,Peptic ulcer disease involves sores that develop on the inner lining of the stomach and small intestine.
+AIDS,AIDS (Acquired Immunodeficiency Syndrome) is a disease caused by HIV that weakens the immune system.
+Diabetes,Diabetes is a chronic condition that affects how the body processes blood sugar.
+Gastroenteritis,"Gastroenteritis is an inflammation of the stomach and intestines, typically caused by a virus or bacteria."
+Bronchial Asthma,Bronchial Asthma is a respiratory condition characterized by inflammation of the airways.
+Hypertension,"Hypertension, or high blood pressure, is a common cardiovascular condition."
+Migraine,Migraine is a type of headache that often involves severe pain and sensitivity to light and sound.
+Cervical spondylosis,Cervical spondylosis is a degenerative condition of the cervical spine.
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage) refers to the loss of muscle function due to bleeding in the brain.
+Jaundice,"Jaundice is a yellow discoloration of the skin and eyes, often indicating liver problems."
+Malaria,Malaria is a mosquito-borne infectious disease affecting humans and other animals.
+Chicken pox,Chicken pox is a highly contagious viral infection causing an itchy rash.
+Dengue,Dengue is a mosquito-borne viral infection causing flu-like symptoms.
+Typhoid,Typhoid is a bacterial infection that can lead to a high fever and gastrointestinal symptoms.
+hepatitis A,hepatitis A is a viral liver disease.
+Hepatitis B,Hepatitis B is a viral infection that attacks the liver.
+Hepatitis C,Hepatitis C is a viral infection that causes liver inflammation.
+Hepatitis D,Hepatitis D is a serious liver disease caused by the hepatitis D virus.
+Hepatitis E,Hepatitis E is a viral infection that causes liver inflammation.
+Alcoholic hepatitis,Alcoholic hepatitis is inflammation of the liver due to alcohol consumption.
+Tuberculosis,Tuberculosis is a bacterial infection that primarily affects the lungs.
+Common Cold,Common Cold is a viral infection of the upper respiratory tract.
+Pneumonia,Pneumonia is an inflammatory condition affecting the air sacs in the lungs.
+Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles) is a condition characterized by swollen blood vessels in the rectum.
+Heart attack,Heart attack is a sudden and severe reduction in blood flow to the heart muscle.
+Varicose veins,"Varicose veins are enlarged, twisted veins that usually appear on the legs."
+Hypothyroidism,Hypothyroidism is a condition where the thyroid gland doesn't produce enough thyroid hormone.
+Hyperthyroidism,Hyperthyroidism is a condition where the thyroid gland produces too much thyroid hormone.
+Hypoglycemia,Hypoglycemia is a condition characterized by abnormally low blood sugar levels.
+Osteoarthristis,Osteoarthristis is a degenerative joint disease that affects the cartilage in joints.
+Arthritis,"Arthritis is inflammation of one or more joints, causing pain and stiffness."
+(vertigo) Paroymsal Positional Vertigo,(Vertigo) Paroxysmal Positional Vertigo is a type of dizziness caused by specific head movements.
+Acne,Acne is a skin condition that occurs when hair follicles become clogged with oil and dead skin cells.
+Urinary tract infection,Urinary tract infection is an infection in any part of the urinary system.
+Psoriasis,"Psoriasis is a chronic skin condition characterized by red, itchy, and scaly patches."
+Impetigo,Impetigo is a highly contagious skin infection causing red sores that can break open.
+Tularemia,Tularemia is a rare infectious disease caused by the bacterium Francisella tularensis.
+Stroke,"Stroke occurs when blood flow to a part of the brain is interrupted, causing brain cells to die."
+Lead poisoning,"Lead poisoning is a condition caused by toxic levels of lead in the body, often from environmental exposure."
+Sickle-cell anemia,Sickle-cell anemia is a genetic blood disorder where red blood cells become misshapen and can block blood flow.
+Myocardial Infarction (Heart Attack),"Myocardial infarction, or heart attack, occurs when blood flow to the heart muscle is blocked, causing tissue damage."
+Rabies,Rabies is a deadly viral infection that spreads through the bite of an infected animal.
+Warkany syndrome,Warkany syndrome is a rare genetic disorder characterized by physical malformations and developmental delays.
+Celiacs disease,Celiac disease is an autoimmune disorder where ingestion of gluten leads to damage in the small intestine.
+Abscess,"An abscess is a collection of pus that forms in tissues, organs, or spaces inside the body due to infection."
+Perennial Allergic Conjunctivitis,Perennial allergic conjunctivitis is a year-round allergic eye inflammation caused by allergens such as dust mites and pet dander.
+Lyme disease,"Lyme disease is an infectious disease caused by the bacterium Borrelia burgdorferi, transmitted through tick bites."
+Japanese Encephalitis,Japanese encephalitis is a viral brain infection spread by mosquitoes in Asia and the western Pacific.
+Hepatitis A,Hepatitis A is a viral liver disease.
+Bronchitis,"Bronchitis is an inflammation of the bronchial tubes, leading to cough and mucus production."
+Influenza,"Influenza, or the flu, is a viral infection that affects the respiratory system."
+Multiple sclerosis,Multiple sclerosis is a chronic autoimmune disorder affecting the central nervous system.
+Anthrax,"Anthrax is a serious infectious disease caused by Bacillus anthracis, affecting the skin, lungs, and intestines."
+Brain Tumour,"A brain tumor is an abnormal growth of cells within the brain, which can be benign or malignant."
+Coronavirus disease 2019 (COVID-19),COVID-19 is a highly contagious respiratory illness caused by the SARS-CoV-2 virus.
+Lupus erythematosus,Lupus erythematosus is an autoimmune disease causing inflammation and damage to various body tissues.
+Carpal Tunnel Syndrome,"Carpal tunnel syndrome is a condition caused by compression of the median nerve in the wrist, leading to pain and numbness."
+Lymphoma,Lymphoma is a type of cancer that affects the lymphatic system.
+Insomnia,Insomnia is a sleep disorder characterized by difficulty falling or staying asleep.
+Goitre,Goitre is an abnormal enlargement of the thyroid gland.
+Polycystic ovary syndrome (PCOS),PCOS is a hormonal disorder causing enlarged ovaries with small cysts on the outer edges.
+Rubella,"Rubella, or German measles, is a contagious viral infection preventable by vaccine."
+Myopia,"Myopia, or nearsightedness, is a common vision condition where distant objects appear blurry."
+Postpartum depression/ Perinatal depression,Postpartum depression is a type of mood disorder that can affect women after childbirth.
+Vitamin B12 Deficiency,Vitamin B12 deficiency can cause anemia and nervous system damage.
+Heat-Related Illnesses and Heat waves,Heat-related illnesses include conditions like heat exhaustion and heat stroke caused by excessive heat exposure.
+Melanoma,Melanoma is a serious type of skin cancer that develops in the cells that produce melanin.
+Scrapie,"Scrapie is a fatal, degenerative disease affecting the nervous system of sheep and goats."
+Autism,Autism spectrum disorder is a developmental disorder affecting communication and behavior.
+Sepsis,Sepsis is a life-threatening condition caused by the body's response to infection.
+Mouth Breathing,Mouth breathing is the act of inhaling and exhaling through the mouth instead of the nose.
+Repetitive strain injury,Repetitive strain injury is a condition caused by repetitive movements leading to pain and damage to muscles and nerves.
+Iron Deficiency Anemia,Iron deficiency anemia is a condition where a lack of iron leads to a reduced number of red blood cells.
+Porphyria,Porphyria refers to a group of disorders caused by abnormalities in the chemical steps leading to heme production.
+Bubonic plague,"Bubonic plague is a severe infection caused by the bacterium Yersinia pestis, characterized by swollen lymph nodes."
+Strep throat,Strep throat is a bacterial infection causing inflammation and pain in the throat.
+Ebola,Ebola is a severe viral hemorrhagic fever caused by the Ebola virus.
+Tonsillitis,"Tonsillitis is inflammation of the tonsils, typically caused by viral or bacterial infections."
+Colitis,Colitis is inflammation of the inner lining of the colon.
+Oral Cancer,Oral cancer refers to cancer that develops in any part of the mouth.
+Leptospirosis,"Leptospirosis is a bacterial infection that affects humans and animals, caused by bacteria of the genus Leptospira."
+Urticaria,"Urticaria, or hives, is a skin condition characterized by red, itchy welts."
+Yellow Fever,"Yellow fever is a viral infection transmitted by mosquitoes, causing fever, chills, and jaundice."
+Rheumatic fever,Rheumatic fever is an inflammatory disease that can develop after a streptococcal infection.
+Alcohol Abuse and Alcoholism,"Alcohol abuse is the harmful use of alcohol, while alcoholism is an addiction to alcohol."
+Bleeding Gums,Bleeding gums are a common sign of gum disease or gingivitis.
+Thalassaemia,Thalassemia is a genetic blood disorder characterized by less hemoglobin and fewer red blood cells than normal.
+Glaucoma,"Glaucoma is a group of eye conditions that damage the optic nerve, leading to vision loss."
+Leukemia,Leukemia is a type of cancer that affects blood and bone marrow.
+Rift Valley fever,"Rift Valley fever is a viral disease that affects animals and humans, caused by the Rift Valley fever virus."
+Neonatal Respiratory Disease Syndrome(NRDS),NRDS is a condition seen in premature infants causing breathing difficulties.
+Breast Cancer / Carcinoma,Breast cancer is a malignancy that develops from breast tissue.
+Legionellosis,"Legionellosis, or Legionnaires' disease, is a severe form of pneumonia caused by Legionella bacteria."
+Hypothyroid,Hypothyroidism is a condition where the thyroid gland doesn't produce enough thyroid hormones.
+Botulism,Botulism is a rare but serious illness caused by a toxin that attacks the body's nerves.
+Eczema,"Eczema is a condition that makes the skin red, inflamed, and itchy."
+Chickenpox,"Chickenpox is a highly contagious viral infection causing an itchy, blister-like rash."
+Interstitial cystitis,"Interstitial cystitis is a chronic condition causing bladder pressure, bladder pain, and sometimes pelvic pain."
+Diabetic Retinopathy,Diabetic retinopathy is a diabetes complication that affects the eyes.
+Chlamydia,Chlamydia is a common sexually transmitted infection caused by bacteria.
+Endometriosis,Endometriosis is a disorder where tissue similar to the lining inside the uterus grows outside the uterus.
+Asbestos-related diseases,"Asbestos-related diseases include lung cancer, mesothelioma, and asbestosis caused by asbestos exposure."
+Ear infection,"An ear infection is an inflammation of the middle ear, often caused by bacteria."
+Trachoma,"Trachoma is an infectious eye disease caused by Chlamydia trachomatis, leading to blindness if untreated."
+papilloedema,Papilloedema is swelling of the optic disc due to increased intracranial pressure.
+Cerebral palsy,Cerebral palsy is a group of disorders affecting movement and muscle tone or posture caused by damage to the developing brain.
+Rickets,"Rickets is a condition in children caused by vitamin D deficiency, leading to soft and weak bones."
+Pelvic inflammatory disease,Pelvic inflammatory disease is an infection of the female reproductive organs.
+Necrotizing Fasciitis,Necrotizing fasciitis is a severe bacterial infection that destroys tissues under the skin.
+Mumps,Mumps is a viral infection that affects the salivary glands.
+Progeria,Progeria is a rare genetic disorder causing accelerated aging in children.
+Mononucleosis,"Mononucleosis, or ""mono,"" is an infectious disease caused by the Epstein-Barr virus."
+Carbon monoxide poisoning,"Carbon monoxide poisoning occurs when carbon monoxide builds up in the bloodstream, preventing oxygen delivery to tissues."
+Zika virus disease,"Zika virus disease is a mosquito-borne illness causing fever, rash, and joint pain, and can lead to birth defects if contracted during pregnancy."
+Colorectal Cancer,Colorectal cancer is cancer that starts in the colon or rectum.
+Cancer,Cancer is a disease where abnormal cells divide uncontrollably and destroy body tissue.
+Scurvy,Scurvy is a disease resulting from a deficiency of vitamin C.
+(vertigo) Paroymsal  Positional Vertigo,Vertigo is a sensation of spinning or dizziness often caused by inner ear problems.
+Osteomyelitis,Osteomyelitis is an infection in a bone.
+Asthma,Asthma is a chronic respiratory condition causing airway inflammation and difficulty breathing.
+Chorea,"Chorea is a movement disorder causing involuntary, unpredictable body movements."
+Peritonitis,"Peritonitis is inflammation of the peritoneum, often due to bacterial infection."
+Gonorrhea,Gonorrhea is a sexually transmitted bacterial infection.
+Down's Syndrome,Down's syndrome is a genetic disorder caused by the presence of an extra chromosome 21.
+Iritis,"Iritis is inflammation of the iris, the colored part of the eye."
+Alzheimer,Alzheimer's disease is a progressive neurodegenerative disorder causing memory loss and cognitive decline.
+Neoplasm,"A neoplasm is an abnormal growth of tissue, which can be benign or malignant."
+Tetanus,Tetanus is a serious bacterial infection causing muscle stiffness and spasms.
+Crimean Congo haemorrhagic fever (CCHF),CCHF is a tick-borne viral disease causing severe hemorrhagic fever.
+Anaemia,Anaemia is a condition where there is a lack of red blood cells or hemoglobin.
+Narcolepsy,Narcolepsy is a chronic sleep disorder characterized by overwhelming daytime drowsiness and sudden attacks of sleep.
+Vasovagal syncope,"Vasovagal syncope is a sudden drop in heart rate and blood pressure leading to fainting, often in response to a trigger."
+Warts,"Warts are small, non-cancerous growths on the skin caused by human papillomavirus (HPV)."
+Diabetes ,Diabetes is a chronic condition affecting how the body processes blood sugar.
+Common cold,The common cold is a viral infection of the upper respiratory tract.
+Hepatitis,"Hepatitis is inflammation of the liver, commonly caused by viral infections."
+Nipah virus infection,Nipah virus infection is a zoonotic illness causing severe respiratory and neurological symptoms.
+Parkinson's Disease,Parkinson's disease is a progressive neurodegenerative disorder affecting movement.
+Antepartum hemorrhage (Bleeding in late pregnancy),Antepartum hemorrhage is bleeding from the genital tract in late pregnancy.
+Inflammatory Bowel Disease,Inflammatory bowel disease includes chronic conditions like Crohn's disease and ulcerative colitis causing inflammation of the digestive tract.
+Cholera,Cholera is an acute diarrheal illness caused by infection of the intestine with Vibrio cholerae bacteria.
+Keratoconjunctivitis Sicca (Dry eye syndrome),Dry eye syndrome is a condition where the eyes do not produce enough tears or produce poor quality tears.
+Paratyphoid fever,"Paratyphoid fever is a bacterial infection similar to typhoid fever, caused by Salmonella paratyphi."
+Presbyopia,Presbyopia is the gradual loss of the eye's ability to focus on nearby objects with age.
+Calculi,Calculi are stone-like deposits that can form in organs like kidneys and gallbladder.
+Dehydration,Dehydration occurs when the body loses more fluids than it takes in.
+Scabies,Scabies is a contagious skin infestation caused by the mite Sarcoptes scabiei.
+Gangrene,Gangrene is the death of body tissue due to a lack of blood flow or a serious infection.
+Tay-Sachs disease,Tay-Sachs disease is a genetic disorder that results in the destruction of nerve cells in the brain and spinal cord.
+Premenstrual syndrome,Premenstrual syndrome is a group of symptoms that occur in women typically between ovulation and a period.
+Smallpox,Smallpox is a contagious and deadly disease caused by the variola virus.
+Yaws,"Yaws is a chronic bacterial infection affecting skin, bones, and joints, caused by Treponema pallidum."
+Acute encephalitis syndrome,"Acute encephalitis syndrome is a condition characterized by inflammation of the brain, often due to infection."
+Osteoarthritis,Osteoarthritis is a degenerative joint disease causing cartilage breakdown and joint pain.
+Neuralgia,"Neuralgia is intense, typically intermittent pain along the course of a nerve."
+Black Death,The Black Death was a devastating pandemic of bubonic plague that struck Europe and Asia in the 14th century.
+Laryngitis,"Laryngitis is inflammation of the larynx, causing hoarseness or loss of voice."
+Astigmatism,Astigmatism is a common vision condition causing blurred vision due to an irregularly shaped cornea.
+Blindness,"Blindness is the lack of vision, which can be partial or complete."
+Post Menopausal Bleeding,Postmenopausal bleeding is vaginal bleeding occurring after menopause.
+Nasal Polyps,Nasal polyps are noncancerous growths on the lining of the nasal passages or sinuses.
+Chronic fatigue syndrome,Chronic fatigue syndrome is a disorder characterized by extreme fatigue that doesn't improve with rest.
+High risk pregnancy,"A high-risk pregnancy is one where the mother, fetus, or both are at higher risk for complications."
+Stomach ulcers,Stomach ulcers are sores that develop on the lining of the stomach.
+Trichomoniasis,Trichomoniasis is a sexually transmitted infection caused by a parasite.
+Sexually transmitted infections (STIs),STIs are infections commonly spread through sexual contact.
+Epilepsy,"Epilepsy is a neurological disorder marked by recurrent, unprovoked seizures."
+Kuru,"Kuru is a rare and fatal neurodegenerative disorder caused by prion infection, historically found in Papua New Guinea."
+Kala-azar/ Leishmaniasis,"Kala-azar, or visceral leishmaniasis, is a parasitic disease spread by sandfly bites."
+Measles,"Measles is a highly contagious viral disease causing fever, cough, and a characteristic rash."
+Dracunculiasis (guinea-worm disease),"Dracunculiasis is a parasitic infection caused by the guinea worm, leading to painful skin ulcers."
+Muscular dystrophy,Muscular dystrophy is a group of genetic diseases causing progressive weakness and loss of muscle mass.
+Dysentery,Dysentery is an infection of the intestines causing severe diarrhea with blood.
+Irritable bowel syndrome,Irritable bowel syndrome is a chronic gastrointestinal disorder causing abdominal pain and altered bowel habits.
+Bunion,A bunion is a bony bump that forms on the joint at the base of the big toe.
+Scarlet fever,Scarlet fever is a bacterial illness that develops in some people with strep throat.
+Mastitis,"Mastitis is inflammation of breast tissue, often caused by infection."
+Shigellosis,"Shigellosis is an infectious disease caused by Shigella bacteria, leading to diarrhea, fever, and stomach cramps."
+Congenital anomalies (birth defects),Congenital anomalies are structural or functional abnormalities present at birth.
+Congestive heart disease,Congestive heart disease is a condition where the heart's ability to pump blood is inadequate to meet the body's needs.
+Diabetes Mellitus,Diabetes mellitus is a group of diseases that affect how your body uses blood sugar (glucose).
+Aseptic meningitis,"Aseptic meningitis is inflammation of the protective membranes covering the brain and spinal cord, not caused by bacterial infection."
+Dementia,"Dementia is a group of symptoms affecting memory, thinking, and social abilities severely enough to interfere with daily life."
+Puerperal sepsis,Puerperal sepsis is a severe infection occurring in women after childbirth.
+Cavities,Cavities are permanently damaged areas in the hard surface of your teeth that develop into tiny openings or holes.
+Bell's Palsy,Bell's palsy is a condition causing sudden weakness or paralysis of the muscles on one side of the face.
+Stevens-Johnson syndrome,"Stevens-Johnson syndrome is a rare, serious disorder of the skin and mucous membranes."
+Quinsy,Quinsy is a complication of tonsillitis where a pus-filled abscess forms near the tonsils.
+SIDS,"Sudden infant death syndrome (SIDS) is the unexplained death of a seemingly healthy baby, usually during sleep."
+Genital herpes,Genital herpes is a sexually transmitted infection caused by the herpes simplex virus.
+Multiple myeloma,"Multiple myeloma is a cancer of plasma cells, a type of white blood cell in the bone marrow."
+Frost Bite,Frostbite is an injury caused by freezing of the skin and underlying tissues.
+Appendicitis,"Appendicitis is inflammation of the appendix, often requiring surgical removal."
+Chikungunya Fever,"Chikungunya fever is a viral disease transmitted by mosquitoes, causing fever and severe joint pain."
+Mad cow disease,"Mad cow disease, or bovine spongiform encephalopathy (BSE), is a fatal neurodegenerative disease in cattle."
+Rheumatism,"Rheumatism is a general term for conditions causing chronic, often intermittent pain affecting the joints or connective tissue."
+Toxic shock syndrome,"Toxic shock syndrome is a rare, life-threatening complication of certain bacterial infections."
+SARS,Severe acute respiratory syndrome (SARS) is a viral respiratory illness caused by a coronavirus.
+Anxiety,Anxiety disorders are characterized by excessive fear or worry.
+lactose intolerance,"Lactose intolerance is the inability to digest lactose, a sugar found in milk and dairy products."
+Diphtheria,Diphtheria is a serious bacterial infection affecting the mucous membranes of the throat and nose.
+Beriberi,Beriberi is a disease caused by a deficiency of vitamin B1 (thiamine).
+Candidiasis,Candidiasis is a fungal infection caused by yeasts from the genus Candida.
+Syphilis,Syphilis is a sexually transmitted infection caused by the bacterium Treponema pallidum.
+Human papillomavirus,Human papillomavirus (HPV) is a viral infection that can cause genital warts and cancers.
+Myasthenia gravis,Myasthenia gravis is a chronic autoimmune neuromuscular disease causing weakness in the skeletal muscles.
+Obsessive Compulsive Disorder,Obsessive-compulsive disorder is a mental health disorder characterized by obsessive thoughts and compulsive actions.
+Shaken Baby Syndrome,Shaken baby syndrome is a serious brain injury resulting from forcefully shaking an infant or toddler.
+Food Poisoning,Food poisoning is an illness caused by consuming contaminated food or drink.
+Turners Syndrome,"Turner's syndrome is a chromosomal disorder affecting females, where one of the X chromosomes is missing or partially missing."
+Hypertension ,"Hypertension, or high blood pressure, is a common cardiovascular condition."
+Pericarditis,"Pericarditis is inflammation of the pericardium, the fluid-filled sac surrounding the heart."
+Adult Inclusion Conjunctivitis,Adult inclusion conjunctivitis is an eye infection caused by Chlamydia trachomatis.
+Trichinosis,Trichinosis is a parasitic disease caused by eating raw or undercooked meat infected with Trichinella larvae.
+Herpes Simplex,"Herpes simplex is a viral infection causing sores, most commonly around the mouth or genitals."
+Schizophrenia,"Schizophrenia is a chronic mental disorder affecting a person's ability to think, feel, and behave clearly."
+Scrub Typhus,"Scrub typhus is a disease caused by a mite-borne bacterium, causing fever, headache, and rash."
+Marburg fever,Marburg fever is a severe hemorrhagic fever caused by the Marburg virus.
+Sub-conjunctival Haemorrhage,Sub-conjunctival hemorrhage is bleeding underneath the conjunctiva of the eye.
+Peptic ulcer diseae,Peptic ulcer disease is a condition where open sores develop on the inside lining of the stomach and upper portion of the small intestine.
+Ectopic pregnancy,Ectopic pregnancy occurs when a fertilized egg implants and grows outside the main cavity of the uterus.
+Middle East respiratory syndrome coronavirus (MERS‚ÄêCoV),MERS-CoV is a viral respiratory illness caused by a coronavirus.
+Keratoconus,Keratoconus is a progressive eye disease causing the cornea to thin and bulge into a cone-like shape.
+Raynaud's Phenomenon,"Raynaud's phenomenon is a condition where cold temperatures or stress cause blood vessel spasms, reducing blood flow to extremities."
+Chagas disease,"Chagas disease is a tropical parasitic disease caused by Trypanosoma cruzi, transmitted by insects."
+Post-herpetic neuralgia,Post-herpetic neuralgia is a painful condition affecting nerve fibers and skin after a shingles outbreak.
+Gaming disorder,"Gaming disorder is characterized by impaired control over gaming, prioritizing gaming over other activities, and continuing gaming despite negative consequences."
+Shin splints,Shin splints are pain along the shin bone due to overuse or repetitive stress.
+Preeclampsia,Preeclampsia is a pregnancy complication characterized by high blood pressure and signs of damage to other organs.
+Ques fever,"Q fever is a bacterial infection caused by Coxiella burnetii, often found in cattle, sheep, and goats."
+Pulmonary embolism,"Pulmonary embolism is a blockage in one of the pulmonary arteries in the lungs, usually caused by blood clots."
+Bad Breath (Halitosis),"Halitosis is chronic bad breath, often caused by bacteria in the mouth."
+Atrophy,Atrophy is the wasting away or reduction in size of an organ or tissue due to disease or lack of use.
+Preterm birth,Preterm birth occurs when a baby is born before 37 completed weeks of pregnancy.
+"Hand, Foot and Mouth Disease","Hand, foot, and mouth disease is a contagious viral illness causing sores in the mouth and a rash on the hands and feet."
+Diarrhea,Diarrhea is the condition of having at least three loose or liquid bowel movements each day.
+Acquired Immuno Deficiency Syndrome,"AIDS is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV)."
+Anisometropia,Anisometropia is a condition where the two eyes have unequal refractive power.
+Taeniasis,Taeniasis is a parasitic infection caused by tapeworms in the intestine.
+Poliomyelitis,"Poliomyelitis, or polio, is a viral disease that can affect nerves and lead to partial or full paralysis."
+Acquired Capillary Haemangioma of Eyelid,Acquired capillary hemangioma of the eyelid is a benign vascular tumor of the eyelid.
+Rocky Mountain spotted fever,Rocky Mountain spotted fever is a bacterial disease spread by tick bites.
+Varicose Veins,"Varicose veins are swollen, twisted veins that are visible just under the surface of the skin, often in the legs."
+Orbital Dermoid,An orbital dermoid is a benign cystic tumor in or around the eye.
+Alopecia (hair loss),Alopecia refers to hair loss from the scalp or other parts of the body.
+Hypotonia,"Hypotonia is decreased muscle tone, often involving reduced strength."
+Shingles,"Shingles is a viral infection causing a painful rash, reactivated from the chickenpox virus."
+Sciatica,"Sciatica is pain affecting the back, hip, and outer side of the leg, caused by compression of a spinal nerve root."
+Leprosy,"Leprosy is a chronic infectious disease caused by Mycobacterium leprae, affecting the skin and nerves."
+Condyloma,"Condyloma, or genital warts, is a sexually transmitted infection caused by certain types of HPV."
+Burns,"Burns are tissue damage caused by heat, chemicals, electricity, sunlight, or radiation."
+Pinguecula,Pinguecula is a benign growth on the conjunctiva of the eye.
+Fibromyalgia,Fibromyalgia is a chronic condition characterized by widespread musculoskeletal pain and fatigue.
+Sarcoidosis,"Sarcoidosis is an inflammatory disease where granulomas form in various organs, most commonly the lungs and lymph nodes."
+Vitiligo,"Vitiligo is a condition causing loss of skin pigment, resulting in white patches."
+Lung cancer,Lung cancer is a type of cancer that begins in the lungs.
+Chalazion,"A chalazion is a slow-growing, painless lump in the eyelid caused by a blocked oil gland."
+Corneal Abrasion,A corneal abrasion is a scratch on the cornea of the eye.
+Hypermetropia,"Hypermetropia, or farsightedness, is a common vision condition where distant objects can be seen more clearly than close ones."
+Obesity,Obesity is a medical condition characterized by excessive body fat.
+Campylobacter infection,Campylobacter infection is a bacterial infection causing gastroenteritis with diarrhea and abdominal cramps.
+Early pregnancy loss,"Early pregnancy loss, or miscarriage, is the loss of a pregnancy before 20 weeks."
+Coronary Heart Disease,Coronary heart disease is a condition where the coronary arteries become narrowed or blocked.
+Cough,A cough is a reflex action to clear the airways of mucus and irritants.
+Amblyopia,"Amblyopia, or lazy eye, is a vision development disorder where an eye fails to achieve normal visual acuity."
+Aniseikonia,Aniseikonia is a condition where there is a significant difference in the perceived size of images between the two eyes.
+Taeniasis/cysticercosis,"Taeniasis is an intestinal infection by adult tapeworms, while cysticercosis occurs when larvae infect tissues."
+Tennis elbow,Tennis elbow is a painful condition caused by overuse of the elbow.
+Amoebiasis,Amoebiasis is an intestinal illness caused by the parasite Entamoeba histolytica.
+Childhood Exotropia,Childhood exotropia is a condition where one or both eyes turn outward.
+Chronic obstructive pulmonary disease (COPD),"COPD is a group of lung diseases causing breathing difficulties, including emphysema and chronic bronchitis."
+Kaposi‚Äôs Sarcoma,"Kaposiís sarcoma is a cancer that causes lesions in the skin, lymph nodes, and other organs."
+Eclampsia,Eclampsia is a severe complication of pregnancy causing seizures.
+Guillain-Barr√© syndrome,Guillain-BarrÈ syndrome is a rare disorder where the immune system attacks the nerves.
+Brucellosis,"Brucellosis is a bacterial infection spread from animals to humans, causing fever, joint pain, and fatigue."
+Amaurosis Fugax,Amaurosis fugax is a temporary loss of vision in one eye due to a lack of blood flow to the retina.
+Cleft Lip and Cleft Palate,Cleft lip and cleft palate are congenital deformities where the lip or roof of the mouth does not form properly.
+Sarcoma,Sarcoma is a type of cancer that begins in bones and soft tissues.
+Lice,Lice are small parasitic insects that infest the hair and scalp.
+Tinnitus,Tinnitus is the perception of noise or ringing in the ears.
+Fibroids,Fibroids are benign tumors that grow in or on the uterus.
+Myelitis,Myelitis is inflammation of the spinal cord.
+Nausea and Vomiting of Pregnancy and  Hyperemesis gravidarum,"These are symptoms of pregnancy with severe cases known as hyperemesis gravidarum, causing extreme, persistent nausea and vomiting."
+Osteoporosis,Osteoporosis is a condition where bones become weak and brittle.
+Haemophilia,Haemophilia is a genetic disorder affecting the blood's ability to clot.

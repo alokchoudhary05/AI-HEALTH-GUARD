@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heart Disease Prediction Form</title>
+    <link rel="stylesheet" href="/static/css/common.css">
+    <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background: url('https://img.freepik.com/premium-vector/abstract-health-wellness-icons-medical-medical-treatment-modern-medical-invention_36402-1247.jpg?w=1060') center no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            background-repeat: no-repeat;
+            overflow-x: hidden;
+        }
+        .form-container {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+            width: 90%;
+            max-width: 800px;
+            margin: 100px auto;
+        }
+        h1 {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+        form {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            justify-content: space-between;
+        }
+        .form-group {
+            flex: 0 1 calc(50% - 15px);
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: white;
+            font-weight: bold;
+        }
+        input, select {
+            width: 100%;
+            padding: 12px;
+            border: none;
+            border-radius: 5px;
+            background: rgba(255, 255, 255, 0.2);
+            color: rgb(47, 47, 47);
+            font-size: 20px;
+        }
+        select {
+            appearance: none;
+            background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23FFFFFF%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E');
+            background-repeat: no-repeat;
+            background-position: right 12px top 50%;
+            background-size: 12px auto;
+        }
+        button {
+            width: 100%;
+            margin-top: 30px;
+            padding: 15px;
+            border: none;
+            border-radius: 5px;
+            background: rgba(255, 255, 255, 0.3);
+            color: white;
+            cursor: pointer;
+            transition: background 0.3s ease;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        button:hover {
+            background: rgba(255, 255, 255, 0.4);
+        }
+        @media (max-width: 768px) {
+            .form-group {
+                flex: 1 1 100%;
+            }
+            form {
+                gap: 20px;
+            }
+        }
+
+        .heart_result{
+            display: flex;
+            position: relative;
+            justify-content: space-around;
+            flex-direction: column;
+            text-align: center;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        .heart_result h3{
+            font-size: 1.5em;
+            color: rgb(110, 0, 96);
+        }
+        .heart_result span{
+            font-size: 1.2em;
+            color: rgb(104, 232, 6);
+        }
+    </style>
+</head>
+<body>
+
+    <header class="header">
+        <nav class="navbar">
+          <div class="logo"><img src="/static/images/logo.png" class="logo-main" alt="logo" title="logo"></div>
+          <ul class="nav-list">
+            <li class="navli home" style="--i:1; --clr:#0f0;"><a href="/">Home</a></li>
+            <li class="navli contact" style="--i:2; --clr:rgb(245, 61, 255);"><a href="{{ url_for('contact') }}">Contact</a></li>
+            <li class="navli about" style="--i:3; --clr:rgb(229, 255, 0); "><a href="{{ url_for('about') }}">About</a></li>
+            <li class="navli wellness" style="--i:4; --clr:rgb(255, 90, 148);"><a href="#">Wellness Tracker &#x25BF;</a>
+              <ul class="submenu">
+                <li><a href="{{ url_for('pregnancy') }}">Pregnancy Risk Prediction</a></li>
+                <li><a href="{{ url_for('heart') }}">Heart Disease Prediction</a></li>
+                <li><a href="{{ url_for('diabetes') }}">Diabetic Disease Prediction</a></li>
+            </ul>
+            </li>
+          </ul>
+    
+          <div class="hamburger">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+          </div>
+    
+        </nav>
+      </header>
+    
+      <div class="ext_menu">
+        <ul class="ex_ul">
+          <li class="ex_navli home" style="--i:1; --clr:#0f0;"><a href="/">Home</a></li>
+          <li class="ex_navli contact" style="--i:2; --clr:rgb(245, 61, 255);"><a href="{{ url_for('contact') }}">Contact</a></li>
+          <li class="ex_navli about" style="--i:3; --clr:rgb(229, 255, 0); "><a href="{{ url_for('about') }}">About</a></li>
+          <li class="ex_navli wellness" style="--i:4; --clr:rgb(255, 90, 148);"><a href="#">Wellness Tracker &#x25BF;</a>
+            <ul class="submenu">
+                <li><a href="{{ url_for('pregnancy') }}">Pregnancy Risk Prediction</a></li>
+                <li><a href="{{ url_for('heart') }}">Heart Disease Prediction</a></li>
+                <li><a href="{{ url_for('diabetes') }}">Diabetic Disease Prediction</a></li>
+          </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div class="form-container">
+        <h1>Heart Disease Prediction</h1>
+        <form id="heart-form" method="post">
+            <div class="form-group">
+                <label for="age">Age:</label>
+                <input type="number" id="age" name="age" required>
+            </div>
+
+            <div class="form-group">
+                <label for="sex">Sex:</label>
+                <select id="sex" name="sex" required>
+                    <option value="">Select</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="cp">Chest Pain types:</label>
+                <select id="cp" name="cp" required>
+                    <option value="">Select</option>
+                    <option value="Low pain">Low pain</option>
+                    <option value="Mild pain">Mild pain</option>
+                    <option value="Moderate pain">Moderate pain</option>
+                    <option value="Extreme pain">Extreme pain</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="trestbps">Resting Blood Pressure:</label>
+                <input type="number" id="trestbps" name="trestbps" required>
+            </div>
+
+            <div class="form-group">
+                <label for="chol">Serum Cholesterol in mg/dl:</label>
+                <input type="number" id="chol" name="chol" required>
+            </div>
+
+            <div class="form-group">
+                <label for="fbs">Fasting Blood Sugar > 120 mg/dl:</label>
+                <select id="fbs" name="fbs" required>
+                    <option value="">Select</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="restecg">Resting Electrocardiographic results:</label>
+                <input type="text" id="restecg" name="restecg" required>
+            </div>
+
+            <div class="form-group">
+                <label for="thalach">Maximum Heart Rate achieved:</label>
+                <input type="number" id="thalach" name="thalach" required>
+            </div>
+
+            <div class="form-group">
+                <label for="exang">Exercise Induced Angina:</label>
+                <select id="exang" name="exang" required>
+                    <option value="">Select</option>
+                    <option value="Yes">Yes</option>
+                    <option value="No">No</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="oldpeak">ST depression induced by exercise:</label>
+                <input type="number" id="oldpeak" name="oldpeak" step="0.1" required>
+            </div>
+
+            <div class="form-group">
+                <label for="slope">Slope of the peak exercise ST segment:</label>
+                <input type="text" id="slope" name="slope" required>
+            </div>
+
+            <div class="form-group">
+                <label for="ca">Major vessels colored by fluoroscopy:</label>
+                <input type="number" id="ca" name="ca" min="0" max="3" required>
+            </div>
+
+            <div class="form-group">
+                <label for="thal">Thalassemia:</label>
+                <select id="thal" name="thal" required>
+                    <option value="">Select</option>
+                    <option value="Normal (No Thalassemia)">Normal (No Thalassemia)</option>
+                    <option value="Fixed Defect (Beta-thalassemia minor)">Fixed Defect (Beta-thalassemia minor)</option>
+                    <option value="Reversible Defect (Beta-thalassemia intermedia)">Reversible Defect (Beta-thalassemia intermedia)</option>
+                    <option value="Serious Defect (Beta-thalassemia major)">Serious Defect (Beta-thalassemia major)</option>
+                </select>
+            </div>
+
+            <button type="submit" id="submit">Predict</button>
+        </form>
+    </div>
+
+    <div id="serachresult" class="search_result">
+        <div class="close-btn">&#x2715;</div>
+    
+        <div class="top_bind">
+          <h2>Search Results :</h2>
+          <hr>
+        </div>
+    
+     <div class="card_section">
+      
+      <div class="result_card rcard1"></div>
+      
+     </div>
+      
+                 
+    
+      </div>
+    
+    <!-- search result card ends here -->
+      
+    <div class="animation1">
+        <dotlottie-player src="https://lottie.host/0cb393f6-3a61-42a2-aead-aa2ac4b8a58d/YUh8rRe1nx.json" background="transparent" speed="1" style="width: 300px; height: 300px" direction="1" playMode="normal" loop autoplay></dotlottie-player>
+    </div>
+    
+    <div class="animation2">
+        <dotlottie-player src="https://lottie.host/4c2dff67-5e98-4392-9829-c1a5324cc277/Ql0OShTDzY.json" background="transparent" speed="1" style="width: 200px; height: 200px" direction="1" playMode="normal" loop autoplay></dotlottie-player>
+    </div>
+  
+    <script>
+        document.querySelector('.hamburger').addEventListener('click', () => {
+            document.querySelector('.hamburger').classList.toggle('active');
+            document.querySelector('.ext_menu').classList.toggle('active');
+        });
+
+        document.querySelector('.close-btn').addEventListener('click', () => {
+            document.querySelector('#serachresult').classList.remove('active');
+        });
+
+        document.getElementById('heart-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const formData = new FormData(e.target);
+            const data = {};
+            formData.forEach((value, key) => data[key] = value);
+
+            const response = await fetch('{{ url_for('heart') }}', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            });
+            
+            const result = await response.json();
+            
+            document.querySelector('#serachresult .result_card').innerHTML = `
+                <div class="heart_result">
+                    <h3 style="text-align:center">Prediction ↓</h3>
+                   <span style="color: ${result.color}; filter:hue-rotate(10deg);">${result.prediction_text}</span>
+                </div>
+            `;
+            document.querySelector('#serachresult').classList.add('active');
+        });
+    </script>
+</body>
+</html>

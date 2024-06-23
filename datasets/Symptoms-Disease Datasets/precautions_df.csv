@@ -1,0 +1,418 @@
+Disease, Precaution_1, Precaution_2, Precaution_3, Precaution_4, Precaution_5
+Tularemia, Avoid exposure to rabbits and rodents, Use insect repellent, Wear gloves when handling animals, Wear protective clothing,
+Stroke, Recognize symptoms early (FAST: Face, Arms, Speech, Time), Seek immediate medical attention
+Lead poisoning, Avoid exposure to lead-based paints and products, Ensure proper ventilation in lead-exposed areas, Use lead-safe practices in occupations, Ensure children avoid lead-contaminated soil or toys,
+Sickle-cell anemia, Stay hydrated, Avoid extreme temperatures, Manage pain with medications as prescribed, Regular medical check-ups,
+Myocardial Infarction (Heart Attack), Call emergency services immediately, Chew aspirin if advised, Monitor heart rate and blood pressure, Follow cardiac rehabilitation program,
+Rabies, Get vaccinated if at risk, Avoid contact with wild animals, Wash animal bites or scratches thoroughly with soap and water, Seek medical help if exposed,
+Warkany syndrome, Early detection through prenatal screening, Genetic counseling for families, Monitor and manage associated health issues, Provide supportive care for affected individuals,
+Celiac disease, Strict gluten-free diet, Read food labels carefully, Consult with a dietitian, Educate family and caregivers,
+Abscess, Keep affected area clean and dry, Apply warm compresses, Take prescribed antibiotics, Seek medical care for drainage or worsening symptoms,
+Perennial Allergic Conjunctivitis, Avoid allergens (e.g., dust, pollen), Use antihistamine eye drops, Keep windows closed during pollen season
+Lyme disease, Wear long sleeves and pants in wooded areas, Use insect repellent with DEET, Perform tick checks after outdoor activities, Remove ticks promptly and correctly,
+Japanese Encephalitis, Vaccination before travel to endemic areas, Use mosquito nets and repellents, Avoid outdoor activities at dawn and dusk, Seek medical care for fever or neurological symptoms,
+Hepatitis A, Practice good hygiene (handwashing), Get vaccinated, Avoid consuming contaminated food or water, Seek medical care for symptoms,
+Bronchitis, Quit smoking and avoid secondhand smoke, Stay hydrated, Use a humidifier, Rest and take prescribed medications,
+Influenza, Get vaccinated annually, Practice good hygiene (handwashing, covering mouth when coughing), Stay home when sick, Take antiviral medications if prescribed
+Multiple sclerosis, Follow prescribed treatment plan, Manage stress, Stay physically active within capabilities, Join support groups,
+Anthrax, Handle potentially contaminated items carefully, Follow workplace safety protocols, Take antibiotics as prescribed, Seek medical attention for symptoms,
+Brain Tumour, Seek immediate medical attention for symptoms, Follow recommended treatment plan, Manage symptoms and side effects, Seek support from healthcare professionals and support groups,
+Coronavirus disease 2019 (COVID-19), Practice physical distancing, Wear masks in public settings, Wash hands frequently, Get vaccinated and boosted,
+Lupus erythematosus, Protect skin from sun exposure, Manage stress, Follow treatment plan as prescribed, Join support groups,
+Carpal Tunnel Syndrome, Use ergonomic tools and wrist supports, Take breaks from repetitive tasks, Perform stretching exercises for hands and wrists, Consider splints at night,
+Lymphoma, Follow prescribed treatment plan (chemotherapy, radiation), Manage side effects of treatment, Attend regular medical check-ups, Seek support from oncologists and support groups
+Insomnia, Establish regular sleep schedule, Create a relaxing bedtime routine, Limit caffeine and alcohol intake, Practice relaxation techniques,
+Goitre, Ensure adequate dietary iodine intake, Avoid excessive consumption of raw cruciferous vegetables, Follow prescribed medications, Regular medical follow-up,
+Polycystic ovary syndrome (PCOS), Maintain a healthy weight, Manage insulin levels, Monitor hormonal balance, Seek fertility counseling if needed,
+Rubella, Get vaccinated (MMR vaccine), Avoid contact with infected individuals, Practice good hygiene, Avoid pregnancy during exposure risk,
+Myopia, Use corrective lenses as prescribed, Take breaks from close work (e.g., screen time), Monitor vision changes, Attend regular eye exams
+Postpartum depression/Perinatal depression, Seek social support, Attend counseling or therapy, Practice self-care, Discuss treatment options with healthcare provider,
+Vitamin B12 Deficiency, Consume B12-rich foods or supplements, Follow prescribed B12 injections, Address underlying causes (e.g., pernicious anemia), Regularly monitor B12 levels
+Heat-Related Illnesses and Heat waves, Stay hydrated, Stay indoors during peak heat hours, Wear lightweight, loose-fitting clothing, Use fans or air conditioning
+Melanoma, Use sunscreen with SPF 30 or higher, Avoid sun exposure during peak hours (10 AM - 4 PM), Perform skin self-exams, Seek medical evaluation for suspicious moles,
+Scrapie, Implement flock/herd management practices to prevent spread, Follow veterinary guidance for testing and management, Practice biosecurity measures, Report suspected cases,
+Autism, Early intervention and therapy programs, Create structured routines, Provide sensory accommodations, Educate caregivers and educators,
+Sepsis, Recognize early signs (e.g., high fever, rapid breathing), Seek immediate medical attention, Administer antibiotics promptly
+Mouth Breathing, Identify and treat underlying causes (e.g., allergies, nasal congestion), Practice breathing exercises, Maintain oral hygiene
+Repetitive strain injury, Take regular breaks from repetitive tasks, Use ergonomic equipment and techniques, Perform stretching and strengthening exercises, Seek medical advice if symptoms persist,
+Iron Deficiency Anemia, Increase dietary iron intake (iron-rich foods), Take iron supplements as prescribed, Address underlying causes (e.g., gastrointestinal bleeding), Regularly monitor iron levels
+Porphyria, Avoid triggers (e.g., certain medications, alcohol, sunlight), Wear protective clothing and sunscreen
+Bubonic plague, Avoid close contact with rodents and fleas, Use insect repellent, Implement rodent control measures, Seek medical care for symptoms,
+Strep throat, Finish prescribed antibiotics, Practice good hygiene (handwashing, covering mouth), Avoid sharing utensils and personal items, Seek medical care for severe symptoms or complications
+Ebola, Practice strict infection control measures (e.g., isolation, personal protective equipment), Seek medical care in outbreak areas, Avoid contact with bodily fluids of infected individuals
+Tonsillitis, Rest and drink plenty of fluids, Take prescribed antibiotics if bacterial, Use throat lozenges or gargles for relief, Avoid irritants (e.g., smoking
+Colitis, Follow prescribed treatment plan (medications, diet), Avoid trigger foods (e.g., spicy foods, alcohol)
+Oral Cancer, Avoid tobacco and excessive alcohol consumption, Perform oral self-exams regularly, Visit dentist for routine check-ups, Seek medical evaluation for persistent oral lesions,
+Leptospirosis, Avoid contact with contaminated water or soil, Wear protective clothing and footwear in high-risk areas, Seek medical care for fever or flu-like symptoms, Vaccinate pets,
+Urticaria, Identify and avoid triggers (e.g., certain foods, medications), Take antihistamines as prescribed, Apply cool compresses to affected areas
+Yellow Fever, Get vaccinated before traveling to endemic areas, Use insect repellent, Wear protective clothing, Seek medical care for symptoms,
+Rheumatic fever, Complete antibiotic treatment for strep throat, Take prescribed medications (e.g., aspirin), Manage heart health with regular follow-ups, Prevent recurrent strep infections
+Alcohol Abuse and Alcoholism, Seek counseling or support groups, Consider rehabilitation programs, Establish healthy coping mechanisms, Avoid triggers for alcohol use,
+Bleeding Gums, Practice good oral hygiene (brushing, flossing), Use a soft toothbrush, Avoid tobacco products, Visit dentist regularly
+Thalassaemia, Manage iron levels (regular monitoring and chelation therapy), Seek genetic counseling, Manage symptoms (e.g., blood transfusions), Follow treatment plan as prescribed
+Glaucoma, Attend regular eye exams, Use prescribed eye drops as directed, Protect eyes from injury, Manage overall health and blood pressure,
+Leukemia, Follow prescribed treatment plan (chemotherapy, radiation), Manage side effects of treatment, Attend regular medical check-ups, Seek support from oncologists and support groups
+Rift Valley fever, Avoid contact with infected animals or their tissues, Use insect repellent, Practice safe handling of animal products, Seek medical care for symptoms,
+Neonatal Respiratory Disease Syndrome(NRDS), Provide supportive care in neonatal intensive care unit (NICU), Administer surfactant therapy if indicated, Monitor respiratory function closely, Consider preventive measures for premature birth,
+Breast Cancer / Carcinoma, Perform regular breast self-exams, Attend regular mammograms if recommended, Follow prescribed treatment plan (surgery, chemotherapy), Seek support from oncologists and support groups
+Legionellosis, Maintain clean water systems (e.g., cooling towers, hot tubs), Ensure proper disinfection of water sources, Monitor water quality regularly
+Hypothyroid, Take thyroid hormone replacement medication as prescribed, Attend regular thyroid function tests, Maintain a balanced diet, Manage stress and fatigue,
+Botulism, Avoid improperly canned foods, Seek medical attention for symptoms, Avoid honey in infants, Follow safe food handling practices,
+Eczema, Moisturize skin regularly, Avoid triggers (e.g., certain soaps, allergens), Use mild soaps and detergents
+Chickenpox, Get vaccinated (Varicella vaccine), Avoid contact with infected individuals, Keep nails short to prevent scratching, Use antihistamines and calamine lotion for itch relief,
+Interstitial cystitis, Avoid triggers (e.g., certain foods, stress), Drink plenty of water, Try bladder training techniques
+Diabetic Retinopathy, Control blood sugar levels, Attend regular eye exams, Manage blood pressure and cholesterol levels, Follow prescribed treatment plan,
+Chlamydia, Practice safe sex (use condoms), Get tested regularly, Notify partners of infection, Complete prescribed antibiotic treatment,
+Endometriosis, Manage pain with medications and heat therapy, Consider hormone therapy, Discuss surgical options with healthcare provider, Manage stress and practice self-care,
+Asbestos-related diseases, Avoid exposure to asbestos fibers, Use protective equipment in high-risk occupations, Follow workplace safety guidelines, Monitor lung health regularly,
+Ear infection, Keep ears dry and clean, Avoid exposure to cigarette smoke and allergens, Complete prescribed antibiotic treatment, Manage pain and fever with medications,
+Trachoma, Improve facial cleanliness, Promote environmental improvements (e.g., water and sanitation), Use antibiotics as prescribed, Seek surgery for advanced cases
+Papilloedema, Treat underlying conditions causing increased intracranial pressure, Monitor optic nerve function, Manage symptoms with medications, Seek neuro-ophthalmologic care,
+Cerebral palsy, Early intervention therapies (physical, occupational, speech), Manage associated conditions (e.g., seizures)
+Rickets, Increase vitamin D intake (sun exposure, supplements), Consume calcium-rich foods, Follow medical advice for underlying causes, Monitor bone health regularly
+Pelvic inflammatory disease, Practice safe sex (use condoms), Get tested for STIs regularly, Complete prescribed antibiotic treatment, Manage symptoms with pain relievers and heat therapy,
+Necrotizing Fasciitis, Seek immediate medical attention, Undergo surgical debridement as needed, Receive intravenous antibiotics, Monitor closely in intensive care setting,
+Mumps, Get vaccinated (MMR vaccine), Practice good hygiene (handwashing), Avoid sharing utensils and personal items, Manage symptoms with rest and pain relievers,
+Progeria, Manage symptoms with supportive care, Monitor cardiovascular health closely, Consider experimental treatments, Coordinate care with specialists,
+Mononucleosis, Rest and avoid physical exertion, Manage fever and pain with medications, Drink plenty of fluids, Avoid close contact with others, especially infants
+Carbon monoxide poisoning, Ventilate living spaces and install carbon monoxide detectors, Seek fresh air immediately if symptoms occur, Seek medical attention for severe symptoms, Avoid using gas-powered equipment indoors,
+Zika virus disease, Prevent mosquito bites (use repellent, wear protective clothing), Avoid travel to affected areas, Practice safe sex (use condoms), Get tested if at risk
+Colorectal Cancer, Get screened regularly (colonoscopy, fecal occult blood tests), Maintain a healthy weight, Eat a balanced diet high in fiber and low in red meat, Avoid smoking and excessive alcohol consumption
+Cancer, Follow recommended screenings for specific types of cancer, Maintain a healthy lifestyle (balanced diet, exercise), Seek medical advice for unusual symptoms, Discuss family history with healthcare provider
+Scurvy, Increase vitamin C intake (fruits, vegetables), Cook foods with minimal water, Avoid smoking and alcohol, Follow medical advice for severe cases
+(vertigo) Paroxysmal Positional Vertigo, Avoid sudden head movements, Use assistive devices (e.g., canes), Practice specific head exercises (Epley maneuver), Manage stress and anxiety
+Osteomyelitis, Complete prescribed antibiotic treatment, Undergo surgical debridement if necessary, Use supportive care for pain management, Monitor closely for recurrence,
+Asthma, Follow prescribed asthma action plan, Avoid triggers (e.g., allergens, smoke), Use inhalers and medications as directed
+Chorea, Manage underlying conditions (e.g., Huntington's disease), Use medications to manage symptoms (e.g., antipsychotics), Engage in physical and occupational therapy
+Peritonitis, Seek immediate medical attention, Administer intravenous antibiotics, Monitor closely in intensive care setting, Address underlying causes (e.g., perforated organ)
+Gonorrhea, Practice safe sex (use condoms), Get tested regularly, Complete prescribed antibiotic treatment, Notify partners of infection,
+Down's Syndrome, Early intervention therapies (physical, speech, occupational), Manage associated health conditions, Provide educational and social support
+Iritis, Seek immediate ophthalmologic care, Use prescribed eye drops and medications, Protect eyes from bright light, Manage underlying conditions (e.g., autoimmune diseases)
+Alzheimer's Disease, Maintain cognitive function (e.g., puzzles, reading), Create structured routines, Ensure safety at home (e.g.
+Neoplasm, Follow recommended screenings for specific types of cancer, Manage symptoms and treatment side effects, Seek medical advice for new or changing symptoms, Discuss family history with healthcare provider,
+Tetanus, Get vaccinated (Tdap vaccine), Seek medical care for wounds, Clean wounds thoroughly with soap and water, Receive tetanus immunoglobulin if necessary,
+Crimean Congo haemorrhagic fever (CCHF), Prevent tick bites (use repellent, wear protective clothing), Avoid contact with infected animals or blood, Practice safe handling of animal products, Seek medical care for symptoms
+Anaemia, Increase iron intake (iron-rich foods, supplements), Address underlying causes (e.g., bleeding disorders, nutritional deficiencies)
+Narcolepsy, Establish regular sleep schedule, Take scheduled naps as needed, Manage medications as prescribed, Avoid alcohol and stimulants,
+Vasovagal syncope, Avoid triggers (e.g., prolonged standing, dehydration), Practice muscle tensing techniques when feeling faint, Lie down and elevate legs during episodes
+Warts, Avoid touching or picking at warts, Use over-the-counter treatments (e.g., salicylic acid), Consider cryotherapy or other medical treatments, Prevent spread by covering warts
+Diabetes, Monitor blood sugar levels regularly, Follow a balanced diet and exercise plan, Take medications as prescribed, Attend regular medical check-ups,
+Common cold, Practice good hygiene (handwashing, covering mouth), Avoid close contact with infected individuals, Stay hydrated and rested, Use over-the-counter medications for symptom relief
+Hepatitis, Practice good hygiene (handwashing), Get vaccinated (Hepatitis A and B), Avoid sharing personal items, Seek medical attention for symptoms,
+Nipah virus infection, Avoid contact with infected animals (especially bats), Practice safe food handling and preparation, Use personal protective equipment in healthcare settings, Seek medical care for symptoms,
+Parkinson's Disease, Follow prescribed medications and therapies, Maintain regular exercise and physical therapy, Manage diet and nutrition, Seek support from Parkinson's disease specialists and support groups,
+Antepartum hemorrhage (Bleeding in late pregnancy), Seek immediate medical attention, Monitor fetal movements, Receive blood transfusions if necessary, Bed rest and reduced activity as advised,
+Inflammatory Bowel Disease, Follow prescribed medications (e.g., anti-inflammatories), Manage diet and nutrition (e.g., low-fiber during flare-ups), Attend regular medical check-ups
+Cholera, Practice good hygiene (handwashing, safe water, sanitation), Drink safe and treated water, Seek medical attention for severe dehydration
+Keratoconjunctivitis Sicca (Dry eye syndrome), Use artificial tears and lubricating eye drops, Avoid dry and windy environments, Manage underlying conditions (e.g., autoimmune diseases), Consider humidity control at home
+Paratyphoid fever, Practice good hygiene (handwashing, safe food handling), Drink safe and treated water, Complete prescribed antibiotic treatment, Vaccination in endemic areas
+Presbyopia, Use reading glasses or corrective lenses as prescribed, Improve lighting for reading and close work, Discuss surgical options (e.g., monovision correction), Attend regular eye exams
+Calculi (Kidney Stones), Stay hydrated, Reduce salt and animal protein intake, Avoid foods high in oxalate (e.g., spinach, nuts)
+Dehydration, Drink plenty of fluids, Especially in hot weather or during illness, Eat foods high in water content, Seek medical attention for severe dehydration,
+Scabies, Treat all household members and close contacts, Launder all bedding and clothing in hot water, Apply prescribed medications (e.g., permethrin cream), Avoid close skin-to-skin contact
+Gangrene, Seek immediate medical attention, Undergo surgical debridement as necessary, Receive antibiotics and wound care, Manage underlying conditions contributing to poor circulation,
+Tay-Sachs disease, Provide supportive care for symptoms, Coordinate care with specialists, Seek genetic counseling, Manage complications (e.g., respiratory and nutritional support)
+Premenstrual syndrome (PMS), Maintain a healthy lifestyle (balanced diet, exercise), Manage stress and anxiety, Consider medications for symptom relief, Track symptoms and patterns
+Smallpox, Get vaccinated (smallpox vaccine), Avoid close contact with infected individuals, Practice strict infection control measures, Seek medical attention for symptoms,
+Yaws, Participate in mass treatment campaigns, Promote improved sanitation and hygiene, Treat all household contacts, Monitor for recurrence and complications,
+Acute encephalitis syndrome, Seek immediate medical attention, Monitor for neurological symptoms, Receive supportive care (e.g., antiviral medications), Vaccination for preventable causes
+Osteoarthritis, Maintain a healthy weight, Exercise regularly (low-impact activities), Use assistive devices (e.g., braces, canes)
+Neuralgia, Manage underlying conditions (e.g., diabetes, infections), Use medications for pain management (e.g., anticonvulsants
+Black Death (Bubonic plague), Avoid contact with rodents and fleas, Use insect repellent, Implement rodent control measures, Seek medical care for symptoms,
+Laryngitis, Rest your voice, Stay hydrated, Avoid irritants (e.g., smoke, alcohol)
+Astigmatism, Use corrective lenses as prescribed, Attend regular eye exams, Consider refractive surgery options, Manage underlying conditions (e.g., keratoconus)
+Blindness, Attend regular eye exams, Manage chronic conditions affecting vision (e.g., diabetes, glaucoma), Use protective eyewear
+Post Menopausal Bleeding, Seek medical evaluation for any vaginal bleeding, Undergo diagnostic tests (e.g., ultrasound, biopsy), Manage underlying causes (e.g.
+Nasal Polyps, Use nasal corticosteroid sprays as prescribed, Avoid triggers (e.g., allergens, irritants), Consider surgical options for severe cases
+Chronic fatigue syndrome, Establish a consistent sleep schedule, Practice gentle exercise (e.g., yoga, walking), Manage stress and mental health
+High risk pregnancy, Attend regular prenatal care visits, Follow healthcare provider's recommendations closely, Manage underlying conditions (e.g., hypertension, diabetes)
+Stomach ulcers, Avoid NSAIDs (unless prescribed), Manage stress, Stop smoking and limit alcohol consumption, Take prescribed medications (e.g., proton pump inhibitors)
+Trichomoniasis, Practice safe sex (use condoms), Get tested and treated if infected, Notify partners of infection, Avoid alcohol during treatment,
+Sexually transmitted infections (STIs), Practice safe sex (use condoms), Get tested regularly, Notify partners of infection, Complete prescribed antibiotic treatment,
+Epilepsy, Take medications as prescribed, Maintain a consistent sleep schedule, Manage stress, Avoid triggers (e.g., alcohol
+Kuru, Avoid cannibalistic rituals, Promote safe burial practices, Monitor at-risk populations, Provide supportive care for affected individuals,
+Kala-azar/ Leishmaniasis, Use insect repellent and bed nets, Avoid sandfly bites, Complete prescribed treatment, Seek medical care for symptoms,
+Measles, Get vaccinated (MMR vaccine), Avoid contact with infected individuals, Practice good hygiene (handwashing), Manage symptoms with rest and fluids,
+Dracunculiasis (guinea-worm disease), Use safe drinking water sources, Filter drinking water, Educate communities on disease prevention, Provide wound care and extraction,
+Muscular dystrophy, Manage symptoms with physical therapy, Use assistive devices as needed, Address respiratory and cardiac complications, Coordinate care with specialists,
+Dysentery, Practice good hygiene (handwashing), Drink safe and treated water, Use antibiotics as prescribed, Manage symptoms with rest and oral rehydration solutions,
+Irritable bowel syndrome, Identify and avoid trigger foods, Manage stress and anxiety, Use medications as prescribed (e.g., antispasmodics), Consider dietary modifications (e.g.
+Bunion, Wear proper footwear with wide toe boxes, Use orthotic devices, Manage pain with ice and pain relievers, Consider surgical options for severe cases,
+Scarlet fever, Complete prescribed antibiotic treatment, Practice good hygiene (handwashing), Manage fever with medications, Monitor for complications (e.g., rheumatic fever)
+Mastitis, Continue breastfeeding or pumping, Apply warm compresses before nursing, Ensure proper breastfeeding technique, Take prescribed antibiotics,
+Shigellosis, Practice good hygiene (handwashing), Drink safe and treated water, Use antibiotics as prescribed, Manage symptoms with rest and oral rehydration solutions,
+Congenital anomalies (birth defects), Attend prenatal care visits, Avoid teratogens (e.g., alcohol, tobacco), Discuss family history with healthcare provider
+Congestive heart disease, Follow prescribed medications and treatments, Monitor fluid intake and weight, Maintain a low-sodium diet, Manage comorbid conditions (e.g., hypertension)
+Diabetes Mellitus, Monitor blood sugar levels regularly, Follow a balanced diet and exercise plan, Take medications as prescribed, Attend regular medical check-ups,
+Aseptic meningitis, Seek medical attention for severe headaches or fever, Complete prescribed treatment (e.g., antivirals), Manage pain and fever with medications, Rest and stay hydrated
+Dementia, Create a safe environment at home, Establish routines and structure, Manage medications and medical conditions, Provide cognitive stimulation and support,
+Puerperal sepsis, Attend postpartum check-ups, Practice good hygiene (handwashing), Seek medical attention for signs of infection (e.g., fever, abdominal pain)
+Cavities, Practice good oral hygiene (brushing, flossing), Limit sugary foods and drinks, Attend regular dental check-ups and cleanings, Consider fluoride treatments if necessary
+Bell's Palsy, Protect the eye on the affected side with eye drops and eyepatch, Perform facial exercises, Use medications (e.g., corticosteroids), Attend follow-up appointments with healthcare provider
+Stevens-Johnson syndrome, Discontinue suspected medications, Seek immediate medical attention, Manage symptoms with supportive care (e.g., fluids, pain relievers)
+Quinsy, Seek medical attention for severe sore throat, Complete prescribed antibiotic treatment, Use pain relievers and throat lozenges for relief, Maintain hydration and rest,
+Sudden Infant Death Syndrome (SIDS), Place infants on their backs to sleep, Use a firm sleep surface, Avoid overheating, Remove soft bedding and objects from crib,
+Genital herpes, Practice safe sex (use condoms), Get tested and treated if infected, Notify partners of infection, Use antiviral medications as prescribed,
+Multiple myeloma, Follow prescribed treatment plan (chemotherapy, stem cell transplant), Manage symptoms and complications, Attend regular medical check-ups, Seek support from oncologists and support groups
+Frostbite, Avoid exposure to extreme cold temperatures, Wear warm clothing and layers, Keep skin dry and protected, Seek medical attention for severe frostbite,
+Appendicitis, Seek immediate medical attention for abdominal pain, Avoid eating or drinking before evaluation, Prepare for surgical removal of appendix, Follow post-operative care instructions,
+Chikungunya Fever, Prevent mosquito bites (use repellent, wear protective clothing), Manage fever and joint pain with medications, Rest and stay hydrated, Avoid nonsteroidal anti-inflammatory drugs (NSAIDs)
+Mad cow disease (Bovine spongiform encephalopathy), Avoid consumption of beef from affected areas, Follow food safety guidelines for beef products, Monitor public health advisories, Seek medical advice if concerned,
+Rheumatism, Manage pain with medications (e.g., NSAIDs), Use physical therapy and exercise, Maintain a healthy weight, Manage stress and fatigue
+Toxic shock syndrome, Use tampons with lower absorbency, Change tampons frequently, Use sanitary pads as an alternative, Seek medical attention for sudden fever or rash,
+Severe Acute Respiratory Syndrome (SARS), Practice good hygiene (handwashing, wearing masks), Avoid close contact with infected individuals, Follow public health advisories, Seek medical care for symptoms
+Anxiety, Practice relaxation techniques (e.g., deep breathing, meditation), Seek therapy or counseling, Manage stress through regular exercise and hobbies
+Lactose intolerance, Avoid dairy products containing lactose, Use lactase enzyme supplements with dairy consumption, Choose lactose-free or dairy alternatives, Monitor calcium and vitamin D intake,
+Diphtheria, Get vaccinated (DTaP vaccine), Practice good hygiene (handwashing), Avoid sharing utensils and personal items, Seek medical attention for symptoms,
+Beriberi, Increase thiamine (vitamin B1) intake (e.g., whole grains, beans), Manage alcohol consumption, Consider thiamine supplements for deficiency
+Candidiasis (Yeast Infection), Practice good hygiene (gentle cleaning, cotton underwear), Use antifungal medications as prescribed, Avoid douching and irritating products, Manage underlying conditions (e.g.
+Syphilis, Practice safe sex (use condoms), Get tested and treated if infected, Notify partners of infection, Complete prescribed antibiotic treatment,
+Human papillomavirus (HPV), Get vaccinated (HPV vaccine), Practice safe sex (use condoms), Get tested regularly (Pap smears), Discuss HPV with healthcare provider,
+Myasthenia gravis, Follow prescribed medications (e.g., cholinesterase inhibitors), Manage fatigue with rest and pacing activities, Consider thymectomy or immunosuppressive therapy, Attend regular medical check-ups
+Obsessive Compulsive Disorder (OCD), Seek therapy (cognitive behavioral therapy), Consider medications (e.g., SSRIs), Practice exposure and response prevention (ERP), Engage in regular physical activity and stress management
+Shaken Baby Syndrome, Never shake a baby or young child, Handle infants gently and supportively, Educate caregivers on safe infant handling, Seek help for stress or frustration management,
+Food Poisoning, Practice food safety (clean, separate, cook, chill), Avoid cross-contamination
+Turner Syndrome, Manage associated health conditions (e.g., heart defects, kidney abnormalities), Provide growth hormone therapy if indicated, Consider estrogen therapy for puberty
+Hypertension (High Blood Pressure), Monitor blood pressure regularly, Follow a heart-healthy diet (low sodium, high potassium), Maintain a healthy weight, Exercise regularly
+Pericarditis, Follow prescribed treatments (e.g., NSAIDs, antibiotics), Rest and avoid strenuous activities, Manage underlying conditions (e.g.
+Adult Inclusion Conjunctivitis, Practice good hygiene (handwashing, avoid touching eyes), Avoid sharing towels and personal items, Complete prescribed antibiotic treatment, Seek medical attention for severe symptoms
+Trichinosis, Cook meat thoroughly (especially pork), Freeze meat before consumption, Educate about food safety and prevention measures, Seek medical attention for symptoms,
+Herpes Simplex Virus (HSV), Practice safe sex (use condoms), Get tested and treated if infected, Notify partners of infection, Use antiviral medications as prescribed,
+Schizophrenia, Follow prescribed medications and therapies, Attend regular therapy sessions, Engage in supportive environments and routines, Manage stress and avoid substance use,
+Scrub Typhus, Prevent mite bites (use insect repellent, wear protective clothing), Avoid areas with high mite populations, Use insecticide-treated mosquito nets, Seek medical care for symptoms
+Marburg fever, Practice good hygiene (handwashing), Avoid contact with infected individuals or animals, Use personal protective equipment (PPE), Seek medical care for symptoms,
+Sub-conjunctival Haemorrhage, Avoid eye trauma or injury, Monitor blood pressure and other health conditions, Avoid heavy lifting or straining, Seek medical advice for severe or recurrent cases,
+Peptic ulcer disease, Avoid NSAIDs (unless prescribed), Manage stress, Stop smoking and limit alcohol consumption, Take prescribed medications (e.g., proton pump inhibitors)
+Ectopic pregnancy, Seek immediate medical attention for abdominal pain or vaginal bleeding, Prepare for surgical intervention if necessary, Monitor for signs of shock, Discuss fertility concerns with healthcare provider,
+Middle East respiratory syndrome coronavirus (MERS-CoV), Practice good hygiene (handwashing, wearing masks), Avoid close contact with camels, Follow public health advisories, Seek medical care for symptoms
+Keratoconus, Use corrective lenses (glasses, contact lenses), Consider corneal collagen cross-linking therapy, Monitor for progression and complications, Attend regular eye exams
+Raynaud's Phenomenon, Keep hands and feet warm in cold temperatures, Avoid triggers (e.g., stress, caffeine), Use hand and foot warmers
+Chagas disease, Prevent triatomine bug bites (use insect repellent, bed nets), Avoid consuming uncooked foods and drinks, Use insecticide treatment of homes, Seek medical care for symptoms
+Post-herpetic neuralgia, Manage pain with medications (e.g., anticonvulsants, opioids), Use topical treatments (e.g., lidocaine patches)
+Gaming disorder, Set limits on gaming time, Engage in alternative activities (e.g., hobbies, exercise), Create a balanced daily routine
+Shin splints, Rest and avoid activities that aggravate pain, Apply ice to reduce inflammation, Use proper footwear and orthotics, Gradually return to activity with stretching and strengthening exercises,
+Preeclampsia, Attend regular prenatal care visits, Monitor blood pressure and urine protein levels, Rest on left side to improve circulation, Seek immediate medical attention for symptoms (e.g., severe headache
+Q fever, Avoid exposure to livestock and their birthing products, Use personal protective equipment (PPE) when handling animals, Practice good hygiene (handwashing), Seek medical care for symptoms,
+Pulmonary embolism, Seek immediate medical attention for symptoms (e.g., chest pain, difficulty breathing), Receive anticoagulant therapy as prescribed, Manage risk factors (e.g.
+Bad Breath (Halitosis), Practice good oral hygiene (brushing, flossing), Stay hydrated, Avoid foods that cause bad breath (e.g., garlic
+Atrophy, Participate in physical therapy or occupational therapy, Use assistive devices as needed, Manage underlying conditions (e.g., nerve damage, disuse)
+Preterm birth, Attend regular prenatal care visits, Manage chronic conditions (e.g., hypertension, diabetes), Reduce stress and avoid smoking and alcohol
+Hand, Foot and Mouth Disease, Practice good hygiene (handwashing), Avoid close contact with infected individuals, Disinfect contaminated surfaces and toys, Provide supportive care (e.g.
+Diarrhea, Stay hydrated with oral rehydration solutions, Avoid dairy products and fatty foods, Practice good hygiene (handwashing), Seek medical attention for severe or persistent diarrhea,
+Acquired Immuno Deficiency Syndrome (AIDS), Take antiretroviral therapy (ART) as prescribed, Practice safe sex (use condoms), Get tested and treated for opportunistic infections, Attend regular medical check-ups,
+Anisometropia, Use corrective lenses as prescribed, Attend regular eye exams, Consider refractive surgery options, Manage underlying conditions (e.g., amblyopia)
+Taeniasis (Tapeworm Infection), Cook meat thoroughly (especially pork and beef), Freeze meat before consumption, Educate about food safety and prevention measures, Seek medical attention for symptoms (e.g., abdominal pain
+Poliomyelitis (Polio), Get vaccinated (IPV vaccine), Practice good hygiene (handwashing), Avoid contact with infected individuals, Follow public health advisories,
+Acquired Capillary Haemangioma of Eyelid, Monitor for changes in appearance, Consider treatment options (e.g., laser therapy, surgical removal), Attend regular eye exams
+Rocky Mountain spotted fever, Prevent tick bites (use repellent, wear protective clothing), Promptly remove attached ticks, Use insecticide-treated clothing and gear, Seek medical care for symptoms
+Varicose Veins, Elevate legs when resting, Avoid prolonged sitting or standing, Wear compression stockings as prescribed, Exercise regularly and maintain a healthy weight,
+Orbital Dermoid, Monitor for changes in appearance or symptoms, Consider surgical removal for cosmetic or functional concerns, Attend regular medical check-ups, Seek specialist care for management,
+Alopecia (Hair Loss), Discuss treatment options with dermatologist (e.g., minoxidil, corticosteroid injections), Use hairpieces or wigs if desired, Manage underlying conditions (e.g.
+Hypotonia, Engage in physical therapy and exercises, Use assistive devices as needed, Address underlying causes (e.g., genetic disorders, neurological conditions)
+Shingles (Herpes Zoster), Get vaccinated (shingles vaccine), Use antiviral medications as prescribed, Manage pain with medications (e.g., analgesics, anticonvulsants)
+Sciatica, Use pain medications as prescribed, Apply hot or cold packs to affected area, Perform gentle stretches and exercises, Avoid prolonged sitting or standing,
+Leprosy, Complete prescribed antibiotic treatment, Monitor for complications (e.g., nerve damage), Provide supportive care for affected areas, Educate about disease prevention and management
+Condyloma (Genital Warts), Practice safe sex (use condoms), Get vaccinated (HPV vaccine), Get tested and treated if infected, Use topical treatments (e.g., podophyllin
+Burns, Cool burn with running water for at least 10 minutes, Cover with sterile dressing or clean cloth, Seek medical attention for severe burns or if infection develops, Manage pain with medications,
+Pinguecula, Protect eyes from sunlight and wind (wear sunglasses), Use artificial tears and lubricating eye drops, Manage dry eye symptoms, Attend regular eye exams,
+Fibromyalgia, Practice gentle exercise (e.g., swimming, yoga), Manage stress and anxiety, Use medications for pain management (e.g.
+Sarcoidosis, Monitor for symptoms and complications (e.g., lung or eye involvement), Follow prescribed treatments (e.g., corticosteroids), Manage symptoms with supportive care
+Vitiligo, Use sunscreen to protect depigmented areas, Consider cosmetic cover-ups or tattoos, Manage emotional impact (e.g., support groups), Discuss treatment options with dermatologist
+Lung cancer, Avoid tobacco smoke (quit smoking, avoid secondhand smoke), Maintain a healthy diet and exercise routine, Get screened for lung cancer as recommended, Seek medical care for symptoms or concerns
+Chalazion, Apply warm compresses to eyelid, Massage eyelid gently, Practice good eyelid hygiene, Use prescribed medications or surgical intervention as needed,
+Corneal Abrasion, Protect eye from further injury, Use prescribed eye drops and medications, Avoid rubbing eyes, Attend regular eye exams,
+Hypermetropia (Hyperopia), Use corrective lenses as prescribed (glasses, contact lenses), Attend regular eye exams, Consider refractive surgery options, Manage underlying conditions (e.g.
+Obesity, Maintain a balanced diet and portion control, Engage in regular physical activity, Seek support from healthcare providers or weight management programs, Address underlying causes (e.g., thyroid disorders)
+Campylobacter infection, Cook poultry thoroughly, Avoid cross-contamination (separate raw and cooked foods), Practice good hygiene (handwashing), Seek medical attention for severe symptoms,
+Early pregnancy loss (Miscarriage), Seek medical evaluation for bleeding or abdominal pain, Discuss risk factors and emotional support options, Follow medical advice for future pregnancies, Allow time for physical and emotional recovery,
+Coronary Heart Disease, Maintain a heart-healthy diet (low saturated fats, high fiber), Exercise regularly (aerobic and strength training), Manage stress and anxiety, Follow prescribed medications and treatments
+Pelvic inflammatory disease (PID), Practice safe sex (use condoms), Get tested and treated for STIs, Complete prescribed antibiotic treatment, Avoid douching and use of intrauterine devices (IUDs) if prone to infection,
+Lichen Planus, Use topical corticosteroids as prescribed, Practice good skin hygiene, Avoid triggers (e.g., stress, certain medications)
+Anemia, Eat a balanced diet rich in iron and vitamins, Take iron supplements as prescribed, Treat underlying causes (e.g., bleeding, chronic disease)
+Cerebral palsy, Engage in physical and occupational therapy, Use assistive devices and mobility aids, Manage associated conditions (e.g., seizures, intellectual disabilities)
+Septic Shock, Seek immediate medical attention, Administer antibiotics and supportive care in hospital setting, Monitor blood pressure and organ function, Manage underlying infections and conditions,
+Nail Fungus, Practice good foot hygiene (keep feet clean and dry), Wear moisture-wicking socks and breathable footwear, Use antifungal medications as prescribed, Discard old shoes or treat with antifungal spray,
+Overweight, Maintain a balanced diet and portion control, Engage in regular physical activity, Seek support from healthcare providers or weight management programs, Address underlying causes (e.g., metabolic disorders)
+Phenylketonuria (PKU), Follow a low-protein diet, Take prescribed medical formula and supplements, Monitor blood phenylalanine levels, Manage symptoms and health outcomes,
+Acute Bronchitis, Get plenty of rest, Drink fluids to stay hydrated, Use over-the-counter medications (e.g., pain relievers, cough suppressants)
+Sickle Cell Disease, Manage pain with medications (e.g., analgesics, hydroxyurea), Stay hydrated, Prevent infections through vaccinations and antibiotics
+Septic Arthritis, Seek immediate medical attention for joint pain, Administer antibiotics and supportive care in hospital setting, Drain infected joint if necessary, Attend regular medical follow-ups for recovery,
+Otitis Media (Ear Infection), Use pain relievers (e.g., acetaminophen, ibuprofen), Apply warm compresses to affected ear, Use prescribed antibiotics for bacterial infections
+Hepatitis A, Get vaccinated (Hepatitis A vaccine), Practice good hygiene (handwashing), Avoid contaminated food and water, Seek medical care for symptoms or concerns,
+Influenza (Flu), Get vaccinated (seasonal influenza vaccine), Practice good hygiene (handwashing), Avoid close contact with infected individuals, Use antiviral medications as prescribed,
+Psoriasis, Use topical treatments (e.g., corticosteroids, calcineurin inhibitors), Practice good skin care and moisturizing, Manage stress and triggers (e.g.
+Headache, Identify and avoid triggers (e.g., stress, certain foods), Manage pain with medications (e.g., NSAIDs
+Sepsis, Seek immediate medical attention, Administer antibiotics and supportive care in hospital setting, Monitor vital signs and organ function, Manage underlying infections and conditions,
+Osteoarthritis, Maintain a healthy weight, Exercise regularly (low-impact activities), Use assistive devices (e.g., braces, canes)
+Neuralgia, Manage underlying conditions (e.g., diabetes, infections), Use medications for pain management (e.g., anticonvulsants
+Black Death (Bubonic plague), Avoid contact with rodents and fleas, Use insect repellent, Implement rodent control measures, Seek medical care for symptoms,
+Laryngitis, Rest your voice, Stay hydrated, Avoid irritants (e.g., smoke, alcohol)
+Astigmatism, Use corrective lenses as prescribed, Attend regular eye exams, Consider refractive surgery options, Manage underlying conditions (e.g., keratoconus)
+Blindness, Attend regular eye exams, Manage chronic conditions affecting vision (e.g., diabetes, glaucoma), Use protective eyewear
+Post Menopausal Bleeding, Seek medical evaluation for any vaginal bleeding, Undergo diagnostic tests (e.g., ultrasound, biopsy), Manage underlying causes (e.g.
+Nasal Polyps, Use nasal corticosteroid sprays as prescribed, Avoid triggers (e.g., allergens, irritants), Consider surgical options for severe cases
+Chronic fatigue syndrome, Establish a consistent sleep schedule, Practice gentle exercise (e.g., yoga, walking), Manage stress and mental health
+High risk pregnancy, Attend regular prenatal care visits, Follow healthcare provider's recommendations closely, Manage underlying conditions (e.g., hypertension, diabetes)
+Stomach ulcers, Avoid NSAIDs (unless prescribed), Manage stress, Stop smoking and limit alcohol consumption, Take prescribed medications (e.g., proton pump inhibitors)
+Trichomoniasis, Practice safe sex (use condoms), Get tested and treated if infected, Notify partners of infection, Avoid alcohol during treatment,
+Sexually transmitted infections (STIs), Practice safe sex (use condoms), Get tested regularly, Notify partners of infection, Complete prescribed antibiotic treatment,
+Epilepsy, Take medications as prescribed, Maintain a consistent sleep schedule, Manage stress, Avoid triggers (e.g., alcohol
+Kuru, Avoid cannibalistic rituals, Promote safe burial practices, Monitor at-risk populations, Provide supportive care for affected individuals,
+Kala-azar/ Leishmaniasis, Use insect repellent and bed nets, Avoid sandfly bites, Complete prescribed treatment, Seek medical care for symptoms,
+Measles, Get vaccinated (MMR vaccine), Avoid contact with infected individuals, Practice good hygiene (handwashing), Manage symptoms with rest and fluids,
+Dracunculiasis (guinea-worm disease), Use safe drinking water sources, Filter drinking water, Educate communities on disease prevention, Provide wound care and extraction,
+Muscular dystrophy, Manage symptoms with physical therapy, Use assistive devices as needed, Address respiratory and cardiac complications, Coordinate care with specialists,
+Dysentery, Practice good hygiene (handwashing), Drink safe and treated water, Use antibiotics as prescribed, Manage symptoms with rest and oral rehydration solutions,
+Irritable bowel syndrome, Identify and avoid trigger foods, Manage stress and anxiety, Use medications as prescribed (e.g., antispasmodics), Consider dietary modifications (e.g.
+Bunion, Wear proper footwear with wide toe boxes, Use orthotic devices, Manage pain with ice and pain relievers, Consider surgical options for severe cases,
+Scarlet fever, Complete prescribed antibiotic treatment, Practice good hygiene (handwashing), Manage fever with medications, Monitor for complications (e.g., rheumatic fever)
+Mastitis, Continue breastfeeding or pumping, Apply warm compresses before nursing, Ensure proper breastfeeding technique, Take prescribed antibiotics,
+Shigellosis, Practice good hygiene (handwashing), Drink safe and treated water, Use antibiotics as prescribed, Manage symptoms with rest and oral rehydration solutions,
+Congenital anomalies (birth defects), Attend prenatal care visits, Avoid teratogens (e.g., alcohol, tobacco), Discuss family history with healthcare provider
+Congestive heart disease, Follow prescribed medications and treatments, Monitor fluid intake and weight, Maintain a low-sodium diet, Manage comorbid conditions (e.g., hypertension)
+Diabetes Mellitus, Monitor blood sugar levels regularly, Follow a balanced diet and exercise plan, Take medications as prescribed, Attend regular medical check-ups,
+Aseptic meningitis, Seek medical attention for severe headaches or fever, Complete prescribed treatment (e.g., antivirals), Manage pain and fever with medications, Rest and stay hydrated
+Dementia, Create a safe environment at home, Establish routines and structure, Manage medications and medical conditions, Provide cognitive stimulation and support,
+Puerperal sepsis, Attend postpartum check-ups, Practice good hygiene (handwashing), Seek medical attention for signs of infection (e.g., fever, abdominal pain)
+Cavities, Practice good oral hygiene (brushing, flossing), Limit sugary foods and drinks, Attend regular dental check-ups and cleanings, Consider fluoride treatments if necessary
+Bell's Palsy, Protect the eye on the affected side with eye drops and eyepatch, Perform facial exercises, Use medications (e.g., corticosteroids), Attend follow-up appointments with healthcare provider
+Stevens-Johnson syndrome, Discontinue suspected medications, Seek immediate medical attention, Manage symptoms with supportive care (e.g., fluids, pain relievers)
+Quinsy, Seek medical attention for severe sore throat, Complete prescribed antibiotic treatment, Use pain relievers and throat lozenges for relief, Maintain hydration and rest,
+SIDS, Place infants on their backs to sleep, Use a firm sleep surface, Avoid overheating, Remove soft bedding and objects from crib,
+Genital herpes, Practice safe sex (use condoms), Get tested and treated if infected, Notify partners of infection, Use antiviral medications as prescribed,
+Multiple myeloma, Follow prescribed treatment plan (chemotherapy, stem cell transplant), Manage symptoms and complications, Attend regular medical check-ups, Seek support from oncologists and support groups
+Frost Bite, Avoid exposure to extreme cold temperatures, Wear warm clothing and layers, Keep skin dry and protected, Seek medical attention for severe frostbite,
+Appendicitis, Seek immediate medical attention, Avoid eating or drinking to prevent complications, Do not use laxatives or enemas, Avoid strenuous activities,
+Chikungunya Fever, Use mosquito repellent, Wear long-sleeved shirts and pants, Remove standing water around your home, Use air conditioning or window screens,
+Mad cow disease, Avoid eating beef from unknown sources, Follow food safety guidelines, Avoid consuming brain or spinal cord tissues, Report any unusual symptoms to healthcare provider,
+Rheumatism, Maintain a healthy diet and weight, Exercise regularly (low-impact activities), Manage stress and mental health, Follow prescribed medications and treatments,
+Toxic shock syndrome, Use menstrual products with lower absorbency, Change tampons and pads frequently, Avoid using tampons overnight, Seek medical attention for symptoms,
+SARS, Practice good hygiene (handwashing), Wear face masks in crowded places, Avoid close contact with sick individuals, Follow travel advisories and restrictions,
+Anxiety, Practice relaxation techniques (e.g., deep breathing, meditation), Seek support from loved ones or therapist, Maintain a healthy lifestyle (diet
+Lactose intolerance, Avoid dairy products or use lactose-free alternatives, Read food labels for lactose content, Take lactase enzyme supplements if needed, Consult a dietitian for dietary advice,
+Diphtheria, Get vaccinated (Diphtheria vaccine), Practice good hygiene (handwashing), Avoid close contact with infected individuals, Complete antibiotic treatment if exposed,
+Beriberi, Eat a balanced diet with thiamine-rich foods, Avoid excessive alcohol consumption, Cook food properly to retain nutrients, Take thiamine supplements if deficient,
+Candidiasis, Practice good hygiene (especially in genital and oral areas), Wear loose-fitting clothing, Avoid douching and irritating products, Take prescribed antifungal medications,
+Syphilis, Practice safe sex (use condoms), Get tested and treated if infected, Notify partners of infection, Complete prescribed antibiotic treatment,
+Human papillomavirus, Get vaccinated (HPV vaccine), Practice safe sex (use condoms), Get regular screenings (Pap smears), Avoid smoking and maintain a healthy lifestyle,
+Myasthenia gravis, Take medications as prescribed (e.g., anticholinesterase drugs), Conserve energy and avoid overexertion, Manage stress and anxiety, Follow up with neurologist or specialist
+Obsessive Compulsive Disorder, Attend therapy sessions (e.g., cognitive behavioral therapy), Take medications as prescribed (e.g., SSRIs), Establish routines and structure
+Shaken Baby Syndrome, Educate caregivers on safe infant handling, Avoid shaking infants or young children, Seek help for anger or stress management, Provide support and resources to parents,
+Food Poisoning, Practice food safety (e.g., proper cooking temperatures, handwashing), Refrigerate leftovers promptly, Avoid cross-contamination
+Turners Syndrome, Manage associated health issues (e.g., heart defects, kidney problems), Attend regular medical check-ups, Address growth and development concerns
+Hypertension, Maintain a healthy weight, Follow a low-sodium diet, Exercise regularly, Take prescribed medications as directed by healthcare provider,
+Pericarditis, Take prescribed medications (e.g., NSAIDs, antibiotics), Rest and avoid strenuous activities, Follow up with cardiologist or specialist
+Adult Inclusion Conjunctivitis, Practice good hygiene (e.g., handwashing, not sharing towels), Avoid touching or rubbing eyes, Complete prescribed antibiotic eye drops
+Trichinosis, Cook meat thoroughly (especially pork), Freeze meat at appropriate temperatures, Avoid eating raw or undercooked meat, Seek medical attention for symptoms,
+Herpes Simplex, Practice safe sex (use condoms), Avoid sharing personal items (e.g., towels, razors), Take antiviral medications as prescribed
+Schizophrenia, Take medications as prescribed (e.g., antipsychotics), Attend therapy and support groups, Establish routines and structure, Monitor for early signs of relapse
+Scrub Typhus, Use insect repellent and wear protective clothing, Avoid areas with high rodent activity, Check for mites after outdoor activities, Seek medical attention for fever and rash,
+Marburg fever, Use strict infection control measures in healthcare settings, Wear personal protective equipment (PPE), Isolate infected patients, Follow international travel guidelines,
+Sub-conjunctival Haemorrhage, Avoid rubbing eyes, Use prescribed eye drops or ointments, Avoid using contact lenses or eye makeup, Seek medical attention if associated with trauma,
+Peptic ulcer disease, Avoid NSAIDs (unless prescribed), Manage stress, Stop smoking and limit alcohol consumption, Take prescribed medications (e.g., proton pump inhibitors)
+Ectopic pregnancy, Seek immediate medical attention for abdominal pain or vaginal bleeding, Monitor for signs of shock, Treat with medication or surgery, Follow up with gynecologist or specialist,
+Middle East respiratory syndrome coronavirus (MERS-CoV), Practice good hygiene (handwashing), Wear face masks in crowded places, Avoid close contact with camels, Follow travel advisories and restrictions,
+Keratoconus, Attend regular eye exams, Use prescribed corrective lenses or contact lenses, Consider surgical options (e.g., corneal cross-linking), Manage associated eye conditions
+Raynaud's Phenomenon, Keep hands and feet warm in cold temperatures, Avoid smoking and caffeine, Use hand warmers or gloves, Manage stress and anxiety,
+Chagas disease, Avoid contact with triatomine bugs (reduce vector exposure), Use insect repellent and bed nets, Screen blood and organ donors, Treat infected individuals with antiparasitic medications,
+Post-herpetic neuralgia, Manage pain with medications (e.g., anticonvulsants, opioids), Use topical treatments (e.g., lidocaine patches)
+Gaming disorder, Set limits on gaming time, Engage in alternative activities (e.g., exercise, hobbies), Seek therapy or counseling
+Shin splints, Rest and avoid high-impact activities, Ice affected area, Stretch and strengthen lower leg muscles, Wear proper footwear and orthotics,
+Preeclampsia, Attend prenatal care visits regularly, Monitor blood pressure and urine protein levels, Rest on left side to improve circulation, Seek medical attention for severe symptoms (e.g., headaches
+Q fever, Avoid contact with infected animals and animal products, Use personal protective equipment (PPE) in high-risk occupations, Treat with antibiotics if exposed, Follow workplace safety guidelines,
+Pulmonary embolism, Seek emergency medical attention for sudden chest pain or difficulty breathing, Use blood thinners as prescribed, Avoid prolonged immobility, Follow up with cardiologist or pulmonologist,
+Bad Breath (Halitosis), Practice good oral hygiene (brushing, flossing), Use mouthwash or breath fresheners, Stay hydrated and chew sugarless gum, Seek dental evaluation for underlying causes (e.g.
+Atrophy, Participate in physical therapy or rehabilitation exercises, Use assistive devices or aids as needed, Manage underlying conditions (e.g., nerve damage, muscle weakness)
+Preterm birth, Seek prenatal care early and regularly, Avoid smoking and alcohol, Manage chronic conditions (e.g., hypertension, diabetes)
+Hand, Foot and Mouth Disease, Practice good hygiene (handwashing), Avoid close contact with infected individuals, Disinfect contaminated surfaces and toys, Manage symptoms with rest and fluids
+Diarrhea, Stay hydrated with oral rehydration solutions, Avoid dairy products and high-fiber foods, Use over-the-counter medications (e.g., loperamide) if needed, Seek medical attention for severe symptoms
+Acquired Immuno Deficiency Syndrome (AIDS), Use condoms and practice safe sex, Get tested and know your HIV status, Take antiretroviral therapy (ART) as prescribed, Avoid sharing needles or drug paraphernalia,
+Anisometropia, Use corrective lenses as prescribed, Attend regular eye exams, Consider refractive surgery options, Manage associated eye conditions (e.g., amblyopia)
+Taeniasis/cysticercosis, Cook pork and beef thoroughly, Freeze meat at appropriate temperatures, Practice good hygiene (handwashing), Treat with antiparasitic medications if infected,
+Poliomyelitis, Get vaccinated (Polio vaccine), Practice good hygiene (handwashing), Avoid close contact with infected individuals, Follow travel advisories and restrictions,
+Acquired Capillary Haemangioma of Eyelid, Monitor for changes in size or appearance, Seek ophthalmologist evaluation, Consider treatment options (e.g., corticosteroid injections), Use sun protection for eye area
+Rocky Mountain spotted fever, Use insect repellent and wear protective clothing, Check for ticks after outdoor activities, Remove ticks promptly and correctly, Seek medical attention for fever and rash,
+Varicose Veins, Elevate legs and wear compression stockings, Exercise regularly and maintain a healthy weight, Avoid prolonged standing or sitting, Treat with medical procedures if necessary,
+Orbital Dermoid, Monitor for changes in appearance or symptoms, Seek ophthalmologist evaluation, Consider surgical removal if necessary, Use sun protection for eye area,
+Alopecia (hair loss), Treat underlying conditions (e.g., thyroid disorders), Consider topical treatments (e.g., minoxidil), Use wigs or hairpieces as desired
+Hypotonia, Engage in physical therapy and exercises, Use assistive devices (e.g., braces, walkers), Manage associated conditions (e.g.
+Shingles, Get vaccinated (Shingles vaccine), Use antiviral medications as prescribed, Manage pain with medications (e.g., analgesics), Avoid contact with susceptible individuals (especially pregnant women)
+Sciatica, Practice good posture and body mechanics, Use heat or ice packs for pain relief, Perform stretching and strengthening exercises, Take prescribed medications for pain and inflammation,
+Leprosy, Complete multi-drug therapy (MDT) as prescribed, Practice good hygiene and wound care, Avoid close contact with untreated individuals, Follow up with healthcare provider for monitoring,
+Condyloma, Get vaccinated (HPV vaccine), Practice safe sex (use condoms), Seek treatment for visible warts, Follow up with healthcare provider for screenings and management,
+Burns, Cool burn area with running water (not ice), Cover burn with sterile bandages or cloth, Seek medical attention for severe burns or complications, Avoid home remedies (e.g., butter
+Pinguecula, Use lubricating eye drops, Protect eyes from UV radiation (wear sunglasses), Avoid eye irritation (e.g., dust, wind)
+Fibromyalgia, Maintain regular sleep patterns, Engage in low-impact exercises (e.g., swimming, yoga), Manage stress and mental health
+Sarcoidosis, Attend regular medical check-ups, Manage symptoms with medications (e.g., corticosteroids), Maintain a healthy lifestyle (diet, exercise)
+Vitiligo, Use sunscreen and avoid sunburns, Consider camouflage creams or makeup, Treat with topical medications (e.g., corticosteroids), Seek support from dermatologist or specialist
+Lung cancer, Quit smoking and avoid secondhand smoke, Avoid exposure to carcinogens (e.g., asbestos, radon), Attend regular screenings (e.g.
+Chalazion, Apply warm compresses to affected eye, Practice good eyelid hygiene, Avoid rubbing or touching eyes, Seek ophthalmologist evaluation for persistent chalazion,
+Corneal Abrasion, Avoid rubbing or touching eyes, Use prescribed eye drops or ointments, Protect eyes with goggles or eyewear, Seek ophthalmologist evaluation for severe or recurrent abrasions,
+Hypermetropia, Use corrective lenses as prescribed, Attend regular eye exams, Consider refractive surgery options, Manage associated eye conditions (e.g., strabismus)
+Obesity, Maintain a balanced diet and portion control, Engage in regular physical activity, Manage stress and emotional eating, Seek support from healthcare provider or dietitian,
+Campylobacter infection, Cook poultry thoroughly (internal temperature 165°F), Avoid cross-contamination (e.g., with raw meat), Practice good hygiene (handwashing), Seek medical attention for severe symptoms
+Early pregnancy loss, Seek prenatal care and monitoring, Avoid smoking, alcohol, and illicit drugs, Manage chronic conditions (e.g.
+Coronary Heart Disease, Maintain a healthy diet (low-fat, low-sodium), Exercise regularly and manage weight, Take prescribed medications (e.g., statins
+Cough, Stay hydrated with warm fluids, Use cough suppressants or expectorants as needed, Avoid irritants (e.g., smoke, pollution)
+Amblyopia, Use corrective lenses as prescribed, Attend regular eye exams, Patching or vision therapy if recommended, Manage underlying conditions (e.g., strabismus)
+Aniseikonia, Use corrective lenses or prism glasses as prescribed, Attend regular eye exams, Consider contact lenses or surgical options, Manage associated visual disturbances,
+Taeniasis/cysticercosis, Cook pork and beef thoroughly, Freeze meat at appropriate temperatures, Practice good hygiene (handwashing), Treat with antiparasitic medications if infected,
+Tennis elbow, Rest and avoid activities that aggravate pain, Apply ice packs and use pain-relieving medications, Perform stretching and strengthening exercises, Use counterforce braces or straps,
+Amoebiasis, Practice good hygiene (handwashing), Drink clean and safe water, Avoid raw or undercooked foods, Treat with antiparasitic medications if infected,
+Childhood Exotropia, Attend regular eye exams, Patching or vision therapy if recommended, Consider surgical options (e.g., strabismus surgery), Manage associated eye conditions
+Chronic obstructive pulmonary disease (COPD), Quit smoking and avoid secondhand smoke, Take prescribed medications (e.g., bronchodilators, steroids), Exercise regularly and attend pulmonary rehabilitation
+Kaposi's Sarcoma, Manage HIV/AIDS with antiretroviral therapy (ART), Treat Kaposi's sarcoma with chemotherapy or radiation, Attend regular medical check-ups, Prevent infections and monitor for complications,
+Eclampsia, Seek immediate medical attention for seizures or high blood pressure, Monitor for signs of pre-eclampsia (e.g., swelling, headache), Manage with medications and hospital care
+Guillain-BarrÃ© syndrome, Seek immediate medical attention for weakness or tingling in extremities, Monitor respiratory function, Treat with immunoglobulin therapy or plasma exchange, Follow up with neurologist or specialist,
+Brucellosis, Avoid unpasteurized dairy products, Wear gloves and protective clothing when handling animals, Use insect repellent in endemic areas, Treat with antibiotics if exposed or infected,
+Amaurosis Fugax, Seek immediate medical attention for sudden vision loss or changes, Manage underlying conditions (e.g., atherosclerosis, hypertension), Monitor for recurrence
+Cleft Lip and Cleft Palate, Seek early evaluation and treatment by a multidisciplinary team, Attend surgeries and therapies as recommended, Provide support and resources to parents, Monitor for associated conditions (e.g., feeding difficulties
+Sarcoma, Attend regular medical check-ups and imaging studies, Treat with surgery, chemotherapy, or radiation as indicated, Manage symptoms and side effects
+Lice, Treat with medicated shampoos or lotions, Use fine-toothed comb to remove nits (lice eggs), Wash clothing, bedding, and brushes in hot water
+Tinnitus, Avoid loud noises and use ear protection, Manage stress and anxiety, Use background noise (e.g., white noise machines), Treat underlying conditions (e.g.
+Fibroids, Monitor growth and symptoms, Manage pain with medications or hormonal therapies, Consider surgical options (e.g., myomectomy, hysterectomy)
+Myelitis, Treat underlying cause (e.g., viral infection, autoimmune disease), Manage symptoms with medications (e.g., corticosteroids)
+Nausea and Vomiting of Pregnancy and Hyperemesis gravidarum, Eat small, frequent meals, Stay hydrated with fluids and electrolytes, Rest and avoid triggers (e.g., strong odors
+Osteoporosis, Maintain a balanced diet with calcium and vitamin D, Engage in weight-bearing exercises, Avoid smoking and excessive alcohol, Take prescribed medications (e.g., bisphosphonates)
+Haemophilia, Avoid activities that may cause bleeding or injury, Use protective equipment (e.g., helmets, pads), Treat bleeding episodes promptly with clotting factor replacement
+Drug Reaction,stop irritation,consult nearest hospital,stop taking drug,follow up,
+Malaria,Consult nearest hospital,avoid oily food,avoid non veg food,keep mosquitos out,
+Allergy,apply calamine,cover area with bandage,,use ice to compress itching,
+Hypothyroidism,reduce stress,exercise,eat healthy,get proper sleep,
+Psoriasis,wash hands with warm soapy water,stop bleeding using pressure,consult doctor,salt baths,
+GERD,avoid fatty spicy food,avoid lying down after eating,maintain healthy weight,exercise,
+Chronic cholestasis,cold baths,anti itch medicine,consult doctor,eat healthy,
+hepatitis A,Consult nearest hospital,wash hands through,avoid fatty spicy food,medication,
+Osteoarthristis,acetaminophen,consult nearest hospital,follow up,salt baths,
+(vertigo) Paroymsal  Positional Vertigo,lie down,avoid sudden change in body,avoid abrupt head movment,relax,
+Hypoglycemia,lie down on side,check in pulse,drink sugary drinks,consult doctor,
+Acne,bath twice,avoid fatty spicy food,drink plenty of water,avoid too many products,
+Diabetes ,have balanced diet,exercise,consult doctor,follow up,
+Impetigo,soak affected area in warm water,use antibiotics,remove scabs with wet compressed cloth,consult doctor,
+Hypertension ,meditation,salt baths,reduce stress,get proper sleep,
+Peptic ulcer diseae,avoid fatty spicy food,consume probiotic food,eliminate milk,limit alcohol,
+Dimorphic hemmorhoids(piles),avoid fatty spicy food,consume witch hazel,warm bath with epsom salt,consume alovera juice,
+Common Cold,drink vitamin c rich drinks,take vapour,avoid cold food,keep fever in check,
+Chicken pox,use neem in bathing ,consume neem leaves,take vaccine,avoid public places,
+Cervical spondylosis,use heating pad or cold pack,exercise,take otc pain reliver,consult doctor,
+Hyperthyroidism,eat healthy,massage,use lemon balm,take radioactive iodine treatment,
+Urinary tract infection,drink plenty of water,increase vitamin c intake,drink cranberry juice,take probiotics,
+Varicose veins,lie down flat and raise the leg high,use oinments,use vein compression,dont stand still for long,
+AIDS,avoid open cuts,wear ppe if possible,consult doctor,follow up,
+Paralysis (brain hemorrhage),massage,eat healthy,exercise,consult doctor,
+Typhoid,eat high calorie vegitables,antiboitic therapy,consult doctor,medication,
+Hepatitis B,consult nearest hospital,vaccination,eat healthy,medication,
+Fungal infection,bath twice,use detol or neem in bathing water,keep infected area dry,use clean cloths,
+Hepatitis C,Consult nearest hospital,vaccination,eat healthy,medication,
+Migraine,meditation,reduce stress,use poloroid glasses in sun,consult doctor,
+Bronchial Asthma,switch to loose cloothing,take deep breaths,get away from trigger,seek help,
+Alcoholic hepatitis,stop alcohol consumption,consult doctor,medication,follow up,
+Jaundice,drink plenty of water,consume milk thistle,eat fruits and high fiberous food,medication,
+Hepatitis E,stop alcohol consumption,rest,consult doctor,medication,
+Dengue,drink papaya leaf juice,avoid fatty spicy food,keep mosquitos away,keep hydrated,
+Hepatitis D,consult doctor,medication,eat healthy,follow up,
+Heart attack,call ambulance,chew or swallow asprin,keep calm,,
+Pneumonia,consult doctor,medication,rest,follow up,
+Arthritis,exercise,use hot and cold therapy,try acupuncture,massage,
+Gastroenteritis,stop eating solid food for while,try taking small sips of water,rest,ease back into eating,
+Tuberculosis,cover mouth,consult doctor,medication,rest,

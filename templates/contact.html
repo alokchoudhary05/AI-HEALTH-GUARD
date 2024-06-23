@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="/static/css/common.css">
+    <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            background: url('https://img.freepik.com/premium-vector/abstract-health-wellness-icons-medical-medical-treatment-modern-medical-invention_36402-1247.jpg?w=1060') center no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .container {
+            width: 100%;
+            max-width: 400px;
+        }
+        h2 {
+            font-size: 2em;
+            color: aliceblue;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .form-container {
+            background: linear-gradient(rgba(255,255,255,0.1), transparent);
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 16px;
+            padding: 32px 24px;
+            color: white;
+            backdrop-filter: blur(20px);
+        }
+        .form {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+        .form-group label {
+            color: #e0e0e0;
+            font-weight: 600;
+            font-size: 14px;
+        }
+        .form-group input,
+        .form-group textarea {
+            width: 100%;
+            padding: 12px 16px;
+            border-radius: 8px;
+            color: #fff;
+            background-color: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.3);
+            font-size: 14px;
+        }
+        .form-group textarea {
+            resize: vertical;
+            min-height: 96px;
+        }
+        .form-group input:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: #e81cff;
+        }
+        .form-submit-btn {
+            align-self: flex-start;
+            font-family: inherit;
+            color: #fff;
+            font-weight: 600;
+            background: rgba(232, 28, 255, 0.6);
+            border: none;
+            padding: 12px 24px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 6px;
+            transition: background 0.3s ease;
+        }
+        .form-submit-btn:hover {
+            background: rgba(232, 28, 255, 0.8);
+        }
+        @media (max-width: 480px) {
+            .container {
+                width: 95%;
+            }
+            h2 {
+                font-size: 1.5em;
+            }
+            .form-container {
+                padding: 24px 16px;
+            }
+            .form-submit-btn {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+
+
+
+    <header class="header">
+        <nav class="navbar">
+          <div class="logo"><img src="/static/images/logo.png" class="logo-main" alt="logo" title="logo"></div>
+          <ul class="nav-list">
+            <li class="navli home" style="--i:1; --clr:#0f0;"><a href="/">Home</a></li>
+            <li class="navli contact" style="--i:2; --clr:rgb(245, 61, 255);"><a href="{{ url_for('contact') }}">Contact</a></li>
+            <li class="navli about" style="--i:3; --clr:rgb(229, 255, 0); "><a href="{{ url_for('about') }}">About</a></li>
+            <li class="navli wellness" style="--i:4; --clr:rgb(255, 90, 148);"><a href="#">Wellness Tracker &#x25BF;</a>
+              <ul class="submenu">
+                <li><a href="{{ url_for('pregnancy') }}">Pregnancy Risk Prediction</a></li>
+                <li><a href="{{ url_for('heart') }}">Heart Disease Prediction</a></li>
+                <li><a href="{{ url_for('diabetes') }}">Diabetic Disease Prediction</a></li>
+            </ul>
+            </li>
+          </ul>
+    
+          <div class="hamburger">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+          </div>
+    
+        </nav>
+      </header>
+    
+      <div class="ext_menu">
+        <ul class="ex_ul">
+          <li class="ex_navli home" style="--i:1; --clr:#0f0;"><a href="/">Home</a></li>
+          <li class="ex_navli contact" style="--i:2; --clr:rgb(245, 61, 255);"><a href="{{ url_for('contact') }}">Contact</a></li>
+          <li class="ex_navli about" style="--i:3; --clr:rgb(229, 255, 0); "><a href="{{ url_for('about') }}">About</a></li>
+          <li class="ex_navli wellness" style="--i:4; --clr:rgb(255, 90, 148);"><a href="#">Wellness Tracker &#x25BF;</a>
+            <ul class="submenu">
+                <li><a href="{{ url_for('pregnancy') }}">Pregnancy Risk Prediction</a></li>
+                <li><a href="{{ url_for('heart') }}">Heart Disease Prediction</a></li>
+                <li><a href="{{ url_for('diabetes') }}">Diabetic Disease Prediction</a></li>
+          </ul>
+          </li>
+        </ul>
+      </div>
+
+
+    <div class="container">
+        <h2>Contact Form</h2>
+        <div class="form-container">
+            <form class="form">
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input required name="name" id="name" type="text">
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input required name="email" id="email" type="email">
+                </div>
+                <div class="form-group">
+                    <label for="message">How Can We Help You?</label>
+                    <textarea required id="message" name="message"></textarea>
+                </div>
+                <button type="submit" class="form-submit-btn">Submit</button>
+            </form>
+        </div>
+    </div>
+
+   <div class="animation1">
+    <dotlottie-player src="https://lottie.host/e4bab765-3e86-4936-8e07-d2e58bfb727e/fiETVsyCKT.json" background="transparent" speed="1" style="width: 300px; height: 300px" direction="1" playMode="normal" loop autoplay></dotlottie-player>
+   </div>
+    <script>
+
+document.querySelector('.hamburger').addEventListener('click', () => {
+      document.querySelector('.hamburger').classList.toggle('active');
+      document.querySelector('.ext_menu').classList.toggle('active');
+    });
+    </script>
+</body>
+</html>

@@ -1,0 +1,291 @@
+disease,workout_1,workout_2,workout_3,workout_4,workout_5
+Fungal infection,Avoid sugary foods,Consume probiotics,Increase intake of garlic,Include yogurt in diet,Limit processed foods
+Allergy,Avoid allergenic foods,Consume anti-inflammatory foods,Include omega-3 fatty acids,Stay hydrated,Eat foods rich in vitamin C
+GERD,Consume smaller meals,Avoid trigger foods (spicy, fatty),Eat high-fiber foods,Limit caffeine and alcohol
+Chronic cholestasis,Consume a low-fat diet,Eat high-fiber foods,Include healthy fats,Limit alcohol consumption,Stay hydrated
+Drug Reaction,Discontinue offending medication,Stay hydrated,Include anti-inflammatory foods,Consume antioxidants,Avoid trigger foods
+Peptic ulcer disease,Consume smaller, more frequent meals,Avoid trigger foods (spicy, acidic),Include high-fiber foods
+AIDS,Follow a balanced and nutritious diet,Include lean proteins,Consume nutrient-rich foods,Stay hydrated,Include healthy fats
+Diabetes,Monitor carbohydrate intake,Eat balanced meals,Include lean proteins,Consume high-fiber foods,Stay hydrated
+Gastroenteritis,Stay hydrated,Consume clear fluids,Follow the BRAT diet (bananas, rice, applesauce
+Bronchial Asthma,Include anti-inflammatory foods,Consume omega-3 fatty acids,Limit sodium intake,Stay hydrated,Include antioxidant-rich foods
+Hypertension,Follow the DASH diet (Dietary Approaches to Stop Hypertension),Limit sodium intake,Include potassium-rich foods,Stay hydrated,Consume calcium-rich foods
+Migraine,Identify and avoid trigger foods,Stay hydrated,Include magnesium-rich foods,Consume omega-3 fatty acids,Limit caffeine and alcohol
+Cervical spondylosis,Include anti-inflammatory foods,Consume omega-3 fatty acids,Include vitamin D-rich foods,Stay hydrated,Consume antioxidant-rich foods
+Paralysis (brain hemorrhage),Follow a balanced and nutritious diet,Include lean proteins,Consume nutrient-rich foods,Stay hydrated,Include healthy fats
+Jaundice,Stay hydrated,Consume nutrient-rich foods,Include protein-rich foods,Consume easily digestible foods,Limit fatty foods
+Malaria,Stay hydrated,Consume nutrient-rich foods,Include protein-rich foods,Consume foods rich in antioxidants,Limit fatty and greasy foods
+Chicken pox,Stay hydrated,Include easily digestible foods,Include vitamin C-rich foods,Consume protein-rich foods,Include zinc-rich foods
+Dengue,Stay hydrated,Include nutrient-rich foods,Consume foods rich in vitamin C and antioxidants,Limit fatty and greasy foods,Avoid caffeine and alcohol
+Typhoid,Consume easily digestible foods,Stay hydrated,Include nutrient-rich foods,Consume foods rich in vitamin C and antioxidants,Include protein-rich foods
+hepatitis A,Stay hydrated,Consume nutrient-rich foods,Include protein-rich foods,Consume easily digestible foods,Limit fatty foods
+Hepatitis B,Follow a balanced and nutritious diet,Stay hydrated,Include protein-rich foods,Consume nutrient-rich foods,Limit fatty foods
+Hepatitis C,Follow a balanced and nutritious diet,Stay hydrated,Include protein-rich foods,Consume nutrient-rich foods,Limit fatty foods
+Hepatitis D,Follow a balanced and nutritious diet,Stay hydrated,Include protein-rich foods,Consume nutrient-rich foods,Limit fatty foods
+Hepatitis E,Stay hydrated,Consume nutrient-rich foods,Include protein-rich foods,Consume easily digestible foods,Limit fatty foods
+Alcoholic hepatitis,Avoid alcohol consumption,Follow a balanced and nutritious diet,Stay hydrated,Consume nutrient-rich foods,Include protein-rich foods
+Tuberculosis,Consume a high-protein diet,Include nutrient-rich foods,Stay hydrated,Consume foods rich in vitamins A and C,Include zinc-rich foods
+Common Cold,Stay hydrated,Include nutrient-rich foods,Consume foods rich in vitamin C and antioxidants,Include zinc-rich foods,Limit sugary foods and beverages
+Pneumonia,Stay hydrated,Include nutrient-rich foods,Consume foods rich in vitamin C and antioxidants,Include zinc-rich foods,Limit sugary foods and beverages
+Dimorphic hemmorhoids(piles),Consume high-fiber foods,Stay hydrated,Include nutrient-rich foods,Consume foods rich in flavonoids,Limit processed foods
+Heart attack,Follow a heart-healthy diet,Limit sodium intake,Include fiber-rich foods,Consume healthy fats,Include lean proteins
+Varicose veins,Consume a high-fiber diet,Stay hydrated,Include nutrient-rich foods,Consume foods rich in antioxidants,Limit sodium intake
+Hypothyroidism,Include iodine-rich foods,Consume selenium-rich foods,Stay hydrated,Include nutrient-rich foods,Limit processed foods
+Hyperthyroidism,Limit iodine intake,Consume cruciferous vegetables in moderation,Stay hydrated,Include nutrient-rich foods,Limit caffeine and alcohol
+Hypoglycemia,Consume complex carbohydrates,Include protein-rich foods,Stay hydrated,Limit sugary foods and beverages,Consume regular meals and snacks
+Osteoarthristis,Consume anti-inflammatory foods,Include omega-3 fatty acids,Consume antioxidant-rich foods,Stay hydrated,Limit processed foods
+Arthritis,Consume anti-inflammatory foods,Include omega-3 fatty acids,Consume antioxidant-rich foods,Stay hydrated,Limit processed foods
+(vertigo) Paroymsal  Positional Vertigo,Stay hydrated,Include nutrient-rich foods,Consume foods rich in vitamins B and D,Limit caffeine and alcohol,Include anti-inflammatory foods
+Acne,Consume a balanced diet,Include anti-inflammatory foods,Stay hydrated,Limit sugary foods and beverages,Include zinc-rich foods
+Urinary tract infection,Stay hydrated,Consume cranberries or cranberry juice,Include vitamin C-rich foods,Limit caffeine and alcohol,Consult a healthcare professional
+Psoriasis,Consume anti-inflammatory foods,Include omega-3 fatty acids,Stay hydrated,Limit sugary foods and beverages,Include vitamin D-rich foods
+Impetigo,Stay hydrated,Consume nutrient-rich foods,Include vitamin C-rich foods,Consult a healthcare professional,Follow medical recommendations
+Tularemia,Rest and hydrate,Follow antibiotic treatment,Avoid contact with wild animals,Consume a balanced diet,Monitor fever
+Stroke,Follow a rehabilitation program,Engage in physical therapy,Perform strength exercises,Practice balance exercises,Incorporate aerobic activities
+Lead poisoning,Avoid exposure to lead,Consult a healthcare professional,Follow chelation therapy if prescribed,Stay hydrated,Consume a diet rich in calcium and iron
+Sickle-cell anemia,Stay hydrated,Follow prescribed medications,Engage in mild physical activities,Monitor for pain crises,Consume a balanced diet
+Myocardial Infarction (Heart Attack),Follow a cardiac rehabilitation program,Engage in light aerobic exercises,Monitor heart rate,Consume a heart-healthy diet,Stay hydrated
+Rabies,Seek immediate medical attention,Follow post-exposure prophylaxis,Rest and hydrate,Monitor for symptoms,Follow medical advice
+Warkany syndrome,Follow a balanced diet,Engage in physical therapy,Practice cognitive exercises,Consult a healthcare professional,Monitor developmental milestones
+Celiacs disease,Follow a strict gluten-free diet,Stay hydrated,Consume nutrient-rich foods,Monitor for symptoms,Consult a healthcare professional
+Abscess,Follow prescribed antibiotics,Maintain good hygiene,Apply warm compresses,Monitor for changes,Consult a healthcare professional
+Perennial Allergic Conjunctivitis,Avoid allergen exposure,Use antihistamine eye drops,Practice good hygiene,Stay hydrated,Monitor for symptoms
+Lyme disease,Follow prescribed antibiotics,Rest and hydrate,Monitor for symptoms,Consult a healthcare professional,Practice good hygiene
+Japanese Encephalitis,Seek medical attention,Rest and hydrate,Monitor for symptoms,Follow medical advice,Avoid mosquito bites
+Hepatitis A,Stay hydrated,Consume nutrient-rich foods,Include protein-rich foods,Limit fatty foods,Avoid alcohol and caffeine
+Bronchitis,Stay hydrated,Use a humidifier,Follow prescribed medications,Avoid smoking and irritants,Engage in breathing exercises
+Influenza,Rest and hydrate,Follow prescribed medications,Consume nutrient-rich foods,Use over-the-counter remedies for symptoms,Practice good hygiene
+Multiple sclerosis,Engage in physical therapy,Follow prescribed medications,Practice balance exercises,Incorporate strength training,Engage in aerobic activities
+Anthrax,Seek immediate medical attention,Follow prescribed antibiotics,Rest and hydrate,Monitor for symptoms,Practice good hygiene
+Brain Tumour,Follow a treatment plan,Engage in physical therapy,Practice cognitive exercises,Monitor for symptoms,Stay hydrated
+Coronavirus disease 2019 (COVID-19),Rest and hydrate,Follow prescribed medications,Monitor symptoms,Practice good hygiene,Isolate to prevent spread
+Lupus erythematosus,Follow prescribed medications,Engage in low-impact exercises,Practice stress management,Stay hydrated,Consume an anti-inflammatory diet
+Carpal Tunnel Syndrome,Perform wrist exercises,Use ergonomic tools,Take frequent breaks,Practice good posture,Apply cold compresses
+Lymphoma,Follow a treatment plan,Engage in light physical activity,Consume a balanced diet,Stay hydrated,Monitor for symptoms
+Insomnia,Practice good sleep hygiene,Follow a consistent sleep schedule,Avoid caffeine and alcohol before bed,Engage in relaxation techniques,Create a comfortable sleep environment
+Goitre,Follow prescribed medications,Consume iodine-rich foods,Stay hydrated,Engage in light physical activity,Monitor symptoms
+Polycystic ovary syndrome (PCOS),Engage in regular physical activity,Follow a balanced diet,Monitor symptoms,Consult a healthcare professional,Practice good hygiene
+Rubella,Rest and hydrate,Monitor symptoms,Practice good hygiene,Follow prescribed medications,Stay away from pregnant women
+Myopia,Follow eye exercises,Use corrective lenses,Take regular breaks from screens,Practice good posture,Consult an eye care professional
+Postpartum depression/ Perinatal depression,Engage in regular physical activity,Follow a balanced diet,Practice relaxation techniques,Consult a mental health professional,Stay hydrated
+Vitamin B12 Deficiency,Consume B12-rich foods,Follow prescribed supplements,Stay hydrated,Monitor symptoms,Consult a healthcare professional
+Heat-Related Illnesses and Heat waves,Stay hydrated,Avoid strenuous activities during peak heat,Take cool showers,Use fans or air conditioning,Consume electrolyte-rich foods
+Melanoma,Follow prescribed treatment,Protect skin from sunlight,Use sunscreen regularly,Monitor skin changes,Stay hydrated
+Scrapie,Follow a balanced diet,Stay hydrated,Monitor symptoms,Consult a healthcare professional,Follow medical recommendations
+Autism,Engage in structured routines,Practice social skills training,Follow a balanced diet,Consult a healthcare professional,Engage in occupational therapy
+Sepsis,Seek immediate medical attention,Follow prescribed antibiotics,Stay hydrated,Monitor for symptoms,Consume a balanced diet
+Mouth Breathing,Practice nasal breathing exercises,Use humidifiers,Consult a healthcare professional,Stay hydrated,Address underlying conditions
+Repetitive strain injury,Take frequent breaks,Use ergonomic tools,Practice good posture,Engage in stretching exercises,Apply cold compresses
+Iron Deficiency Anemia,Consume iron-rich foods,Follow prescribed supplements,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Porphyria,Follow prescribed medications,Stay hydrated,Monitor for symptoms,Consume a balanced diet,Limit exposure to sunlight
+Bubonic plague,Seek immediate medical attention,Follow prescribed antibiotics,Rest and hydrate,Monitor for symptoms,Practice good hygiene
+Strep throat,Follow prescribed antibiotics,Stay hydrated,Rest and conserve energy,Consume soft foods,Monitor for symptoms
+Ebola,Seek immediate medical attention,Follow prescribed treatment,Rest and hydrate,Monitor for symptoms,Practice good hygiene
+Tonsillitis,Stay hydrated,Follow prescribed medications,Rest and conserve energy,Consume soft foods,Use throat lozenges
+Colitis,Follow a balanced diet,Stay hydrated,Engage in regular physical activity,Monitor symptoms,Consult a healthcare professional
+Oral Cancer,Follow prescribed treatment,Practice good oral hygiene,Monitor for symptoms,Consume a balanced diet,Stay hydrated
+Leptospirosis,Seek immediate medical attention,Follow prescribed antibiotics,Stay hydrated,Monitor for symptoms,Practice good hygiene
+Urticaria,Identify and avoid triggers,Use antihistamines,Stay hydrated,Practice good hygiene,Monitor for symptoms
+Yellow Fever,Seek medical attention,Follow prescribed treatment,Rest and hydrate,Monitor for symptoms,Practice good hygiene
+Rheumatic fever,Follow prescribed medications,Rest and hydrate,Monitor for symptoms,Practice good hygiene,Engage in regular medical check-ups
+Alcohol Abuse and Alcoholism,Engage in regular physical activity,Follow a balanced diet,Practice stress management,Join a support group,Consult a healthcare professional
+Bleeding Gums,Practice good oral hygiene,Use a soft-bristled toothbrush,Floss regularly,Consume vitamin C-rich foods,Stay hydrated
+Thalassaemia,Follow prescribed treatments,Stay hydrated,Consume a balanced diet,Monitor for symptoms,Engage in regular medical check-ups
+Glaucoma,Follow prescribed medications,Engage in regular eye check-ups,Practice eye exercises,Monitor for symptoms,Stay hydrated
+Leukemia,Follow a treatment plan,Stay hydrated,Engage in light physical activity,Monitor for symptoms,Consume a balanced diet
+Rift Valley fever,Seek immediate medical attention,Follow prescribed treatment,Rest and hydrate,Monitor for symptoms,Practice good hygiene
+Neonatal Respiratory Disease Syndrome(NRDS),Follow medical recommendations,Stay in a controlled environment,Monitor for symptoms,Ensure proper ventilation,Consult a healthcare professional
+Breast Cancer / Carcinoma,Follow a treatment plan,Engage in regular physical activity,Consume a balanced diet,Stay hydrated,Monitor for symptoms
+Legionellosis,Seek immediate medical attention,Follow prescribed antibiotics,Rest and hydrate,Monitor for symptoms,Practice good hygiene
+Hypothyroid,Follow prescribed medications,Consume iodine-rich foods,Engage in regular physical activity,Stay hydrated,Monitor for symptoms
+Botulism,Seek immediate medical attention,Follow prescribed treatment,Rest and hydrate,Monitor for symptoms,Practice good hygiene
+Eczema,Practice good skin care,Use moisturizers regularly,Stay hydrated,Follow prescribed treatments,Identify and avoid triggers
+Chickenpox,Stay hydrated,Rest and conserve energy,Use calamine lotion for itching,Monitor for symptoms,Practice good hygiene
+Interstitial cystitis,Stay hydrated,Follow prescribed treatments,Consume an anti-inflammatory diet,Practice pelvic floor exercises,Monitor symptoms
+Diabetic Retinopathy,Follow a diabetes management plan,Engage in regular eye check-ups,Practice good blood sugar control,Stay hydrated,Consume a balanced diet
+Chlamydia,Follow prescribed antibiotics,Practice safe sex,Consult a healthcare professional,Stay hydrated,Monitor for symptoms
+Endometriosis,Engage in regular physical activity,Follow prescribed treatments,Practice stress management,Stay hydrated,Consume an anti-inflammatory diet
+Asbestos-related diseases,Follow prescribed treatments,Engage in regular medical check-ups,Practice good respiratory hygiene,Stay hydrated,Monitor for symptoms
+Ear infection,Follow prescribed medications,Stay hydrated,Practice good ear hygiene,Monitor for symptoms,Avoid inserting objects into ears
+Trachoma,Practice good eye hygiene,Follow prescribed treatments,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+papilloedema,Follow a treatment plan,Engage in regular eye check-ups,Monitor for symptoms,Stay hydrated,Practice good eye hygiene
+Cerebral palsy,Engage in physical therapy,Follow prescribed treatments,Practice occupational therapy,Stay hydrated,Consume a balanced diet
+Rickets,Consume vitamin D-rich foods,Engage in regular physical activity,Follow prescribed supplements,Stay hydrated,Monitor for symptoms
+Pelvic inflammatory disease,Follow prescribed antibiotics,Stay hydrated,Practice safe sex,Monitor for symptoms,Consult a healthcare professional
+Necrotizing Fasciitis,Seek immediate medical attention,Follow prescribed treatments,Rest and hydrate,Monitor for symptoms,Practice good hygiene
+Mumps,Stay hydrated,Rest and conserve energy,Use warm or cold compresses,Monitor for symptoms,Practice good hygiene
+Progeria,Engage in physical therapy,Follow a balanced diet,Monitor for symptoms,Stay hydrated,Consult a healthcare professional
+Mononucleosis,Rest and hydrate,Follow prescribed treatments,Consume nutrient-rich foods,Use over-the-counter remedies for symptoms,Monitor for symptoms
+Carbon monoxide poisoning,Seek immediate medical attention,Follow prescribed treatments,Stay hydrated,Monitor for symptoms,Practice good ventilation
+Zika virus disease,Seek medical attention,Follow prescribed treatments,Rest and hydrate,Monitor for symptoms,Practice good hygiene
+Colorectal Cancer,Follow a treatment plan,Engage in regular physical activity,Consume a balanced diet,Stay hydrated,Monitor for symptoms
+Cancer,Follow a treatment plan,Engage in regular physical activity,Consume a balanced diet,Stay hydrated,Monitor for symptoms
+Scurvy,Consume vitamin C-rich foods,Stay hydrated,Monitor for symptoms,Engage in regular physical activity,Follow a balanced diet
+(vertigo) Paroymsal Positional Vertigo,Engage in balance exercises,Follow prescribed treatments,Practice relaxation techniques,Stay hydrated,Monitor for symptoms
+Osteomyelitis,Follow prescribed antibiotics,Rest and hydrate,Monitor for symptoms,Practice good hygiene,Follow wound care instructions
+Asthma,Follow prescribed medications,Practice breathing exercises,Stay hydrated,Monitor for symptoms,Avoid triggers
+Chorea,Follow prescribed treatments,Engage in physical therapy,Practice relaxation techniques,Stay hydrated,Monitor for symptoms
+Peritonitis,Seek immediate medical attention,Follow prescribed treatments,Rest and hydrate,Monitor for symptoms,Practice good hygiene
+Gonorrhea,Follow prescribed antibiotics,Practice safe sex,Consult a healthcare professional,Stay hydrated,Monitor for symptoms
+Down's Syndrome,Follow a balanced diet,Engage in physical therapy,Practice cognitive exercises,Consult a healthcare professional,Monitor developmental milestones
+Iritis,Follow prescribed treatments,Use eye drops as directed,Stay hydrated,Monitor for symptoms,Practice good eye hygiene
+Alzheimer,Engage in cognitive exercises,Practice physical activity,Follow a balanced diet,Stay hydrated,Monitor for symptoms
+Neoplasm,Follow a treatment plan,Engage in regular physical activity,Consume a balanced diet,Stay hydrated,Monitor for symptoms
+Tetanus,Follow vaccination schedules,Practice good wound care,Consult a healthcare professional,Engage in regular check-ups,Stay hydrated
+Crimean Congo haemorrhagic fever (CCHF),Follow protective measures,Consult a healthcare professional,Engage in regular check-ups,Stay hydrated,Monitor for symptoms
+Anaemia,Follow prescribed treatments,Consume iron-rich foods,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Narcolepsy,Follow prescribed treatments,Practice good sleep hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Vasovagal syncope,Follow prescribed treatments,Practice stress management,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Warts,Follow prescribed treatments,Practice good skin hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Diabetes,Follow prescribed treatments,Monitor blood sugar levels,Stay hydrated,Consult a healthcare professional,Engage in regular physical activity
+Common cold,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Hepatitis,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Nipah virus infection,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Parkinson's Disease,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Antepartum hemorrhage (Bleeding in late pregnancy),Follow prescribed treatments,Practice good prenatal care,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Inflammatory Bowel Disease,Follow prescribed treatments,Consume a balanced diet,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Cholera,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Keratoconjunctivitis Sicca (Dry eye syndrome),Follow prescribed treatments,Use eye drops as directed,Stay hydrated,Monitor for symptoms,Practice good eye hygiene
+Paratyphoid fever,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Presbyopia,Follow prescribed treatments,Use corrective lenses as directed,Stay hydrated,Monitor for symptoms,Practice good eye hygiene
+Calculi,Follow prescribed treatments,Stay hydrated,Monitor for symptoms,Consult a healthcare professional,Engage in regular physical activity
+Dehydration,Stay hydrated,Monitor for symptoms,Consult a healthcare professional,Engage in regular physical activity as tolerated,Follow a balanced diet
+Scabies,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Gangrene,Follow prescribed treatments,Practice good wound care,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Tay-Sachs disease,Follow prescribed treatments,Practice stress management,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Premenstrual syndrome,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Smallpox,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Yaws,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Acute encephalitis syndrome,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Osteoarthritis,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Neuralgia,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Black Death,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Laryngitis,Follow prescribed treatments,Practice good vocal hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Astigmatism,Follow prescribed treatments,Use corrective lenses as directed,Stay hydrated,Monitor for symptoms,Practice good eye hygiene
+Blindness,Follow prescribed treatments,Use assistive devices as needed,Stay hydrated,Monitor for symptoms,Consult an eye care professional
+Post Menopausal Bleeding,Follow prescribed treatments,Engage in regular check-ups,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Nasal Polyps,Follow prescribed treatments,Practice good nasal hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Chronic fatigue syndrome,Follow prescribed treatments,Engage in regular physical activity as tolerated,Practice stress management,Stay hydrated,Monitor for symptoms
+High risk pregnancy,Follow prescribed treatments,Practice good prenatal care,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Stomach ulcers,Follow prescribed treatments,Consume a balanced diet,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Trichomoniasis,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Sexually transmitted infections (STIs),Follow prescribed treatments,Practice safe sex,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Epilepsy,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Kuru,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Kala-azar/ Leishmaniasis,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Measles,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Dracunculiasis (guinea-worm disease),Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Muscular dystrophy,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Dysentery,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Irritable bowel syndrome,Follow prescribed treatments,Consume a balanced diet,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Bunion,Follow prescribed treatments,Use supportive footwear,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Scarlet fever,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Mastitis,Follow prescribed treatments,Practice good breast hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Shigellosis,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Congenital anomalies (birth defects),Follow prescribed treatments,Engage in regular check-ups,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Congestive heart disease,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Diabetes Mellitus,Follow prescribed treatments,Monitor blood sugar levels,Stay hydrated,Consult a healthcare professional,Engage in regular physical activity
+Aseptic meningitis,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Dementia,Follow prescribed treatments,Engage in cognitive exercises,Practice physical activity,Follow a balanced diet,Stay hydrated
+Puerperal sepsis,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Cavities,Follow prescribed treatments,Practice good oral hygiene,Stay hydrated,Monitor for symptoms,Consult a dentist
+Bell's Palsy,Follow prescribed treatments,Engage in physical therapy,Practice stress management,Stay hydrated,Monitor for symptoms
+Stevens-Johnson syndrome,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Quinsy,Follow prescribed treatments,Practice good oral hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+SIDS,Follow safe sleep practices,Ensure proper rest,Monitor for symptoms,Consult a healthcare professional,Engage in regular check-ups
+Genital herpes,Follow prescribed treatments,Practice safe sex,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Multiple myeloma,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Frost Bite,Follow prescribed treatments,Practice good wound care,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Appendicitis,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Chikungunya Fever,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Mad cow disease,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Rheumatism,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Toxic shock syndrome,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+SARS,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Anxiety,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+lactose intolerance,Follow prescribed treatments,Avoid dairy products,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Diphtheria,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Beriberi,Follow prescribed treatments,Consume a balanced diet,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Candidiasis,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Syphilis,Follow prescribed treatments,Practice safe sex,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Human papillomavirus,Follow prescribed treatments,Practice safe sex,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Myasthenia gravis,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Obsessive Compulsive Disorder,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Shaken Baby Syndrome,Follow prescribed guidelines,Avoid shaking babies,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Food Poisoning,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Turners Syndrome,Follow prescribed treatments,Engage in regular check-ups,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Hypertension,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Pericarditis,Follow prescribed treatments,Engage in regular physical activity as tolerated,Practice stress management,Stay hydrated,Monitor for symptoms
+Adult Inclusion Conjunctivitis,Follow prescribed treatments,Practice good eye hygiene,Stay hydrated,Monitor for symptoms,Consult an eye care professional
+Trichinosis,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Herpes Simplex,Follow prescribed treatments,Practice safe sex,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Schizophrenia,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Scrub Typhus,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Marburg fever,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Sub-conjunctival Haemorrhage,Follow prescribed treatments,Practice good eye hygiene,Stay hydrated,Monitor for symptoms,Consult an eye care professional
+Peptic ulcer disease,Follow prescribed treatments,Consume a balanced diet,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Ectopic pregnancy,Follow prescribed treatments,Practice good prenatal care,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Middle East respiratory syndrome coronavirus (MERS-CoV),Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Keratoconus,Follow prescribed treatments,Use corrective lenses as directed,Stay hydrated,Monitor for symptoms,Practice good eye hygiene
+Raynaud's Phenomenon,Follow prescribed treatments,Keep warm,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Chagas disease,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Post-herpetic neuralgia,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Gaming disorder,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Shin splints,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Preeclampsia,Follow prescribed treatments,Practice good prenatal care,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Ques fever,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Pulmonary embolism,Follow prescribed treatments,Engage in regular physical activity as tolerated,Practice stress management,Stay hydrated,Monitor for symptoms
+Bad Breath (Halitosis),Follow prescribed treatments,Practice good oral hygiene,Stay hydrated,Monitor for symptoms,Consult a dentist
+Atrophy,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Preterm birth,Follow prescribed treatments,Practice good prenatal care,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Hand,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Diarrhea,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Acquired Immuno Deficiency Syndrome,Follow prescribed treatments,Practice safe sex,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Anisometropia,Follow prescribed treatments,Use corrective lenses as directed,Stay hydrated,Monitor for symptoms,Practice good eye hygiene
+Taeniasis,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Poliomyelitis,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Acquired Capillary Haemangioma of Eyelid,Follow prescribed treatments,Practice good eye hygiene,Stay hydrated,Monitor for symptoms,Consult an eye care professional
+Rocky Mountain spotted fever,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Varicose Veins,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Orbital Dermoid,Follow prescribed treatments,Practice good eye hygiene,Stay hydrated,Monitor for symptoms,Consult an eye care professional
+Alopecia (hair loss),Follow prescribed treatments,Practice good scalp hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Hypotonia,Follow prescribed treatments,Engage in physical therapy,Practice stress management,Stay hydrated,Monitor for symptoms
+Shingles,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Sciatica,Follow prescribed treatments,Engage in physical therapy,Practice stress management,Stay hydrated,Monitor for symptoms
+Leprosy,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Condyloma,Follow prescribed treatments,Practice safe sex,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Burns,Follow prescribed treatments,Practice good wound care,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Pinguecula,Follow prescribed treatments,Use lubricating eye drops as directed,Stay hydrated,Monitor for symptoms,Consult an eye care professional
+Fibromyalgia,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Sarcoidosis,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Vitiligo,Follow prescribed treatments,Use sun protection as directed,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Lung cancer,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Chalazion,Follow prescribed treatments,Practice good eye hygiene,Stay hydrated,Monitor for symptoms,Consult an eye care professional
+Corneal Abrasion,Follow prescribed treatments,Use eye protection as directed,Stay hydrated,Monitor for symptoms,Consult an eye care professional
+Hypermetropia,Follow prescribed treatments,Use corrective lenses as directed,Stay hydrated,Monitor for symptoms,Practice good eye hygiene
+Obesity,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Campylobacter infection,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Early pregnancy loss,Follow prescribed treatments,Practice good prenatal care,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Coronary Heart Disease,Follow prescribed treatments,Engage in regular physical activity,Practice stress management,Stay hydrated,Monitor for symptoms
+Cough,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Amblyopia,Follow prescribed treatments,Use corrective lenses as directed,Stay hydrated,Monitor for symptoms,Practice good eye hygiene
+Aniseikonia,Follow prescribed treatments,Use corrective lenses as directed,Stay hydrated,Monitor for symptoms,Practice good eye hygiene
+Taeniasis/cysticercosis,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Tennis elbow,Follow prescribed treatments,Engage in physical therapy,Practice stress management,Stay hydrated,Monitor for symptoms
+Amoebiasis,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Childhood Exotropia,Follow prescribed treatments,Practice good eye hygiene,Stay hydrated,Monitor for symptoms,Consult an eye care professional
+Chronic obstructive pulmonary disease (COPD),Follow prescribed treatments,Engage in pulmonary rehabilitation,Practice stress management,Stay hydrated,Monitor for symptoms
+Kaposi’s Sarcoma,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Eclampsia,Follow prescribed treatments,Practice good prenatal care,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Guillain-Barré syndrome,Follow prescribed treatments,Engage in physical therapy,Practice stress management,Stay hydrated,Monitor for symptoms
+Brucellosis,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Amaurosis Fugax,Follow prescribed treatments,Practice good eye hygiene,Stay hydrated,Monitor for symptoms,Consult an eye care professional
+Cleft Lip and Cleft Palate,Follow prescribed treatments,Practice good oral hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Sarcoma,Follow prescribed treatments,Engage in physical therapy,Practice stress management,Stay hydrated,Monitor for symptoms
+Lice,Follow prescribed treatments,Practice good hygiene,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Tinnitus,Follow prescribed treatments,Practice stress management,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Fibroids,Follow prescribed treatments,Engage in stress management,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Myelitis,Follow prescribed treatments,Engage in physical therapy,Practice stress management,Stay hydrated,Monitor for symptoms
+Nausea and Vomiting of Pregnancy and Hyperemesis gravidarum,Follow prescribed treatments,Practice good prenatal care,Stay hydrated,Monitor for symptoms,Consult a healthcare professional
+Osteoporosis,Follow prescribed treatments,Engage in weight-bearing exercises,Practice stress management,Stay hydrated,Monitor for symptoms
+Haemophilia,Follow prescribed treatments,Practice good wound care,Stay hydrated,Monitor for symptoms,Consult a healthcare professional

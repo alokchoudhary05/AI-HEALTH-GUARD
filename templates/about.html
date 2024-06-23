@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    
+</head>
+<body>
+    
+  
+    <header class="header">
+        <nav class="navbar">
+          <div class="logo"><img src="/static/images/logo.png" class="logo-main" alt="logo" title="logo"></div>
+          <ul class="nav-list">
+            <li class="navli home" style="--i:1; --clr:#0f0;"><a href="/">Home</a></li>
+            <li class="navli contact" style="--i:2; --clr:rgb(245, 61, 255);"><a href="{{ url_for('contact') }}">Contact</a></li>
+            <li class="navli about" style="--i:3; --clr:rgb(229, 255, 0); "><a href="{{ url_for('about') }}">About</a></li>
+            <li class="navli wellness" style="--i:4; --clr:rgb(255, 90, 148);"><a href="#">Wellness Tracker &#x25BF;</a>
+              <ul class="submenu">
+                <li><a href="{{ url_for('pregnancy') }}">Pregnancy Risk Prediction</a></li>
+                <li><a href="{{ url_for('heart') }}">Heart Disease Prediction</a></li>
+                <li><a href="{{ url_for('diabetes') }}">Diabetic Disease Prediction</a></li>
+            </ul>
+            </li>
+          </ul>
+    
+          <div class="hamburger">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+          </div>
+    
+        </nav>
+      </header>
+    
+      <div class="ext_menu">
+        <ul class="ex_ul">
+          <li class="ex_navli home" style="--i:1; --clr:#0f0;"><a href="/">Home</a></li>
+          <li class="ex_navli contact" style="--i:2; --clr:rgb(245, 61, 255);"><a href="{{ url_for('contact') }}">Contact</a></li>
+          <li class="ex_navli about" style="--i:3; --clr:rgb(229, 255, 0); "><a href="{{ url_for('about') }}">About</a></li>
+          <li class="ex_navli wellness" style="--i:4; --clr:rgb(255, 90, 148);"><a href="#">Wellness Tracker &#x25BF;</a>
+            <ul class="submenu">
+              <li><a href="{{ url_for('pregnancy') }}">Pregnancy Risk Prediction</a></li>
+              <li><a href="{{ url_for('heart') }}">Heart Disease Prediction</a></li>
+              <li><a href="{{ url_for('diabetes') }}">Diabetic Disease Prediction</a></li>
+          </ul>
+          </li>
+        </ul>
+      </div>
+
+  <!-- snow-fall start -->
+  <div class="snowflakes" aria-hidden="true">
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+
+
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">🌨️</div>
+    </div>
+    <div class="snowflake">
+
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="glass-effect">
+        <h2>About Us</h2>
+        <p>Welcome to AI Health Guard, where technology meets health to provide innovative solutions for a better tomorrow.</p>
+    </div>
+
+    <div class="glass-effect">
+        <h3>Our Mission</h3>
+        <p>At AI Health Guard, our mission is to harness the power of artificial intelligence to revolutionize the healthcare industry. We strive to deliver advanced, personalized healthcare solutions that improve the quality of life for individuals and communities worldwide.</p>
+    </div>
+
+    <div class="glass-effect">
+        <h3>Who We Are</h3>
+        <p>AI Health Guard is a team of dedicated professionals, including data scientists, medical experts, software developers, and AI specialists. Our diverse team is united by a common goal: to create cutting-edge AI-driven tools that enhance healthcare delivery, diagnosis, and patient care.</p>
+    </div>
+
+    <div class="glass-effect">
+        <h3>What We Do</h3>
+        <p>We offer a range of AI-powered healthcare services and products designed to meet the evolving needs of the healthcare sector. Our offerings include:</p>
+        <ul>
+            <li><strong>AI Diagnostics:</strong> Utilizing machine learning algorithms to provide accurate and timely diagnosis.</li>
+            <li><strong>Predictive Analytics:</strong> Helping healthcare providers anticipate patient needs and outcomes.</li>
+            <li><strong>Personalized Treatment Plans:</strong> Crafting individualized care plans based on comprehensive data analysis.</li>
+            <li><strong>Remote Monitoring:</strong> Enabling continuous patient monitoring through smart devices and AI.</li>
+        </ul>
+    </div>
+
+    <div class="glass-effect">
+        <h3>Contact Us</h3>
+        <p>We invite you to join us on this exciting journey towards a healthier future. For more information about our services and products, or to get in touch with our team, please contact us at:</p>
+        <p><strong>Email:</strong> alok_2312res77@iitp.ac.in</p>
+        <p><strong>Phone:</strong> +91-9341776554</p>
+        <p><strong>Address:</strong> Indian Instuite of Technology-Patna, Administrative Building, 1st Floor (R.No.405), 3rd Floor (R.No.301) Bihta, Patna, Bihar, 801103, India</p>
+    </div>
+</div>
+  
+<script>
+    document.querySelector('.hamburger').addEventListener('click', () => {
+    document.querySelector('.hamburger').classList.toggle('active');
+    document.querySelector('.ext_menu').classList.toggle('active');
+  });
+</script>
+</body>
+</html>

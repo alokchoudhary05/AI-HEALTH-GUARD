@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ai Health Guard</title>
+  <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+  <link rel="stylesheet" href="\static\css\style.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+  <link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+/>
+
+<style>
+  /* Styles for the autocomplete suggestions dropdown */
+  .autocomplete-suggestions {
+    border-top: none;
+    margin-top: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-top: none;
+    z-index: 99;
+    background-color: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(20px);
+    width: 100%;
+    max-width: 700px;
+    max-height: 200px;
+    overflow-y: auto;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0 0 5px 5px;
+    box-sizing: border-box;
+    color: aquamarine;
+    border-radius: 5px;
+    font-size: 1.0em;
+    overflow-x: hidden;
+    font-family: 'Merriweather';
+  }
+
+  .autocomplete-suggestions::-webkit-scrollbar {
+    width: 12px;
+}
+
+.autocomplete-suggestions::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 5px;
+}
+
+.autocomplete-suggestions::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    border: 2px solid transparent;
+    background-clip: padding-box;
+}
+
+.autocomplete-suggestions::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.4);
+}
+
+.autocomplete-suggestions {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(255, 255, 255, 0.2) rgba(255, 255, 255, 0.1);
+}
+
+.autocomplete-suggestions::-moz-scrollbar {
+    width: 12px;
+}
+
+.autocomplete-suggestions::-moz-scrollbar-track {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 5px;
+}
+
+.autocomplete-suggestions::-moz-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    border: 2px solid transparent;
+    background-clip: padding-box;
+}
+
+.autocomplete-suggestions::-moz-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.4);
+}
+
+  .autocomplete-suggestion {
+    padding: 10px;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+
+
+  .autocomplete-suggestion:hover {
+    background-color: rgba(255, 255, 255, 0,.3);
+  }
+
+ 
+</style>
+
+</head>
+<body>
+
+  
+
+  <header class="header">
+    <nav class="navbar">
+      <div class="logo"><img src="/static/images/logo.png" class="logo-main" alt="logo" title="logo"></div>
+      <ul class="nav-list">
+        <li class="navli home" style="--i:1; --clr:#0f0;"><a href="/">Home</a></li>
+        <li class="navli contact" style="--i:2; --clr:rgb(245, 61, 255);"><a href="{{ url_for('contact') }}">Contact</a></li>
+        <li class="navli about" style="--i:3; --clr:rgb(229, 255, 0); "><a href="{{ url_for('about') }}">About</a></li>
+        <li class="navli wellness" style="--i:4; --clr:rgb(255, 90, 148);"><a href="#">Wellness Tracker &#x25BF;</a>
+          <ul class="submenu">
+            <li><a href="{{ url_for('pregnancy') }}">Pregnancy Risk Prediction</a></li>
+            <li><a href="{{ url_for('heart') }}">Heart Disease Prediction</a></li>
+            <li><a href="{{ url_for('diabetes') }}">Diabetic Disease Prediction</a></li>
+        </ul>
+        </li>
+      </ul>
+
+      <div class="hamburger">
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+      </div>
+
+    </nav>
+  </header>
+
+  <div class="ext_menu">
+    <ul class="ex_ul">
+      <li class="ex_navli home" style="--i:1; --clr:#0f0;"><a href="/">Home</a></li>
+      <li class="ex_navli contact" style="--i:2; --clr:rgb(245, 61, 255);"><a href="{{ url_for('contact') }}">Contact</a></li>
+      <li class="ex_navli about" style="--i:3; --clr:rgb(229, 255, 0); "><a href="{{ url_for('about') }}">About</a></li>
+      <li class="ex_navli wellness" style="--i:4; --clr:rgb(255, 90, 148);"><a href="#">Wellness Tracker &#x25BF;</a>
+        <ul class="submenu">
+          <li><a href="{{ url_for('pregnancy') }}">Pregnancy Risk Prediction</a></li>
+          <li><a href="{{ url_for('heart') }}">Heart Disease Prediction</a></li>
+          <li><a href="{{ url_for('diabetes') }}">Diabetic Disease Prediction</a></li>
+      </ul>
+      </li>
+    </ul>
+  </div>
+
+  
+  <!-- snow-fall start -->
+  <div class="snowflakes" aria-hidden="true">
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">🌨️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">🌨️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+
+
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">🌨️</div>
+    </div>
+    <div class="snowflake">
+
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">❄️</div>
+    </div>
+    <div class="snowflake">
+      <div class="inner">🌨️</div>
+    </div>
+  </div>
+  
+
+
+ <div class="middle_section">
+ <div class="types">
+  <h2 id="typing"></h2>
+ </div>
+
+  <div class="hero">
+   <img src="/static/images/doctor.png" />
+   <div class="img_desc"><p>Welcome to AI Health Guard. Our innovative platform uses advanced data science and machine learning to predict diseases, offer personalized medical advice, and provide customized wellness plans. AI Health Guard is a groundbreaking addition to health technology, offering a proactive and personalized approach to health maintenance and disease prevention. Explore our features to take control of your health today.
+  </p> </div>
+  </div>
+  <div class="img_sec_end"></div>
+  <h3 class="predict_text">Enter The Symptoms Below ↓ To Predict The Disease </h3>
+  <br><br>
+  <div class="search-container">
+    <div class="search">
+      <input type="text" class="search__input" placeholder="Type your Problem">
+      <button class="search__button">
+        <svg class="search__icon" aria-hidden="true" viewBox="0 0 24 24">
+          <g>
+            <path d="M21.53 20.47l-3.66-3.66C19.195 15.24 20 13.214 20 11c0-4.97-4.03-9-9-9s-9 4.03-9 9 4.03 9 9 9c2.215 0 4.24-.804 5.808-2.13l3.66 3.66c.147.146.34.22.53.22s.385-.073.53-.22c.295-.293.295-.767.002-1.06zM3.5 11c0-4.135 3.365-7.5 7.5-7.5s7.5 3.365 7.5 7.5-3.365 7.5-7.5 7.5-7.5-3.365-7.5-7.5z"></path>
+          </g>
+        </svg>
+      </button>
+    </div>
+  </div>
+
+<h2 class="sec_heading animate__animated animate__bounce">Newsletter's / Blog</h2>
+
+  <div class="cards">
+    <div class="card card_1" style="--clr:rgb(227, 177, 41);">
+      <img src="https://static.vecteezy.com/system/resources/thumbnails/025/279/578/small_2x/3d-white-and-blue-pill-3d-rendering-capsule-pill-blue-medical-pill-3d-render-illustration-png.png" alt="medicine" class="card_img card1_img"/>
+      <p class="card_desc card1_desc">WHO issues warning on falsified medicines used for diabetes treatment and weight loss</p>
+      <a href="https://www.who.int/news/item/20-06-2024-who-issues-warning-on-falsified-medicines-used-for-diabetes-treatment-and-weight-loss"><button class="card_btn card1_btn">Click Here</button></a>
+    </div>
+
+    <div class="card card_2" style="--clr:rgba(0, 123, 255, 0.934);">
+      <img src="/static/images/niddle.png" alt="niddle png" class="card_img card2_img"/>
+      <p class="card_desc card2_desc">Chad eliminates human African trypanosomiasis as a public health problem</p>
+      <a href="https://www.who.int/news/item/20-06-2024-chad-eliminates-human-african-trypanosomiasis-as-a-public-health-problem"><button class="card_btn card2_btn">Click Here</button></a>
+    </div>
+    <div class="card card_3" style="--clr:rgba(255, 0, 38, 0.872);">
+      
+      <img src="/static/images/stethoscope.png" alt="stethoscope png" class="card_img card3_img"/>
+      <p class="card_desc card3_desc">WHO releases report on state of development of antibacterials</p>
+      <a href="https://www.who.int/news/item/14-06-2024-who-releases-report-on-state-of-development-of-antibacterials"><button class="card_btn card3_btn">Click Here</button></a>
+    </div>
+  </div>
+
+
+  <footer>
+    <div class="row">
+        
+        <div class="col">
+        <img src="/static/images/logo.png" class="logo">
+        <p>Thank you for choosing AI Health Guard. We are committed to advancing healthcare through technology and predictive analytics. Feel free to explore our features and take advantage of the insights we provide.
+        </p>
+        </div>
+
+        <div class="col">
+            <h3>Office <div class="underline"><span></span></div></h3>
+            <p>Indian Instuite of Technology-Patna, Administrative Building, 1st Floor (R.No.405), 3rd Floor (R.No.301)</p>
+            <p>Bihta, Patna</p>
+            <p>Bihar, 801103, India</p>
+            <p class="email-id">alok_2312res77@iitp.ac.in</p>
+            <h4>+91-9341776554</h4>
+        </div>
+
+        <div class="col">
+            <h3>Links <div class="underline"><span></span></div></h3>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="{{ url_for('about') }}">About Us</a></li>
+                <li><a href="{{ url_for('contact') }}">Contacts</a></li>
+            </ul>
+        </div>
+
+        <div class="col">
+            <h3>Newsletter <div class="underline"><span></span></div></h3>
+            <form>
+                <i class="far fa-envelope"></i>
+                <input type="email" placeholder="Enter your email id" required>
+                <button type="submit"><i><a class="fas fa-arrow-right" href="{{ url_for('contact') }}"></a></i></button>
+            </form>
+
+            <div class="social-icons">
+                <i><a class="fab fa-linkedin" href="https://linkedin.com/in/alok-choudhary9341776554"></a></i>
+                <i><a class="fab fa-twitter" href="https://x.com/AlokChoudh78331?t=8zuH3jMz6KGa29bGpbuBzg&s=08"></a></i>
+                <l><a class="fab fa-facebook-f" href="https://www.facebook.com/profile.php?id=100066874624238&mibextid=ZbWKwL"></a></i>
+                <i><a class="fab fa-instagram" href="https://www.instagram.com/alokchoudhary__1"></a></i>
+                <i><a class="fab fa-whatsapp" href="https://web.whatsapp.com/"></a></i>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <p class="copyright">Made 💖 By aihealthguard.io - 2024 All Right Reserved</p>
+</footer>
+
+
+
+
+
+ </div>
+  
+  <!-- snowfall end here -->
+
+
+    <!-- search result card start here  -->
+
+
+    <div id="serachresult" class="search_result">
+      <div class="close-btn">&#x2715;</div>
+  
+      <div class="top_bind">
+        <h2>Search Results :</h2>
+        <hr>
+      </div>
+  
+   <div class="card_section">
+    
+    <div class="result_card rcard1"></div>
+    <div class="result_card rcard2"></div>
+    <div class="result_card rcard3"></div>
+    <div class="result_card rcard4"></div>
+    <div class="result_card rcard5"></div>
+   </div>
+    
+               
+  
+    </div>
+  
+  
+    <!-- search result car ends here -->
+
+
+
+    <!-- In Script I Do Some Changes -->
+
+
+
+  <script>
+  // Fetch unique symptoms data
+  fetch('/symptoms')
+    .then(response => response.json())
+    .then(symptoms => {
+      const searchInput = document.querySelector('.search__input');
+      const searchContainer = document.querySelector('.search-container');
+
+      searchInput.addEventListener('input', () => {
+        const inputValue = searchInput.value.split(',').pop().trim().toLowerCase();
+        const suggestions = symptoms.filter(symptom =>
+          symptom.toLowerCase().includes(inputValue)
+        );
+
+        const suggestionsContainer = document.createElement('div');
+        suggestionsContainer.classList.add('autocomplete-suggestions');
+
+        suggestions.forEach(suggestion => {
+          const suggestionElement = document.createElement('div');
+          suggestionElement.classList.add('autocomplete-suggestion');
+          suggestionElement.textContent = suggestion;
+          suggestionElement.addEventListener('click', () => {
+            const currentInput = searchInput.value.split(',');
+            currentInput.pop();
+            currentInput.push(suggestion);
+            searchInput.value = currentInput.join(', ') + ', ';
+            closeSuggestions();
+          });
+          suggestionsContainer.appendChild(suggestionElement);
+        });
+
+        closeSuggestions();
+        searchContainer.appendChild(suggestionsContainer);
+      });
+
+      function closeSuggestions() {
+        const suggestionsContainer = document.querySelector('.autocomplete-suggestions');
+        if (suggestionsContainer) {
+          suggestionsContainer.remove();
+        }
+      }
+
+      document.addEventListener('click', (event) => {
+        if (!searchInput.contains(event.target)) {
+          closeSuggestions();
+        }
+      });
+    })
+    .catch(error => console.error('Error:', error));
+
+
+
+    document.querySelector('.hamburger').addEventListener('click', () => {
+      document.querySelector('.hamburger').classList.toggle('active');
+      document.querySelector('.ext_menu').classList.toggle('active');
+    });
+
+    document.querySelector('.search__button').addEventListener('click', () => {
+      const searchInput = document.querySelector('.search__input').value.split(',');
+      if (searchInput.length > 0) {
+        const symptoms = searchInput.map(symptom => symptom.trim());
+
+        fetch('/search', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ symptoms })
+        })
+        .then(response => response.json())
+        .then(data => {
+          const resultSection = document.querySelector('#serachresult .card_section');
+          resultSection.innerHTML = `
+            <div class="result_card rcard1">
+              <h3>
+          <span class="disease-label">Disease:</span>
+           <span class="disease-name">${data.disease}</span>
+      </h3>
+        <b>
+         <strong>Description:</strong>
+        <span class="disease-description">${data.description}</span>
+          </b>
+
+            </div>
+
+            <div class="result_card rcard2">
+              <h2>Precautions</h2>
+              <ul>
+                ${data.precautions.map(item => `<li>${item}</li>`).join('')}
+              </ul>
+            </div>
+
+            <div class="result_card rcard3">
+              <h2>Medications</h2>
+              <ul>
+                ${data.medications.map(item => `<li>${item}</li>`).join('')}
+              </ul>
+            </div>
+            <div class="result_card rcard4">
+              <h2>Diet</h2>
+              <ul>
+                ${data.diet.map(item => `<li>${item}</li>`).join('')}
+              </ul>
+            </div>
+            <div class="result_card rcard5">
+              <h2>Workout</h2>
+              <ul>
+                ${data.workout.map(item => `<li>${item}</li>`).join('')}
+              </ul>
+            </div>
+          `;
+          document.querySelector('#serachresult').classList.add('active');
+        })
+        .catch(error => console.error('Error:', error));
+      }
+    });
+
+
+    
+    document.querySelector('.close-btn').addEventListener('click', () => {
+      document.querySelector('#serachresult').classList.remove('active');
+    });
+
+
+
+    new Typed('#typing', {
+      strings: ['<p id="wlcm_text">Welcome To </p><p class="org_txt"> AI Health Guard </p> ', '<p id="s_text">Your Personalized Health Advisor</p>'],
+      typeSpeed: 100,
+      loop: true,
+      smartBackspace: true,
+      cursorChar: '_',
+      shuffle: true,
+      backSpeed: 40,
+    });
+
+    var typed4 = new Typed('.search__input', {
+      strings: ['Stomach Pain', 'Belly Pain', 'Headache'],
+      typeSpeed: 70,
+      backSpeed: 10,
+      attr: 'placeholder',
+      bindInputFocusEvents: true,
+      loop: true,
+    });
+
+  </script>
+
+
+</body>
+</html>
+

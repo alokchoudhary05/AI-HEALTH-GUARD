@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pregnancy Risk Prediction Form</title>
+    <link rel="stylesheet" href="/static/css/common.css">
+    <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background: url('https://img.freepik.com/premium-vector/abstract-health-wellness-icons-medical-medical-treatment-modern-medical-invention_36402-1247.jpg?w=1060') center no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            background-repeat: no-repeat;
+            overflow-x: hidden;
+        }
+        .form-container {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+            width: 90%;
+            max-width: 600px;
+            margin: 100px auto;
+        }
+        h1 {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+        form {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            justify-content: space-between;
+        }
+        .form-group {
+            flex: 0 1 100%;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: white;
+            font-weight: bold;
+        }
+        input {
+            width: 100%;
+            padding: 12px;
+            border: none;
+            border-radius: 5px;
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            font-size: 16px;
+        }
+        button {
+            width: 100%;
+            margin-top: 30px;
+            padding: 15px;
+            border: none;
+            border-radius: 5px;
+            background: rgba(255, 255, 255, 0.3);
+            color: white;
+            cursor: pointer;
+            transition: background 0.3s ease;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        button:hover {
+            background: rgba(255, 255, 255, 0.4);
+        }
+        @media (max-width: 768px) {
+            form {
+                gap: 20px;
+            }
+        }
+        .preg_result{
+            position: relative;
+            display: flex;
+            justify-content: space-around;
+            left: 50%;
+            transform: translate(-50%);
+            flex-direction: column;
+            text-align: center;
+        }
+        .preg_result h3{
+            color: rgb(110, 0, 96);
+            font-size: 1.5em;
+        }
+        .preg_result span{
+            color: rgb(104, 232, 6);
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+          <div class="logo"><img src="/static/images/logo.png" class="logo-main" alt="logo" title="logo"></div>
+          <ul class="nav-list">
+            <li class="navli home" style="--i:1; --clr:#0f0;"><a href="/">Home</a></li>
+            <li class="navli contact" style="--i:2; --clr:rgb(245, 61, 255);"><a href="{{ url_for('contact') }}">Contact</a></li>
+            <li class="navli about" style="--i:3; --clr:rgb(229, 255, 0); "><a href="{{ url_for('about') }}">About</a></li>
+            <li class="navli wellness" style="--i:4; --clr:rgb(255, 90, 148);"><a href="#">Wellness Tracker &#x25BF;</a>
+              <ul class="submenu">
+                <li><a href="{{ url_for('pregnancy') }}">Pregnancy Risk Prediction</a></li>
+                <li><a href="{{ url_for('heart') }}">Heart Disease Prediction</a></li>
+                <li><a href="{{ url_for('diabetes') }}">Diabetic Disease Prediction</a></li>
+            </ul>
+            </li>
+          </ul>
+    
+          <div class="hamburger">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+          </div>
+    
+        </nav>
+      </header>
+    
+      <div class="ext_menu">
+        <ul class="ex_ul">
+          <li class="ex_navli home" style="--i:1; --clr:#0f0;"><a href="/">Home</a></li>
+          <li class="ex_navli contact" style="--i:2; --clr:rgb(245, 61, 255);"><a href="{{ url_for('contact') }}">Contact</a></li>
+          <li class="ex_navli about" style="--i:3; --clr:rgb(229, 255, 0); "><a href="{{ url_for('about') }}">About</a></li>
+          <li class="ex_navli wellness" style="--i:4; --clr:rgb(255, 90, 148);"><a href="#">Wellness Tracker &#x25BF;</a>
+            <ul class="submenu">
+                <li><a href="{{ url_for('pregnancy') }}">Pregnancy Risk Prediction</a></li>
+                <li><a href="{{ url_for('heart') }}">Heart Disease Prediction</a></li>
+                <li><a href="{{ url_for('diabetes') }}">Diabetic Disease Prediction</a></li>
+          </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div class="form-container">
+        <h1>Pregnancy Risk Prediction</h1>
+        <form id="pregnancy-form" method="post">
+            <div class="form-group">
+                <label for="age">Age of the Person:</label>
+                <input type="number" id="age" name="age" required min="0" max="120">
+            </div>
+            <div class="form-group">
+                <label for="blood_pressure">Diastolic Blood Pressure (mmHg):</label>
+                <input type="number" id="blood_pressure" name="diastolicBP" required min="0" max="200">
+            </div>
+            <div class="form-group">
+                <label for="blood_glucose">Blood Glucose (mmol/L):</label>
+                <input type="number" id="blood_glucose" name="BS" required min="0" step="0.1">
+            </div>
+            <div class="form-group">
+                <label for="body_temperature">Body Temperature (Celsius):</label>
+                <input type="number" id="body_temperature" name="bodyTemp" required min="30" max="45" step="0.1">
+            </div>
+            <div class="form-group">
+                <label for="heart_rate">Heart Rate (beats per minute):</label>
+                <input type="number" id="heart_rate" name="heartRate" required min="0" max="250">
+            </div>
+            <button type="submit" id="submit">Predict Risk</button>
+        </form>
+    </div>
+
+    <div id="serachresult" class="search_result">
+        <div class="close-btn">&#x2715;</div>
+        <div class="top_bind">
+          <h2>Search Results :</h2>
+          <hr>
+        </div>
+        <div class="card_section">
+          <div class="result_card rcard1"></div>
+        </div>
+      </div>
+  
+    <div class="animation1">
+        <dotlottie-player src="https://lottie.host/0cb393f6-3a61-42a2-aead-aa2ac4b8a58d/YUh8rRe1nx.json" background="transparent" speed="1" style="width: 300px; height: 300px" direction="1" playMode="normal" loop autoplay></dotlottie-player>
+    </div>
+    
+    <div class="animation2">
+        <dotlottie-player src="https://lottie.host/4c2dff67-5e98-4392-9829-c1a5324cc277/Ql0OShTDzY.json" background="transparent" speed="1" style="width: 200px; height: 200px" direction="1" playMode="normal" loop autoplay></dotlottie-player>
+    </div>
+    
+    <script>
+        document.querySelector('.hamburger').addEventListener('click', () => {
+            document.querySelector('.hamburger').classList.toggle('active');
+            document.querySelector('.ext_menu').classList.toggle('active');
+        });
+
+        document.querySelector('.close-btn').addEventListener('click', () => {
+            document.querySelector('#serachresult').classList.remove('active');
+        });
+
+        document.getElementById('pregnancy-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const formData = new FormData(e.target);
+            const data = {};
+            formData.forEach((value, key) => data[key] = value);
+
+            const response = await fetch('{{ url_for('pregnancy') }}', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            });
+            
+            const result = await response.json();
+            
+            document.querySelector('#serachresult .result_card').innerHTML = `
+                <div class="preg_result">
+                    <h3>Risk Level ↓ </h3>
+                    <p><b><span style="color: ${result.color};">${result.risk_level}</span></p></b>
+                </div>
+            `;
+            document.querySelector('#serachresult').classList.add('active');
+        });
+    </script>
+</body>
+</html>
