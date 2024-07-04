@@ -347,15 +347,13 @@
         color: rgb(1, 180, 55);
     }
     #wlcm_text{
-        color: rgb(226, 194, 52);
+        color: rgb(209, 72, 204);
     }
     .org_txt{
-        background:linear-gradient(75deg,#0f0,#ff0,violet,cyan,gold,orange,lightgreen,rgb(148, 30, 232));
-        -webkit-text-fill-color: transparent;
-        -webkit-background-clip: text;
+        color: rgb(202, 8, 160);
     }
     #s_text{
-      color: #22ff2d;
+      color: #65e96c;
     }
     .middle_section .cards {
         position: relative;
